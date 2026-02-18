@@ -433,14 +433,14 @@
           "Tempo 30": {
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 3,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 0
+                "5": 3
               },
-              "total": 0,
-              "average": 0
+              "total": 7,
+              "average": 3
             },
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
@@ -452,10 +452,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 5
             },
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.2
@@ -497,10 +497,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 6
               },
-              "total": 0,
-              "average": 0
+              "total": 6,
+              "average": 5
             },
             "cumulativeRating": 4.8,
             "prevCumulativeRating": 4.8
@@ -512,10 +512,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
@@ -527,10 +527,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
@@ -586,11 +586,11 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0,
-                "5": 0
+                "4": 1,
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 4.5
             },
             "cumulativeRating": 4.1,
             "prevCumulativeRating": 4.1
@@ -621,10 +621,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 5
             },
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
@@ -636,10 +636,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 3
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 5
             },
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
@@ -662,14 +662,14 @@
           "Puff Shoulder Bag": {
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 3
             },
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
@@ -758,12 +758,12 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 0,
-                "4": 0,
-                "5": 0
+                "3": 1,
+                "4": 3,
+                "5": 6
               },
-              "total": 0,
-              "average": 0
+              "total": 10,
+              "average": 4.5
             },
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.6
@@ -775,10 +775,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
@@ -787,13 +787,13 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 0,
+                "2": 1,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 5
               },
-              "total": 0,
-              "average": 0
+              "total": 6,
+              "average": 4.5
             },
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.2
