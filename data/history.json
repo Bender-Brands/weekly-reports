@@ -433,14 +433,14 @@
           "Tempo 30": {
             "stats": {
               "stars": {
-                "1": 2,
+                "1": 0,
                 "2": 0,
-                "3": 1,
+                "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 0
               },
-              "total": 6,
-              "average": 3.33
+              "total": 0,
+              "average": 0
             },
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
@@ -452,10 +452,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 2
+                "5": 0
               },
-              "total": 2,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.2
@@ -467,10 +467,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
@@ -496,11 +496,11 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 1,
-                "5": 7
+                "4": 0,
+                "5": 0
               },
-              "total": 8,
-              "average": 4.88
+              "total": 0,
+              "average": 0
             },
             "cumulativeRating": 4.8,
             "prevCumulativeRating": 4.8
@@ -512,10 +512,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
@@ -527,10 +527,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
@@ -586,11 +586,11 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 1,
-                "5": 1
+                "4": 0,
+                "5": 0
               },
-              "total": 2,
-              "average": 4.5
+              "total": 0,
+              "average": 0
             },
             "cumulativeRating": 4.1,
             "prevCumulativeRating": 4.1
@@ -613,13 +613,241 @@
         }
       },
       "Vandel": {
-        "products": {}
+        "products": {
+          "Puff Laptop Sleeve": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.7,
+            "prevCumulativeRating": 4.7
+          },
+          "Neoprene Laptop Sleeve": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.7,
+            "prevCumulativeRating": 4.7
+          },
+          "Packing Cubes": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+              },
+              "total": 2,
+              "average": 5
+            },
+            "cumulativeRating": 4.7,
+            "prevCumulativeRating": 4.7
+          },
+          "Puff Shoulder Bag": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.6,
+            "prevCumulativeRating": 4.6
+          },
+          "Shinny Puff": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.7,
+            "prevCumulativeRating": 4.7
+          },
+          "Vandel Pocket": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.4,
+            "prevCumulativeRating": 4.4
+          },
+          "Corduroy Tote": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.6,
+            "prevCumulativeRating": 4.7
+          },
+          "Airpods Cases": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.3,
+            "prevCumulativeRating": 4.3
+          },
+          "Hanging Toiletry Bag": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.7,
+            "prevCumulativeRating": 4.7
+          }
+        }
       },
       "Solia": {
-        "products": {}
+        "products": {
+          "Magnesium Lotion": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.5,
+            "prevCumulativeRating": 4.6
+          },
+          "Shower Steamer - Cold Rescue": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.2,
+            "prevCumulativeRating": 4.2
+          },
+          "Shower Steamers - Sleep/Wake": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.3,
+            "prevCumulativeRating": 4.2
+          }
+        }
       },
       "Alta": {
-        "products": {}
+        "products": {
+          "Mini Loops": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.6,
+            "prevCumulativeRating": 4.6
+          },
+          "Booty Bands": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.5,
+            "prevCumulativeRating": 4.5
+          },
+          "Resistance Bands": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 4.2,
+            "prevCumulativeRating": 4.2
+          }
+        }
       }
     }
   }
