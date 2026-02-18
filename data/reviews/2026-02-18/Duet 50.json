@@ -1,0 +1,86 @@
+[
+  {
+    "reviewTitle": "Los recomiendo muy aceptable",
+    "reviewDescription": "Bastante buenos, dira mucho su batería, los recomiendo al 100%",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1JCBM4GW6CXSJ",
+    "date": "2026-02-14",
+    "reviewedIn": "Reviewed in the United States on February 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1JCBM4GW6CXSJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: Duet 50 Pro, Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "Duet 50 Pro"
+      },
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHWBLH4ZLQ7W6FEIF3BE6YNXA3Q/ref=cm_cr_arp_mb_gw_tr",
+    "userId": "AFHWBLH4ZLQ7W6FEIF3BE6YNXA3Q",
+    "position": 1,
+    "totalCategoryRatings": 2841,
+    "totalCategoryReviews": 1111,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B085VL4FLB?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B085VL4FLB&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B085VL4FLB",
+    "productOriginalAsin": "B0BMZFTYR9",
+    "variantAsin": "B085VL4FLB",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0BMZFTYR9",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Great base",
+    "reviewDescription": "These are awesome sound good base is good. The batteries is good until your ex-wife steals them then you don’t have any you buy some more she steal those too what am I gonna do?",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3O02I4GHHGGDM",
+    "date": "2026-02-14",
+    "reviewedIn": "Reviewed in the United States on February 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3O02I4GHHGGDM",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: Duet 50 Pro, Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "Duet 50 Pro"
+      },
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGICCND7UM5KXUYKFD5F32GX5PMA/ref=cm_cr_arp_mb_gw_tr",
+    "userId": "AGICCND7UM5KXUYKFD5F32GX5PMA",
+    "position": 2,
+    "totalCategoryRatings": 2841,
+    "totalCategoryReviews": 1111,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B085VL4FLB?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B085VL4FLB&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B085VL4FLB",
+    "productOriginalAsin": "B0BMZFTYR9",
+    "variantAsin": "B085VL4FLB",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0BMZFTYR9",
+    "country": "United States",
+    "countryCode": null
+  }
+]

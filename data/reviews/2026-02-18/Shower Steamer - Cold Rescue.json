@@ -1,0 +1,44 @@
+[
+  {
+    "reviewTitle": "Excellent product",
+    "reviewDescription": "I love the eucalyptus and menthol shower steamers. They smell so good, help stuffy noses feel better, and can be broken in half if I want to use a smaller amount for one of my kids. Great product and will buy again!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R36W34BD6W4ZN7",
+    "date": "2026-02-12",
+    "reviewedIn": "Reviewed in the United States on February 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R36W34BD6W4ZN7",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Eucalyptus Menthol, Size: 1 Count (Pack of 7)",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Eucalyptus Menthol"
+      },
+      {
+        "key": "Size",
+        "value": "1 Count (Pack of 7)"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHFQI4NQJSTEOZYGMX3QEEKJG7SQ/ref=cm_cr_arp_mb_gw_tr",
+    "userId": "AHFQI4NQJSTEOZYGMX3QEEKJG7SQ",
+    "position": 1,
+    "totalCategoryRatings": 68,
+    "totalCategoryReviews": 61,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBT7L59?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBT7L59&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBT7L59",
+    "productOriginalAsin": "B0GHS8FBPT",
+    "variantAsin": "B0FHBT7L59",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GHS8FBPT",
+    "country": "United States",
+    "countryCode": null
+  }
+]

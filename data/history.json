@@ -1,0 +1,854 @@
+[
+  {
+    "date": "2026-02-18",
+    "brands": {
+      "Back Bay": {
+        "products": {
+          "Tempo 30": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Duet 50": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Slim Running Belt": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Runner 60": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Kids + Slim Earplugs": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Runner 40 Relaunch": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "SlimPlugs": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "FirstClass 50": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Clearcall 70": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Slim 20": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Bluetoth Sleep Mask": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Bluetoth Headband": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      },
+      "Vandel": {
+        "products": {
+          "Puff Laptop Sleeve": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Neoprene Laptop Sleeve": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Packing Cubes": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Puff Shoulder Bag": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Shinny Puff": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Vandel Pocket": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Corduroy Tote": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Airpods Cases": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Hanging Toiletry Bag": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      },
+      "Solia": {
+        "products": {
+          "Magnesium Lotion": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Shower Steamer - Cold Rescue": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Shower Steamers - Sleep/Wake": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      },
+      "Alta": {
+        "products": {
+          "Mini Loops": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Booty Bands": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Resistance Bands": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "brands": {
+      "Back Bay": {
+        "products": {
+          "Tempo 30": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Duet 50": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Slim Running Belt": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Runner 60": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Kids + Slim Earplugs": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Runner 40 Relaunch": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "SlimPlugs": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "FirstClass 50": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Clearcall 70": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Slim 20": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Bluetoth Sleep Mask": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Bluetoth Headband": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      },
+      "Vandel": {
+        "products": {
+          "Puff Laptop Sleeve": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Neoprene Laptop Sleeve": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Packing Cubes": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Puff Shoulder Bag": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Shinny Puff": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Vandel Pocket": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Corduroy Tote": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Airpods Cases": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Hanging Toiletry Bag": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      },
+      "Solia": {
+        "products": {
+          "Magnesium Lotion": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Shower Steamer - Cold Rescue": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Shower Steamers - Sleep/Wake": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      },
+      "Alta": {
+        "products": {
+          "Mini Loops": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Booty Bands": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          },
+          "Resistance Bands": {
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
+          }
+        }
+      }
+    }
+  }
+]
