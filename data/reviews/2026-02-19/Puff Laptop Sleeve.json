@@ -1,0 +1,44 @@
+[
+  {
+    "reviewTitle": "simple and cute",
+    "reviewDescription": "Exactly what I wanted!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2J4W4Q0ZDD3DI",
+    "date": "2026-02-14",
+    "reviewedIn": "Reviewed in the United States on February 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2J4W4Q0ZDD3DI",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: z4. Sand Crunch, Size: 13-14 Inch",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "z4. Sand Crunch"
+      },
+      {
+        "key": "Size",
+        "value": "13-14 Inch"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFRVK7K4FICFC2FL3YCIWI3QPW2A/ref=cm_cr_arp_mb_gw_tr",
+    "userId": "AFRVK7K4FICFC2FL3YCIWI3QPW2A",
+    "position": 1,
+    "totalCategoryRatings": 5875,
+    "totalCategoryReviews": 1369,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6NHM77Q?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6NHM77Q&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6NHM77Q",
+    "productOriginalAsin": "B09HSRT8NG",
+    "variantAsin": "B0C6NHM77Q",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09HSRT8NG",
+    "country": "United States",
+    "countryCode": null
+  }
+]
