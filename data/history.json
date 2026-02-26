@@ -458,24 +458,22 @@
       "Back Bay": {
         "products": {
           "Tempo 30": {
-            "asin": "B09DB8XK9Y",
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 0,
+                "2": 1,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 3
               },
-              "total": 0,
-              "average": 0
+              "total": 4,
+              "average": 4.25
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
-            "prevCumulativeRating": 4.2
+            "prevCumulativeRating": 4.2,
+            "asin": "B09DB8XK9Y"
           },
           "Duet 50": {
-            "asin": "B0BMZFTYR9",
             "stats": {
               "stars": {
                 "1": 0,
@@ -487,12 +485,11 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
-            "prevCumulativeRating": 4.3
+            "prevCumulativeRating": 4.3,
+            "asin": "B0BMZFTYR9"
           },
           "Slim Running Belt": {
-            "asin": "B08CHMB1PP",
             "stats": {
               "stars": {
                 "1": 0,
@@ -502,14 +499,13 @@
                 "5": 1
               },
               "total": 1,
-              "average": 5
+              "average": 5.0
             },
-            "newReviewsKeepa": 1,
             "cumulativeRating": 4.4,
-            "prevCumulativeRating": 4.4
+            "prevCumulativeRating": 4.4,
+            "asin": "B08CHMB1PP"
           },
           "Runner 60": {
-            "asin": "B0BRL5KJ96",
             "stats": {
               "stars": {
                 "1": 0,
@@ -521,29 +517,27 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
-            "prevCumulativeRating": 4.2
+            "prevCumulativeRating": 4.2,
+            "asin": "B0BRL5KJ96"
           },
           "Kids + Slim Earplugs": {
-            "asin": "B0GKQK8XBZ",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 4
+                "5": 10
               },
-              "total": 4,
-              "average": 5
+              "total": 10,
+              "average": 5.0
             },
-            "newReviewsKeepa": 4,
             "cumulativeRating": 4.8,
-            "prevCumulativeRating": 4.8
+            "prevCumulativeRating": 4.8,
+            "asin": "B0GKQK8XBZ"
           },
           "Runner 40 Relaunch": {
-            "asin": "B0FM1K5C1D",
             "stats": {
               "stars": {
                 "1": 0,
@@ -555,12 +549,11 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.4,
-            "prevCumulativeRating": 4.4
+            "prevCumulativeRating": 4.4,
+            "asin": "B0FM1K5C1D"
           },
           "SlimPlugs": {
-            "asin": "B0F964YYYW",
             "stats": {
               "stars": {
                 "1": 0,
@@ -572,29 +565,27 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
-            "prevCumulativeRating": 4.3
+            "prevCumulativeRating": 4.3,
+            "asin": "B0F964YYYW"
           },
           "FirstClass 50": {
-            "asin": "B0DJVD98M1",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 1.0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
-            "prevCumulativeRating": 4.3
+            "prevCumulativeRating": 4.3,
+            "asin": "B0DJVD98M1"
           },
           "Clearcall 70": {
-            "asin": "B0DM2R7SR9",
             "stats": {
               "stars": {
                 "1": 0,
@@ -606,12 +597,11 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.1,
-            "prevCumulativeRating": 4.1
+            "prevCumulativeRating": 4.1,
+            "asin": "B0DM2R7SR9"
           },
           "Slim 20": {
-            "asin": "B0FSLGNXTH",
             "stats": {
               "stars": {
                 "1": 0,
@@ -623,101 +613,95 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
-            "prevCumulativeRating": 4.5
+            "prevCumulativeRating": 4.5,
+            "asin": "B0FSLGNXTH"
           },
           "Bluetoth Sleep Mask": {
-            "asin": "B0FSG756Y3",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5.0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.1,
-            "prevCumulativeRating": 4.1
+            "prevCumulativeRating": 4.1,
+            "asin": "B0FSG756Y3"
           },
           "Bluetoth Headband": {
-            "asin": "B0FNNSCCQT",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5.0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
-            "prevCumulativeRating": 4.2
+            "prevCumulativeRating": 4.2,
+            "asin": "B0FNNSCCQT"
           }
         }
       },
       "Vandel": {
         "products": {
           "Puff Laptop Sleeve": {
-            "asin": "B09HSRT8NG",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 3.67
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
-            "prevCumulativeRating": 4.7
+            "prevCumulativeRating": 4.7,
+            "asin": "B09HSRT8NG"
           },
           "Neoprene Laptop Sleeve": {
-            "asin": "B09KHHVNFN",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 0,
-                "4": 0,
-                "5": 0
+                "3": 1,
+                "4": 1,
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 4,
+              "average": 4.25
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
-            "prevCumulativeRating": 4.7
+            "prevCumulativeRating": 4.7,
+            "asin": "B09KHHVNFN"
           },
           "Packing Cubes": {
-            "asin": "B0DKV8J8RD",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 6
               },
-              "total": 1,
-              "average": 5
+              "total": 6,
+              "average": 5.0
             },
-            "newReviewsKeepa": 1,
             "cumulativeRating": 4.7,
-            "prevCumulativeRating": 4.7
+            "prevCumulativeRating": 4.7,
+            "asin": "B0DKV8J8RD"
           },
           "Puff Shoulder Bag": {
-            "asin": "B0FLGFQCQZ",
             "stats": {
               "stars": {
                 "1": 0,
@@ -729,12 +713,11 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.6,
-            "prevCumulativeRating": 4.6
+            "prevCumulativeRating": 4.6,
+            "asin": "B0FLGFQCQZ"
           },
           "Shinny Puff": {
-            "asin": "B0DJN5TJ5Z",
             "stats": {
               "stars": {
                 "1": 0,
@@ -746,12 +729,11 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
-            "prevCumulativeRating": 4.7
+            "prevCumulativeRating": 4.7,
+            "asin": "B0DJN5TJ5Z"
           },
           "Vandel Pocket": {
-            "asin": "B08DYDRCKD",
             "stats": {
               "stars": {
                 "1": 0,
@@ -763,12 +745,11 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.4,
-            "prevCumulativeRating": 4.4
+            "prevCumulativeRating": 4.4,
+            "asin": "B08DYDRCKD"
           },
           "Corduroy Tote": {
-            "asin": "B0C7BKR4R2",
             "stats": {
               "stars": {
                 "1": 0,
@@ -780,12 +761,11 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.6,
-            "prevCumulativeRating": 4.6
+            "prevCumulativeRating": 4.6,
+            "asin": "B0C7BKR4R2"
           },
           "Airpods Cases": {
-            "asin": "B09DR3CWK6",
             "stats": {
               "stars": {
                 "1": 0,
@@ -797,33 +777,31 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
-            "prevCumulativeRating": 4.3
+            "prevCumulativeRating": 4.3,
+            "asin": "B09DR3CWK6"
           },
           "Hanging Toiletry Bag": {
-            "asin": "B0FP6VBPFC",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 5.0
             },
-            "newReviewsKeepa": 0,
-            "cumulativeRating": 4.7,
-            "prevCumulativeRating": 4.7
+            "cumulativeRating": 4.8,
+            "prevCumulativeRating": 4.7,
+            "asin": "B0FP6VBPFC"
           }
         }
       },
       "Solia": {
         "products": {
           "Magnesium Lotion": {
-            "asin": "B0FQ698SJ8",
             "stats": {
               "stars": {
                 "1": 0,
@@ -833,69 +811,65 @@
                 "5": 3
               },
               "total": 3,
-              "average": 5
+              "average": 5.0
             },
-            "newReviewsKeepa": 3,
             "cumulativeRating": 4.5,
-            "prevCumulativeRating": 4.5
+            "prevCumulativeRating": 4.5,
+            "asin": "B0FQ698SJ8"
           },
           "Shower Steamer - Cold Rescue": {
-            "asin": "B0GHS8FBPT",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 2
               },
-              "total": 1,
-              "average": 5
+              "total": 2,
+              "average": 5.0
             },
-            "newReviewsKeepa": 1,
             "cumulativeRating": 4.2,
-            "prevCumulativeRating": 4.2
+            "prevCumulativeRating": 4.2,
+            "asin": "B0GHS8FBPT"
           },
-          "Shower Steamers - Sleep/Wake": {
-            "asin": "B0FHC7QLQB",
+          "Shower Steamers - Sleep-Wake": {
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 1,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 1,
-              "average": 3
+              "total": 2,
+              "average": 4.0
             },
-            "newReviewsKeepa": 1,
-            "cumulativeRating": 0,
-            "prevCumulativeRating": 0
+            "cumulativeRating": 4.3,
+            "prevCumulativeRating": 4.2,
+            "asin": "B0FHC7QLQB"
           }
         }
       },
       "Alta": {
         "products": {
           "Mini Loops": {
-            "asin": "B0CLMJMYRD",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 1.0
             },
-            "newReviewsKeepa": 0,
-            "cumulativeRating": 4.6,
-            "prevCumulativeRating": 4.6
+            "cumulativeRating": 4.5,
+            "prevCumulativeRating": 4.6,
+            "asin": "B0CLMJMYRD"
           },
           "Booty Bands": {
-            "asin": "B0CLMH97L8",
             "stats": {
               "stars": {
                 "1": 0,
@@ -905,14 +879,13 @@
                 "5": 1
               },
               "total": 1,
-              "average": 5
+              "average": 5.0
             },
-            "newReviewsKeepa": 1,
             "cumulativeRating": 4.5,
-            "prevCumulativeRating": 4.5
+            "prevCumulativeRating": 4.5,
+            "asin": "B0CLMH97L8"
           },
           "Resistance Bands": {
-            "asin": "B0CLMS75Z6",
             "stats": {
               "stars": {
                 "1": 0,
@@ -924,9 +897,9 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
-            "prevCumulativeRating": 4.2
+            "prevCumulativeRating": 4.2,
+            "asin": "B0CLMS75Z6"
           }
         }
       }

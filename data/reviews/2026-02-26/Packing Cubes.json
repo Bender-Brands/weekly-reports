@@ -1,40 +1,100 @@
 [
   {
-    "reviewTitle": "Awesome cubes, perfect for travel.",
-    "reviewDescription": "Love these cubes! They are made of quality materials. I like how there are multiple sizes. The design is very cute. They don't leave wrinkles. They compress down to basically nothing when in storage.",
+    "reviewId": "R3IQ3X2UWLTPLF",
+    "reviewTitle": "5 stars!",
     "ratingScore": 5,
-    "reviewImages": [],
-    "reviewId": "R2FONF21PXER97",
-    "date": "2026-02-20",
-    "reviewedIn": "Reviewed in the United States on February 20, 2026",
-    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2FONF21PXER97",
-    "reviewReaction": null,
+    "date": "2026-02-24",
+    "reviewDescription": "Really fast shipping and great product! It is very well made and I absolutely love the checkered design! You definitely need this for your next vacation!",
+    "reviewedIn": "Reviewed in the United States on February 24, 2026",
     "isVerified": true,
     "isAmazonVine": false,
-    "variant": "Color: 4. Pink Gingham",
-    "variantAttributes": [
-      {
-        "key": "Color",
-        "value": "4. Pink Gingham"
-      }
+    "variant": "Color: 2. Neutral CheckerSize: 6 Packing Cubes",
+    "reviewImages": [],
+    "productAsin": "B0DKV8J8RD",
+    "productOriginalAsin": "B0DKV8J8RD",
+    "country": "United States"
+  },
+  {
+    "reviewId": "R16ERVWD08CL0S",
+    "reviewTitle": "Seriously the best!",
+    "ratingScore": 5,
+    "date": "2026-02-24",
+    "reviewDescription": "SUCH good quality packing cubes, from the design to the hardware- honestly so so impressed!",
+    "reviewedIn": "Reviewed in the United States on February 24, 2026",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Neutral CheckerSize: 6 Packing Cubes",
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/715W1b0PoIL._SY88.jpg"
     ],
-    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5HKENUEWP2R2WHP34QKRQCNTQQ",
-    "userId": "AE5HKENUEWP2R2WHP34QKRQCNTQQ",
-    "position": 3,
-    "totalCategoryRatings": 312,
-    "totalCategoryReviews": 1,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLZJ5XLM?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLZJ5XLM&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
-    "filterByRating": "allStars",
-    "filterByKeyword": null,
-    "productAsin": "B0FLZJ5XLM",
-    "productOriginalAsin": "B0FLZJ5XLM",
-    "variantAsin": "B0FLZJ5XLM",
-    "product": {
-      "price": null,
-      "listPrice": null
-    },
-    "input": "https://www.amazon.com/dp/B0FLZJ5XLM",
-    "country": "United States",
-    "countryCode": null
+    "productAsin": "B0DKV8J8RD",
+    "productOriginalAsin": "B0DKV8J8RD",
+    "country": "United States"
+  },
+  {
+    "reviewId": "R1ZZREJRE01M8F",
+    "reviewTitle": "Awesome packing cubes!",
+    "ratingScore": 5,
+    "date": "2026-02-23",
+    "reviewDescription": "Just got these for my upcoming trip. They are spacious and great quality. I\u2019m excited to pack so I get to use these!",
+    "reviewedIn": "Reviewed in the United States on February 23, 2026",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Neutral CheckerSize: Deluxe Set (4 Cubes + Toiletry & Laundry Bags)",
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71qsyfI568L._SY88.jpg"
+    ],
+    "productAsin": "B0DKV8J8RD",
+    "productOriginalAsin": "B0DKV8J8RD",
+    "country": "United States"
+  },
+  {
+    "reviewId": "RSEJ12DQ76XDC",
+    "reviewTitle": "Improve your packing",
+    "ratingScore": 5,
+    "date": "2026-02-23",
+    "reviewDescription": "The media could not be loaded. This product is amazing good quality and make my packing so easy. I normally struggle with my husbands luggage cause but this time just 3 bags and it was all ready!",
+    "reviewedIn": "Reviewed in the United States on February 23, 2026",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 3. SandSize: 6 Packing Cubes",
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/81GoAORAg+L._SY88.jpg"
+    ],
+    "productAsin": "B0DKV8J8RD",
+    "productOriginalAsin": "B0DKV8J8RD",
+    "country": "United States"
+  },
+  {
+    "reviewId": "R2FONF21PXER97",
+    "reviewTitle": "Awesome cubes, perfect for travel.",
+    "ratingScore": 5,
+    "date": "2026-02-20",
+    "reviewDescription": "Love these cubes! They are made of quality materials. I like how there are multiple sizes. The design is very cute. They don't leave wrinkles. They compress down to basically nothing when in storage.",
+    "reviewedIn": "Reviewed in the United States on February 20, 2026",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 4. Pink GinghamSize: 4 Packing Cubes",
+    "reviewImages": [],
+    "productAsin": "B0DKV8J8RD",
+    "productOriginalAsin": "B0DKV8J8RD",
+    "country": "United States"
+  },
+  {
+    "reviewId": "R2TDVX1X1ZAOYU",
+    "reviewTitle": "My new FAV!",
+    "ratingScore": 5,
+    "date": "2026-02-19",
+    "reviewDescription": "This set is INCREDIBLE! I am so impressed with the quality and how sturdy these are - also SO cute \ud83e\udd70",
+    "reviewedIn": "Reviewed in the United States on February 19, 2026",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 4. Pink GinghamSize: 4 Packing Cubes",
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71Rxuy-UkUL._SY88.jpg"
+    ],
+    "productAsin": "B0DKV8J8RD",
+    "productOriginalAsin": "B0DKV8J8RD",
+    "country": "United States"
   }
 ]

@@ -1,40 +1,34 @@
 [
   {
-    "reviewTitle": "A little strong but well made!",
-    "reviewDescription": "I love lavender scented things but this one was a bit strong for me (great though if you are not smell sensitive!)! The packaging was beautiful and makes it very easy to gift — I also appreciate the ease in being able to cut it in half (it is scored) as most steamers are only one size!",
-    "ratingScore": 3,
-    "reviewImages": [],
-    "reviewId": "R1FR35MY0879FM",
+    "reviewId": "R1G50MP3THEOTQ",
+    "reviewTitle": "Spa Night in 10 Minutes",
+    "ratingScore": 5,
     "date": "2026-02-19",
+    "reviewDescription": "I wasn\u2019t sure what to expect, but these lavender shower steamers completely surprised me. The scent is calming without being overpowering \u2014 it fills the shower with a soft, relaxing lavender aroma that instantly makes it feel like a mini spa moment.They fizz slowly and last through most of my shower, especially if you place them out of the direct water stream. I love using one at night to wind down \u2014 it genuinely helps me relax after a long day.If you\u2019re someone who doesn\u2019t always have time for a bath but still wants that aromatherapy experience, these are perfect. Such an easy way to upgrade your shower routine!Will definitely repurchase. \ud83d\udc9c\ud83d\udebf",
     "reviewedIn": "Reviewed in the United States on February 19, 2026",
-    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1FR35MY0879FM",
-    "reviewReaction": null,
     "isVerified": true,
     "isAmazonVine": false,
-    "variant": "Scent: Lavender",
-    "variantAttributes": [
-      {
-        "key": "Scent",
-        "value": "Lavender"
-      }
+    "variant": "Scent: LavenderSize: 7-Pack",
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71Qqnr9WMRL._SY88.jpg"
     ],
-    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXPIXGJZPZGZH2GNLDCRMW7KV7A",
-    "userId": "AFXPIXGJZPZGZH2GNLDCRMW7KV7A",
-    "position": 5,
-    "totalCategoryRatings": 100,
-    "totalCategoryReviews": 1,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBTDK3Y?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBTDK3Y&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
-    "filterByRating": "allStars",
-    "filterByKeyword": null,
-    "productAsin": "B0FHBTDK3Y",
-    "productOriginalAsin": "B0FHBTDK3Y",
-    "variantAsin": "B0FHBTDK3Y",
-    "product": {
-      "price": null,
-      "listPrice": null
-    },
-    "input": "https://www.amazon.com/dp/B0FHBTDK3Y",
-    "country": "United States",
-    "countryCode": null
+    "productAsin": "B0FHC7QLQB",
+    "productOriginalAsin": "B0FHC7QLQB",
+    "country": "United States"
+  },
+  {
+    "reviewId": "R1FR35MY0879FM",
+    "reviewTitle": "A little strong but well made!",
+    "ratingScore": 3,
+    "date": "2026-02-19",
+    "reviewDescription": "I love lavender scented things but this one was a bit strong for me (great though if you are not smell sensitive!)! The packaging was beautiful and makes it very easy to gift \u2014 I also appreciate the ease in being able to cut it in half (it is scored) as most steamers are only one size!",
+    "reviewedIn": "Reviewed in the United States on February 19, 2026",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: LavenderSize: 7-Pack",
+    "reviewImages": [],
+    "productAsin": "B0FHC7QLQB",
+    "productOriginalAsin": "B0FHC7QLQB",
+    "country": "United States"
   }
 ]
