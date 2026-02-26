@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Good but...",
+    "reviewDescription": "Loved this running belt but after 2 months zipper already broke on me :(",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R36QLNBLAERM4L",
+    "date": "2026-02-24",
+    "reviewedIn": "Reviewed in the United States on February 24, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R36QLNBLAERM4L",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "2. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGTE3LDQ6JGX5N3JFABUPDH4LXHA",
+    "userId": "AGTE3LDQ6JGX5N3JFABUPDH4LXHA",
+    "position": 5,
+    "totalCategoryRatings": 1712,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0BKX1MJXH?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0BKX1MJXH&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0BKX1MJXH",
+    "productOriginalAsin": "B0BKX1MJXH",
+    "variantAsin": "B0BKX1MJXH",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0BKX1MJXH",
+    "country": "United States",
+    "countryCode": null
+  }
+]

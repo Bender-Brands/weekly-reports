@@ -1,0 +1,80 @@
+[
+  {
+    "reviewTitle": "Beautiful and comfortable earbuds!",
+    "reviewDescription": "Beautiful earbuds that are comfortable and work great. The case is beautiful and durable too!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RKR7O8BXAPXE3",
+    "date": "2026-02-23",
+    "reviewedIn": "Reviewed in the United States on February 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RKR7O8BXAPXE3",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Champagne",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Champagne"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGC3GF5SQYOILIOLFTPNHHK6LTJQ/ref=cm_cr_arp_mb_gw_tr",
+    "userId": "AGC3GF5SQYOILIOLFTPNHHK6LTJQ",
+    "position": 1,
+    "totalCategoryRatings": 147,
+    "totalCategoryReviews": 122,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLFR2RGD?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLFR2RGD&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLFR2RGD",
+    "productOriginalAsin": "B0FM1K5C1D",
+    "variantAsin": "B0FLFR2RGD",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FM1K5C1D",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Great for small ears!",
+    "reviewDescription": "Sooo secure and comfortable for small ears. I struggle with most earbuds, but the ear hook and the different size tips make these perfect for me. I want all the colors now!",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71TA8Vr25QL._SY500.jpg"
+    ],
+    "reviewId": "RLMC8H9QBWCLF",
+    "date": "2026-02-23",
+    "reviewedIn": "Reviewed in the United States on February 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RLMC8H9QBWCLF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGTZHWC4C26TKMSR2CMRFERFM76Q/ref=cm_cr_arp_mb_gw_tr",
+    "userId": "AGTZHWC4C26TKMSR2CMRFERFM76Q",
+    "position": 2,
+    "totalCategoryRatings": 147,
+    "totalCategoryReviews": 122,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLFR2RGD?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLFR2RGD&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLFR2RGD",
+    "productOriginalAsin": "B0FM1K5C1D",
+    "variantAsin": "B0FLFR2RGD",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FM1K5C1D",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -21,19 +21,19 @@
     "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHCZMYIIRL4MBLPLC5WDAUMYETA",
     "userId": "AEHCZMYIIRL4MBLPLC5WDAUMYETA",
     "position": 8,
-    "totalCategoryRatings": 105,
+    "totalCategoryRatings": 106,
     "totalCategoryReviews": 1,
     "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0CJK1K88V?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0CJK1K88V&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
     "filterByRating": "allStars",
     "filterByKeyword": null,
     "productAsin": "B0CJK1K88V",
-    "productOriginalAsin": "B0CLMH97L8",
+    "productOriginalAsin": "B0CJK1K88V",
     "variantAsin": "B0CJK1K88V",
     "product": {
       "price": null,
       "listPrice": null
     },
-    "input": "https://www.amazon.com/dp/B0CLMH97L8",
+    "input": "https://www.amazon.com/dp/B0CJK1K88V",
     "country": "United States",
     "countryCode": null
   }

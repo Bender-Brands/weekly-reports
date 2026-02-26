@@ -470,6 +470,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -486,6 +487,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -497,11 +499,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
           },
@@ -518,6 +521,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -534,6 +538,7 @@
               "total": 4,
               "average": 5
             },
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.8,
             "prevCumulativeRating": 4.8
           },
@@ -550,6 +555,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
           },
@@ -566,6 +572,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -582,6 +589,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -598,6 +606,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.1,
             "prevCumulativeRating": 4.1
           },
@@ -614,6 +623,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -630,6 +640,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.1,
             "prevCumulativeRating": 4.1
           },
@@ -646,6 +657,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           }
@@ -666,6 +678,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -682,6 +695,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -698,6 +712,7 @@
               "total": 1,
               "average": 5
             },
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -714,8 +729,9 @@
               "total": 0,
               "average": 0
             },
-            "cumulativeRating": 4.5,
-            "prevCumulativeRating": 4.5
+            "newReviewsKeepa": 0,
+            "cumulativeRating": 4.6,
+            "prevCumulativeRating": 4.6
           },
           "Shinny Puff": {
             "asin": "B0DJN5TJ5Z",
@@ -730,6 +746,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -746,6 +763,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
           },
@@ -762,6 +780,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -778,6 +797,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -794,7 +814,8 @@
               "total": 0,
               "average": 0
             },
-            "cumulativeRating": 4.8,
+            "newReviewsKeepa": 0,
+            "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           }
         }
@@ -809,11 +830,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -825,11 +847,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -839,15 +862,16 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 3
             },
-            "cumulativeRating": 4.3,
-            "prevCumulativeRating": 4.3
+            "newReviewsKeepa": 1,
+            "cumulativeRating": 0,
+            "prevCumulativeRating": 0
           }
         }
       },
@@ -866,8 +890,9 @@
               "total": 0,
               "average": 0
             },
-            "cumulativeRating": 4.5,
-            "prevCumulativeRating": 4.5
+            "newReviewsKeepa": 0,
+            "cumulativeRating": 4.6,
+            "prevCumulativeRating": 4.6
           },
           "Booty Bands": {
             "asin": "B0CLMH97L8",
@@ -882,6 +907,7 @@
               "total": 1,
               "average": 5
             },
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -898,6 +924,7 @@
               "total": 0,
               "average": 0
             },
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           }

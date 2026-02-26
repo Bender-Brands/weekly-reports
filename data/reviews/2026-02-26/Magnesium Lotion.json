@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Application is so simple and gives relief",
+    "reviewDescription": "The product is great, super easy to apply and soaks right into skin.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R37WN6ARDSKCG1",
+    "date": "2026-02-19",
+    "reviewedIn": "Reviewed in the United States on February 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R37WN6ARDSKCG1",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Unscented",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Unscented"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCJX6WGQPNF6ZYYD4QYKT6HAAKA",
+    "userId": "AFCJX6WGQPNF6ZYYD4QYKT6HAAKA",
+    "position": 7,
+    "totalCategoryRatings": 136,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  }
+]
