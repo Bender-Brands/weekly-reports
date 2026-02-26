@@ -830,12 +830,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 3
               },
-              "total": 1,
+              "total": 3,
               "average": 5
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 3,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
