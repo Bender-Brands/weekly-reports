@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Awesome cubes, perfect for travel.",
+    "reviewDescription": "Love these cubes! They are made of quality materials. I like how there are multiple sizes. The design is very cute. They don't leave wrinkles. They compress down to basically nothing when in storage.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2FONF21PXER97",
+    "date": "2026-02-20",
+    "reviewedIn": "Reviewed in the United States on February 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2FONF21PXER97",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 4. Pink Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "4. Pink Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5HKENUEWP2R2WHP34QKRQCNTQQ",
+    "userId": "AE5HKENUEWP2R2WHP34QKRQCNTQQ",
+    "position": 3,
+    "totalCategoryRatings": 310,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJ7HBSR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJ7HBSR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJ7HBSR",
+    "productOriginalAsin": "B0DKV8J8RD",
+    "variantAsin": "B0DLJ7HBSR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DKV8J8RD",
+    "country": "United States",
+    "countryCode": null
+  }
+]
