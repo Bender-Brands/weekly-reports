@@ -1,0 +1,82 @@
+[
+  {
+    "reviewTitle": "Very cute bag!",
+    "reviewDescription": "I absolutely love this toiletry bag! The color is beautiful, and the compartments are amazing. It holds so many items—small lotion bottles, facial serums, contact solution, and anything else you need. It’s lightweight, practical, and super cute!",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71CMho9SRKL._SY500.jpg"
+    ],
+    "reviewId": "RLTNIOBV84FGN",
+    "date": "2026-02-26",
+    "reviewedIn": "Reviewed in the United States on February 26, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RLTNIOBV84FGN",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLHMDVCQWCTSSWWPYZJCAKXUPMQ",
+    "userId": "AFLHMDVCQWCTSSWWPYZJCAKXUPMQ",
+    "position": 4,
+    "totalCategoryRatings": 146,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRFLDKX?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRFLDKX&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRFLDKX",
+    "productOriginalAsin": "B0FP6VBPFC",
+    "variantAsin": "B0FDRFLDKX",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FP6VBPFC",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Great product",
+    "reviewDescription": "This product is exactly what I ordered! It has plenty of room and I love the hanging feature. It will be great for my cruise. It is very durable.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71ZWW02EWVL._SY500.jpg"
+    ],
+    "reviewId": "REGZAI2BMW2LT",
+    "date": "2026-03-01",
+    "reviewedIn": "Reviewed in the United States on March 1, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/REGZAI2BMW2LT",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBUIR5LIAQMBSM7DDKGPKVER5CQ",
+    "userId": "AHBUIR5LIAQMBSM7DDKGPKVER5CQ",
+    "position": 8,
+    "totalCategoryRatings": 146,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRFLDKX?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRFLDKX&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRFLDKX",
+    "productOriginalAsin": "B0FP6VBPFC",
+    "variantAsin": "B0FDRFLDKX",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FP6VBPFC",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Made well",
+    "reviewDescription": "Arrived on time, made very well! Will definitely get a lot of great use out of them.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R25XO8Q5BDUGIB",
+    "date": "2026-02-26",
+    "reviewedIn": "Reviewed in the United States on February 26, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R25XO8Q5BDUGIB",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Seaside",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Seaside"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AH7AEBWXPYFK6W6LK24TXEHULYTA",
+    "userId": "AH7AEBWXPYFK6W6LK24TXEHULYTA",
+    "position": 8,
+    "totalCategoryRatings": 108,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0CJK1K88V?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0CJK1K88V&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0CJK1K88V",
+    "productOriginalAsin": "B0CLMH97L8",
+    "variantAsin": "B0CJK1K88V",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0CLMH97L8",
+    "country": "United States",
+    "countryCode": null
+  }
+]
