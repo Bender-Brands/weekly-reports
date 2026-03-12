@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Great fragrance, actually seems to relax me.",
+    "reviewDescription": "I love these shiwer steamers! They smell fantastic. Really nice, can be broken into smaller pieces which is great for a short shower and if you have animals who shouldn't be exposed to strong scents like lavender.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1X8GER7XCTKNB",
+    "date": "2026-03-05",
+    "reviewedIn": "Reviewed in the United States on March 5, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1X8GER7XCTKNB",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3PLYB7M7CN3EHPQFGJCVHZHFUQ",
+    "userId": "AF3PLYB7M7CN3EHPQFGJCVHZHFUQ",
+    "position": 2,
+    "totalCategoryRatings": 187,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBT7L59?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBT7L59&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBT7L59",
+    "productOriginalAsin": "B0FHC7QLQB",
+    "variantAsin": "B0FHBT7L59",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHC7QLQB",
+    "country": "United States",
+    "countryCode": null
+  }
+]
