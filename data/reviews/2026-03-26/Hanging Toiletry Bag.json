@@ -1,0 +1,118 @@
+[
+  {
+    "reviewTitle": "Feels cheap and small",
+    "reviewDescription": "This is so much smaller than it looks and feels cheaply made.",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R1ICZBUBU1GOUE",
+    "date": "2026-03-22",
+    "reviewedIn": "Reviewed in the United States on March 22, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1ICZBUBU1GOUE",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVP2BQZEFGZS62RDYDLRACMD2BQ",
+    "userId": "AEVP2BQZEFGZS62RDYDLRACMD2BQ",
+    "position": 1,
+    "totalCategoryRatings": 162,
+    "totalCategoryReviews": 143,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRX8KHN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRX8KHN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRX8KHN",
+    "productOriginalAsin": "B0FDRX8KHN",
+    "variantAsin": "B0FDRX8KHN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDRX8KHN",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Must for traveling!",
+    "reviewDescription": "This hanging bag is super handy for travel, has a hook for handing, you can store so many items in it too without it taking to much space in your bag! Good buy!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3E58CM4ZERPBV",
+    "date": "2026-03-20",
+    "reviewedIn": "Reviewed in the United States on March 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3E58CM4ZERPBV",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEWKVASNACJY235GF7532DAKTFYQ",
+    "userId": "AEWKVASNACJY235GF7532DAKTFYQ",
+    "position": 2,
+    "totalCategoryRatings": 162,
+    "totalCategoryReviews": 143,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRX8KHN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRX8KHN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRX8KHN",
+    "productOriginalAsin": "B0FDRX8KHN",
+    "variantAsin": "B0FDRX8KHN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDRX8KHN",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Good",
+    "reviewDescription": "I liked it—it has plenty of space, and it's really comfortable and cute.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71c-NLkAcuL._SY88.jpg"
+    ],
+    "reviewId": "R1AE5FRIBED1LU",
+    "date": "2026-03-19",
+    "reviewedIn": "Reviewed in the United States on March 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1AE5FRIBED1LU",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGGZSJPG4XVX5VQ3CXPVENB72GJQ",
+    "userId": "AGGZSJPG4XVX5VQ3CXPVENB72GJQ",
+    "position": 3,
+    "totalCategoryRatings": 162,
+    "totalCategoryReviews": 143,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRX8KHN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRX8KHN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRX8KHN",
+    "productOriginalAsin": "B0FDRX8KHN",
+    "variantAsin": "B0FDRX8KHN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDRX8KHN",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Best Sleep Aid EVER!!",
+    "reviewDescription": "This stuff knocks. me. out! Like, better than any sleep aid I’ve ever used. It smells really good and absorbs into the skin quickly, so no greasy stains on the sheets. I just rub a penny-sized amount to the soles of my feet, and I’m out in probably 10 minutes.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1HJRPBLI1WZTS",
+    "date": "2026-03-21",
+    "reviewedIn": "Reviewed in the United States on March 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1HJRPBLI1WZTS",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDAON6Q5RVKI4WNXYPPLJZGGB7A",
+    "userId": "AGDAON6Q5RVKI4WNXYPPLJZGGB7A",
+    "position": 4,
+    "totalCategoryRatings": 165,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Great cream",
+    "reviewDescription": "Great cream, goes on smooth and absorbs quickly. It really is scentless! Will buy again.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3QRF6GJC4C2EF",
+    "date": "2026-03-19",
+    "reviewedIn": "Reviewed in the United States on March 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3QRF6GJC4C2EF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Unscented",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Unscented"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5GQMGHGNHFRDPKEHOGSWWQE5JQ",
+    "userId": "AG5GQMGHGNHFRDPKEHOGSWWQE5JQ",
+    "position": 7,
+    "totalCategoryRatings": 165,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  }
+]

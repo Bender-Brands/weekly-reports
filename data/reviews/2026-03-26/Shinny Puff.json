@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Cute sleeve",
+    "reviewDescription": "This laptop sleeve is so cute and perfect for my laptop. Its good quality and soft padding on the inside. Also easy to clean, I just wipe it with a cloth with a little soap.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2HC73NQX2ZIRJ",
+    "date": "2026-03-23",
+    "reviewedIn": "Reviewed in the United States on March 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2HC73NQX2ZIRJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: d. Shiny White",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "d. Shiny White"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGE2TKCOANPQMBRIE3QSSWHYIL2Q",
+    "userId": "AGE2TKCOANPQMBRIE3QSSWHYIL2Q",
+    "position": 1,
+    "totalCategoryRatings": 303,
+    "totalCategoryReviews": 104,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6NV36G1?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6NV36G1&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6NV36G1",
+    "productOriginalAsin": "B0C6NV36G1",
+    "variantAsin": "B0C6NV36G1",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6NV36G1",
+    "country": "United States",
+    "countryCode": null
+  }
+]

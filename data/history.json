@@ -1398,10 +1398,10 @@
                 "2": 0,
                 "3": 1,
                 "4": 0,
-                "5": 4
+                "5": 5
               },
-              "total": 6,
-              "average": 4
+              "total": 7,
+              "average": 4.14
             },
             "newReviewsKeepa": 18,
             "cumulativeRating": 4.2,
@@ -1425,7 +1425,7 @@
             "prevCumulativeRating": 4.2
           },
           "Slim Running Belt": {
-            "asin": "B08CHMB1PP",
+            "asin": "B0DCHF8KVY",
             "stats": {
               "stars": {
                 "1": 0,
@@ -1479,14 +1479,14 @@
             "asin": "B0FM1K5C1D",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 3
             },
             "newReviewsKeepa": 3,
             "cumulativeRating": 4.3,
@@ -1500,10 +1500,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 3
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 5
             },
             "newReviewsKeepa": 3,
             "cumulativeRating": 4.3,
@@ -1623,29 +1623,29 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 4
               },
-              "total": 0,
-              "average": 0
+              "total": 4,
+              "average": 5
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
           "Packing Cubes": {
-            "asin": "B0DKV8J8RD",
+            "asin": "B0DLJ7HBSR",
             "stats": {
               "stars": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 4
               },
-              "total": 0,
-              "average": 0
+              "total": 4,
+              "average": 5
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -1674,12 +1674,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -1738,14 +1738,14 @@
             "asin": "B0FP6VBPFC",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 3.67
             },
             "newReviewsKeepa": 2,
             "cumulativeRating": 4.8,
@@ -1763,12 +1763,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 5
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.5
           },
