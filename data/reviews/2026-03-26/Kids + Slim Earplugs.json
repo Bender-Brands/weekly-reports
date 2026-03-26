@@ -35,8 +35,7 @@
     },
     "input": "https://www.amazon.com/dp/B0GKQK8XBZ",
     "country": "United States",
-    "countryCode": null,
-    "reviewerName": "YOUNG JU CHIN"
+    "countryCode": null
   },
   {
     "reviewTitle": "Amazing Product!",
@@ -76,7 +75,6 @@
     },
     "input": "https://www.amazon.com/dp/B0GKQK8XBZ",
     "country": "United States",
-    "countryCode": null,
-    "reviewerName": "Lucas Annuza"
+    "countryCode": null
   }
 ]
