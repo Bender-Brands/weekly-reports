@@ -1,5 +1,123 @@
 [
   {
+    "reviewTitle": "LOVE",
+    "reviewDescription": "These are just what I needed! Love them!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1UYUMO99LK6EP",
+    "date": "2026-03-23",
+    "reviewedIn": "Reviewed in the United States on March 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1UYUMO99LK6EP",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGY52UGHCGNWPRLIE6BMIPOR426A",
+    "userId": "AGY52UGHCGNWPRLIE6BMIPOR426A",
+    "position": 1,
+    "totalCategoryRatings": 110,
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Meg Tuck"
+  },
+  {
+    "reviewTitle": "Awesome product",
+    "reviewDescription": "Love these kids sized earplugs, they were super comfortable for my daughter to wear at the demolition derby.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/81w2ghQsM3L._SY88.jpg"
+    ],
+    "reviewId": "R23R6XNIHR0ZQ",
+    "date": "2026-03-23",
+    "reviewedIn": "Reviewed in the United States on March 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R23R6XNIHR0ZQ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Purple",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Purple"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOMD6N5N552EL7GX7SZFPUNNBNA",
+    "userId": "AFOMD6N5N552EL7GX7SZFPUNNBNA",
+    "position": 2,
+    "totalCategoryRatings": 110,
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "10/10 recommend!",
+    "reviewDescription": "I love that these are so pliable and mold to my children’s ears. My son has ADHD and these are awesome when we’re in a chaotic environment and I need him to focus in on something. My daughter also has single sided deafness so these have been great for car rides to reduce the noise from my other children!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2HXNWVG6NTZJR",
+    "date": "2026-03-23",
+    "reviewedIn": "Reviewed in the United States on March 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2HXNWVG6NTZJR",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZG7ZJKPKNUJ7KK5B5BJUVHDZNQ",
+    "userId": "AEZG7ZJKPKNUJ7KK5B5BJUVHDZNQ",
+    "position": 3,
+    "totalCategoryRatings": 110,
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Candice Bradley"
+  },
+  {
     "reviewTitle": "Useless and falls out",
     "reviewDescription": "Doesn't block out noise from passing cars and I don't live near a main road I mean my neighbors in the cul de sac pulling in. When I wake up they've always fallen out and I sleep on my back. And they're too big for me (petite adult woman). Waste of money",
     "ratingScore": 1,
@@ -20,22 +138,142 @@
     ],
     "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHIG2OP5LJP5BRLDOWGY3JKPYNSA",
     "userId": "AHIG2OP5LJP5BRLDOWGY3JKPYNSA",
-    "position": 7,
+    "position": 4,
     "totalCategoryRatings": 110,
-    "totalCategoryReviews": 1,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8D88TN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8D88TN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
     "filterByRating": "allStars",
     "filterByKeyword": null,
-    "productAsin": "B0FN8D88TN",
-    "productOriginalAsin": "B0GKQK8XBZ",
-    "variantAsin": "B0FN8D88TN",
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
     "product": {
       "price": null,
       "listPrice": null
     },
-    "input": "https://www.amazon.com/dp/B0GKQK8XBZ",
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
     "country": "United States",
-    "countryCode": null
+    "countryCode": null,
+    "reviewerName": "YOUNG JU CHIN"
+  },
+  {
+    "reviewTitle": "Works great for noise reduction !",
+    "reviewDescription": "These are great! They work perfectly, packaging is visually appealing, and the little carrying case is adorable. Highly recommend!",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71ZrdOua1YL._SY88.jpg"
+    ],
+    "reviewId": "RIDPEDBZZESS9",
+    "date": "2026-03-20",
+    "reviewedIn": "Reviewed in the United States on March 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RIDPEDBZZESS9",
+    "reviewReaction": null,
+    "isVerified": false,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIWR5RO3QN2YZGVZHX3XOJXTTLQ",
+    "userId": "AEIWR5RO3QN2YZGVZHX3XOJXTTLQ",
+    "position": 5,
+    "totalCategoryRatings": 110,
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Mommodehome"
+  },
+  {
+    "reviewTitle": "Could hear everything through them",
+    "reviewDescription": "Nope. These lasted about 20 mins til the boyfriend started lightly snoring. I could hear everything through them, tv, snoring etc. Going back to Macks. Why is every review a picture of a girls face next to them? Odd",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R21Z0DDDQ2S2GD",
+    "date": "2026-03-20",
+    "reviewedIn": "Reviewed in the United States on March 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R21Z0DDDQ2S2GD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWLVHWVQSCG4PJJOMSVFAEYDALA",
+    "userId": "AGWLVHWVQSCG4PJJOMSVFAEYDALA",
+    "position": 6,
+    "totalCategoryRatings": 110,
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Lily"
+  },
+  {
+    "reviewTitle": "They hurt your ears and stop squishing down after four or five nights use. They hurt after that.",
+    "reviewDescription": "They work pretty good for maybe four or five uses max then they don’t squish down to fit in your ear any more. These are supposed to be for small ear canals but since they puff up so soon they hurt your ears. They aren’t real great about blocking noise either. I can still hear some snoring in the next room over. They are not a good value for the money because of that. I will not buy again.",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R2COYIZUBUG35O",
+    "date": "2026-03-20",
+    "reviewedIn": "Reviewed in the United States on March 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2COYIZUBUG35O",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDN6OXIEDWD46YIECES5M2QNH3A",
+    "userId": "AFDN6OXIEDWD46YIECES5M2QNH3A",
+    "position": 7,
+    "totalCategoryRatings": 110,
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "James Chesbro"
   },
   {
     "reviewTitle": "Amazing Product!",
@@ -62,19 +300,59 @@
     "userId": "AGVNZX4FM6UCWWCCWCYIPXHILKCA",
     "position": 8,
     "totalCategoryRatings": 110,
-    "totalCategoryReviews": 1,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8D88TN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8D88TN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
     "filterByRating": "allStars",
     "filterByKeyword": null,
-    "productAsin": "B0FN8D88TN",
-    "productOriginalAsin": "B0GKQK8XBZ",
-    "variantAsin": "B0FN8D88TN",
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
     "product": {
       "price": null,
       "listPrice": null
     },
-    "input": "https://www.amazon.com/dp/B0GKQK8XBZ",
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
     "country": "United States",
-    "countryCode": null
+    "countryCode": null,
+    "reviewerName": "Lucas Annuza"
+  },
+  {
+    "reviewTitle": "Great for me",
+    "reviewDescription": "Overall, they fit really well and block out quite a bit of noise. I can sometimes hear my partner snoring, or the sound of his noise machine. They don't hurt at all, but I do have to be really mindful about how far they go into the ear canal. They are the perfect shape and fit for my ears, and have fit better than any other ear plug I've purchased (and it's been far too many).",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3VYIV7T2E1V73",
+    "date": "2026-03-19",
+    "reviewedIn": "Reviewed in the United States on March 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3VYIV7T2E1V73",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGRJV6ZCJUSL5AJ4D73YDDCKP42A",
+    "userId": "AGRJV6ZCJUSL5AJ4D73YDDCKP42A",
+    "position": 9,
+    "totalCategoryRatings": 110,
+    "totalCategoryReviews": 103,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Nat"
   }
 ]

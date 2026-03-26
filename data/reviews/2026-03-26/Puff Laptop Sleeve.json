@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Puffy iPad case",
+    "reviewDescription": "I love, love this case! So perfect for my Samsung 10\" mini pad!!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2XFYUZ2MZN5B6",
+    "date": "2026-03-20",
+    "reviewedIn": "Reviewed in the United States on March 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2XFYUZ2MZN5B6",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: g. Lilac",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "g. Lilac"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDF7J7KQZJNMSKSAHEWPNCNCQUQ",
+    "userId": "AGDF7J7KQZJNMSKSAHEWPNCNCQUQ",
+    "position": 1,
+    "totalCategoryRatings": 5918,
+    "totalCategoryReviews": 1379,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6NMXDSS?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6NMXDSS&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6NMXDSS",
+    "productOriginalAsin": "B0C6NMXDSS",
+    "variantAsin": "B0C6NMXDSS",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6NMXDSS",
+    "country": "United States",
+    "countryCode": null
+  }
+]

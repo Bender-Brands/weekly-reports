@@ -1394,16 +1394,16 @@
             "asin": "B09DB8XK9Y",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 0
+                "5": 4
               },
-              "total": 0,
-              "average": 0
+              "total": 6,
+              "average": 4
             },
-            "newReviewsKeepa": 15,
+            "newReviewsKeepa": 18,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -1462,14 +1462,14 @@
             "asin": "B0GKQK8XBZ",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 2,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 1
+                "5": 6
               },
-              "total": 2,
-              "average": 3
+              "total": 9,
+              "average": 3.89
             },
             "newReviewsKeepa": 15,
             "cumulativeRating": 4.6,
@@ -1565,13 +1565,13 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 0,
+                "2": 1,
                 "3": 0,
-                "4": 0,
-                "5": 1
+                "4": 1,
+                "5": 2
               },
-              "total": 1,
-              "average": 5
+              "total": 4,
+              "average": 4
             },
             "newReviewsKeepa": 8,
             "cumulativeRating": 4.1,
@@ -1606,10 +1606,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
             "newReviewsKeepa": 6,
             "cumulativeRating": 4.7,
@@ -1708,10 +1708,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
             "newReviewsKeepa": 2,
             "cumulativeRating": 4.6,
@@ -1797,9 +1797,9 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 6
               },
-              "total": 1,
+              "total": 6,
               "average": 5
             },
             "newReviewsKeepa": 9,
