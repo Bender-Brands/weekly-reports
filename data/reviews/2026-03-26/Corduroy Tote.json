@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Good value",
+    "reviewDescription": "Love the color. Material feels solid.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R358SZFDX1Q8F9",
+    "date": "2026-03-22",
+    "reviewedIn": "Reviewed in the United States on March 22, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R358SZFDX1Q8F9",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sangria",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sangria"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGVOSRWAGJQKEIFDORVU7U7L2MHA",
+    "userId": "AGVOSRWAGJQKEIFDORVU7U7L2MHA",
+    "position": 1,
+    "totalCategoryRatings": 423,
+    "totalCategoryReviews": 144,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C7BL26KH?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C7BL26KH&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C7BL26KH",
+    "productOriginalAsin": "B0C7BKR4R2",
+    "variantAsin": "B0C7BL26KH",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C7BKR4R2",
+    "country": "United States",
+    "countryCode": null
+  }
+]

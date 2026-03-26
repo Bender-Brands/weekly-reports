@@ -1394,14 +1394,14 @@
             "asin": "B09DB8XK9Y",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 0
+                "5": 4
               },
-              "total": 0,
-              "average": 0
+              "total": 6,
+              "average": 4
             },
             "newReviewsKeepa": 15,
             "cumulativeRating": 4.2,
@@ -1500,10 +1500,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 0
               },
-              "total": 3,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
             "newReviewsKeepa": 3,
             "cumulativeRating": 4.3,
@@ -1708,10 +1708,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
             "newReviewsKeepa": 2,
             "cumulativeRating": 4.6,
@@ -1797,9 +1797,9 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 6
+                "5": 1
               },
-              "total": 6,
+              "total": 1,
               "average": 5
             },
             "newReviewsKeepa": 9,
