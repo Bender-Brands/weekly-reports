@@ -1,0 +1,43 @@
+[
+  {
+    "reviewTitle": "Perfect for Sleeping and Relaxing",
+    "reviewDescription": "I’ve been using this sleep headband for a few nights now and honestly love it. It’s really comfortable even when I sleep on my side, the sound is clear, and the battery lasts long enough that I don’t have to worry about charging it all the time.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/61uxwNdMEXL._SY500.jpg"
+    ],
+    "reviewId": "R222QPNCWSPBDK",
+    "date": "2026-03-17",
+    "reviewedIn": "Reviewed in the United States on March 17, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R222QPNCWSPBDK",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXRUKWKKE5AIJ2SQXE6TYIYXXGQ",
+    "userId": "AEXRUKWKKE5AIJ2SQXE6TYIYXXGQ",
+    "position": 1,
+    "totalCategoryRatings": 103,
+    "totalCategoryReviews": 81,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DNTX3217?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DNTX3217&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DNTX3217",
+    "productOriginalAsin": "B0FNNSCCQT",
+    "variantAsin": "B0DNTX3217",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FNNSCCQT",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Anna"
+  }
+]

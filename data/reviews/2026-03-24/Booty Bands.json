@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Fabric vs Flex bands",
+    "reviewDescription": "These bands hold their shape and do not collapse like the flexible tape bands that can cut into your skin.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1OJHCFHNHMESX",
+    "date": "2026-03-20",
+    "reviewedIn": "Reviewed in the United States on March 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1OJHCFHNHMESX",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Seaside",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Seaside"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2DQ2UG73SZXXY46534S2M5SZEA",
+    "userId": "AE2DQ2UG73SZXXY46534S2M5SZEA",
+    "position": 7,
+    "totalCategoryRatings": 112,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0CJK1K88V?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0CJK1K88V&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0CJK1K88V",
+    "productOriginalAsin": "B0CLMH97L8",
+    "variantAsin": "B0CJK1K88V",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0CLMH97L8",
+    "country": "United States",
+    "countryCode": null
+  }
+]

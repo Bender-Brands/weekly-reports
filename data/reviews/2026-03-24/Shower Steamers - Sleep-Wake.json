@@ -1,0 +1,82 @@
+[
+  {
+    "reviewTitle": "Amazing shower steamers",
+    "reviewDescription": "Absolutely love these Shower Steamers from Solia. They have an amazing Eucalyptus scent that opens up my sinuses. You can break the steamer in Half for a shorter shower or use a whole one when you need a longer shower. The product comes with 7 steamers. I love these so much.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/61uZp-ZrNUL._SY500.jpg"
+    ],
+    "reviewId": "R66I20E6A76FM",
+    "date": "2026-03-20",
+    "reviewedIn": "Reviewed in the United States on March 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R66I20E6A76FM",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Eucalyptus Menthol",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Eucalyptus Menthol"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQDXIWG6H5CDYPNMRB76PX56HSQ",
+    "userId": "AHQDXIWG6H5CDYPNMRB76PX56HSQ",
+    "position": 7,
+    "totalCategoryRatings": 203,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBT7L59?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBT7L59&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBT7L59",
+    "productOriginalAsin": "B0FHC7QLQB",
+    "variantAsin": "B0FHBT7L59",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHC7QLQB",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Perfect for a spa-like shower at home",
+    "reviewDescription": "I’ve really been enjoying these shower steamers. The scent is strong enough to notice but not overpowering, and it makes my shower feel a lot more relaxing. They’re super easy to use and a nice way to add a little spa-like moment to a regular shower.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71wRGSAjplL._SY500.jpg"
+    ],
+    "reviewId": "RTPT3T58W0X58",
+    "date": "2026-03-17",
+    "reviewedIn": "Reviewed in the United States on March 17, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RTPT3T58W0X58",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLKRKJV5VGMT2VHVY4OQLHVJM7Q",
+    "userId": "AHLKRKJV5VGMT2VHVY4OQLHVJM7Q",
+    "position": 8,
+    "totalCategoryRatings": 203,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBT7L59?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBT7L59&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBT7L59",
+    "productOriginalAsin": "B0FHC7QLQB",
+    "variantAsin": "B0FHBT7L59",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHC7QLQB",
+    "country": "United States",
+    "countryCode": null
+  }
+]
