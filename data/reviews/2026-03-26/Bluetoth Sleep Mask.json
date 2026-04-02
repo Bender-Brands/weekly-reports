@@ -23,138 +23,19 @@
     "position": 1,
     "totalCategoryRatings": 274,
     "totalCategoryReviews": 1,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DMFYTLQR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DMFYTLQR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DMFZ5ZPL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DMFZ5ZPL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
     "filterByRating": "allStars",
     "filterByKeyword": null,
-    "productAsin": "B0DMFYTLQR",
-    "productOriginalAsin": "B0DMFYTLQR",
-    "variantAsin": "B0DMFYTLQR",
+    "productAsin": "B0DMFZ5ZPL",
+    "productOriginalAsin": "B0DMFZ5ZPL",
+    "variantAsin": "B0DMFZ5ZPL",
     "product": {
       "price": null,
       "listPrice": null
     },
-    "input": "https://www.amazon.com/dp/B0DMFYTLQR",
+    "input": "https://www.amazon.com/dp/B0DMFZ5ZPL",
     "country": "United States",
     "countryCode": null,
     "reviewerName": "Nicole Hoelting"
-  },
-  {
-    "reviewTitle": "Must have",
-    "reviewDescription": "I love this sleep mask. I love that I can either play music or listen to a white noise. It’s so soft also.",
-    "ratingScore": 5,
-    "reviewImages": [
-      "https://m.media-amazon.com/images/I/71s5C7dwbOL._SY88.jpg"
-    ],
-    "reviewId": "RWW8D23VO4MZX",
-    "date": "2026-03-24",
-    "reviewedIn": "Reviewed in the United States on March 24, 2026",
-    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RWW8D23VO4MZX",
-    "reviewReaction": null,
-    "isVerified": true,
-    "isAmazonVine": false,
-    "variant": "Color: Pink",
-    "variantAttributes": [
-      {
-        "key": "Color",
-        "value": "Pink"
-      }
-    ],
-    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5SMN2R6UD5TQ5OIKUPQNB7YI6Q",
-    "userId": "AG5SMN2R6UD5TQ5OIKUPQNB7YI6Q",
-    "position": 1,
-    "totalCategoryRatings": 274,
-    "totalCategoryReviews": 198,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
-    "filterByRating": "allStars",
-    "filterByKeyword": null,
-    "productAsin": "B0DM6VJNPK",
-    "productOriginalAsin": "B0DM6VJNPK",
-    "variantAsin": "B0DM6VJNPK",
-    "product": {
-      "price": null,
-      "listPrice": null
-    },
-    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
-    "country": "United States",
-    "countryCode": null,
-    "reviewerName": "Brittnie"
-  },
-  {
-    "reviewTitle": "Not sure about quality.",
-    "reviewDescription": "The sleep mask is soft and silky, the sound is clear. The reason I’m rating it with only 2 stars is that if you’re a side sleeper, the padding for ears either not thick enough or the speakers are too tough because i wake up with pain in my ears. I don’t sleep with any earrings that could possibly causing the issue and i only wake up with my ears hurting when i sleep with this mask.If you sleep on your back you’re fine. But that’s not my case and I was very surprised to see that.",
-    "ratingScore": 2,
-    "reviewImages": [],
-    "reviewId": "R1LE6JHV6WDJF2",
-    "date": "2026-03-19",
-    "reviewedIn": "Reviewed in the United States on March 19, 2026",
-    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1LE6JHV6WDJF2",
-    "reviewReaction": null,
-    "isVerified": true,
-    "isAmazonVine": false,
-    "variant": "Color: Pink",
-    "variantAttributes": [
-      {
-        "key": "Color",
-        "value": "Pink"
-      }
-    ],
-    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFYPK7QYGXUUNC4TR4ZY5OBDQX4Q",
-    "userId": "AFYPK7QYGXUUNC4TR4ZY5OBDQX4Q",
-    "position": 2,
-    "totalCategoryRatings": 274,
-    "totalCategoryReviews": 198,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
-    "filterByRating": "allStars",
-    "filterByKeyword": null,
-    "productAsin": "B0DM6VJNPK",
-    "productOriginalAsin": "B0DM6VJNPK",
-    "variantAsin": "B0DM6VJNPK",
-    "product": {
-      "price": null,
-      "listPrice": null
-    },
-    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
-    "country": "United States",
-    "countryCode": null,
-    "reviewerName": "cass"
-  },
-  {
-    "reviewTitle": "comfortable and effective. connectivity could be improved",
-    "reviewDescription": "definitely works well. gripe is you have to reconnect Bluetooth every time",
-    "ratingScore": 4,
-    "reviewImages": [],
-    "reviewId": "R7SQBZRKAQTMV",
-    "date": "2026-03-19",
-    "reviewedIn": "Reviewed in the United States on March 19, 2026",
-    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R7SQBZRKAQTMV",
-    "reviewReaction": null,
-    "isVerified": true,
-    "isAmazonVine": false,
-    "variant": "Color: Black",
-    "variantAttributes": [
-      {
-        "key": "Color",
-        "value": "Black"
-      }
-    ],
-    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUMWDKTRDERGDKKMBIIRLSOXBVA",
-    "userId": "AGUMWDKTRDERGDKKMBIIRLSOXBVA",
-    "position": 4,
-    "totalCategoryRatings": 274,
-    "totalCategoryReviews": 198,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
-    "filterByRating": "allStars",
-    "filterByKeyword": null,
-    "productAsin": "B0DM6VJNPK",
-    "productOriginalAsin": "B0DM6VJNPK",
-    "variantAsin": "B0DM6VJNPK",
-    "product": {
-      "price": null,
-      "listPrice": null
-    },
-    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
-    "country": "United States",
-    "countryCode": null,
-    "reviewerName": "Hayley"
   }
 ]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Soft and Pretty",
+    "reviewDescription": "Just as described. Handy but not much protection",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1HSYG8B86F7N",
+    "date": "2026-03-30",
+    "reviewedIn": "Reviewed in the United States on March 30, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1HSYG8B86F7N",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sage",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sage"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AH4BGVFOF5Z6AQZSW2EAQL4FUNEA",
+    "userId": "AH4BGVFOF5Z6AQZSW2EAQL4FUNEA",
+    "position": 1,
+    "totalCategoryRatings": 125,
+    "totalCategoryReviews": 71,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJMNGTS?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJMNGTS&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJMNGTS",
+    "productOriginalAsin": "B0DLJMNGTS",
+    "variantAsin": "B0DLJMNGTS",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJMNGTS",
+    "country": "United States",
+    "countryCode": null
+  }
+]

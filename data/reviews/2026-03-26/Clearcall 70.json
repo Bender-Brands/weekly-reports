@@ -1,0 +1,41 @@
+[
+  {
+    "reviewTitle": "Usage",
+    "reviewDescription": "These truly are noise cancelling, I listen to my music while my husband watches t.v. and there is no cross over.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1LWUF69O534ZP",
+    "date": "2026-03-24",
+    "reviewedIn": "Reviewed in the United States on March 24, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1LWUF69O534ZP",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGY3W6D63UFYFOQ4S6UZBWACVBMA",
+    "userId": "AGY3W6D63UFYFOQ4S6UZBWACVBMA",
+    "position": 1,
+    "totalCategoryRatings": 177,
+    "totalCategoryReviews": 123,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0953K35L4?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0953K35L4&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0953K35L4",
+    "productOriginalAsin": "B0953K35L4",
+    "variantAsin": "B0953K35L4",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0953K35L4",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Leah F."
+  }
+]

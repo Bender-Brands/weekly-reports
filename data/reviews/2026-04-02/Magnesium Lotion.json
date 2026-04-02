@@ -1,0 +1,80 @@
+[
+  {
+    "reviewTitle": "Hydrating and relaxing!",
+    "reviewDescription": "I’ve tried a couple of magnesium creams in this one is definitely my favorite. The texture is thick, which I love, it feels really rich, but it’s not greasy. It seems to absorb right away and leaves my skin feeling super soft and hydrated. I love using it at night.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/61p+t9nbilL._SY88.jpg"
+    ],
+    "reviewId": "R5CCSIBIM6RL3",
+    "date": "2026-03-28",
+    "reviewedIn": "Reviewed in the United States on March 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R5CCSIBIM6RL3",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Unscented",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Unscented"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIX3Z53M4FCCWA7EBZP2ZYXWI4Q",
+    "userId": "AFIX3Z53M4FCCWA7EBZP2ZYXWI4Q",
+    "position": 5,
+    "totalCategoryRatings": 146,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Worth purchasing and I will get more!",
+    "reviewDescription": "I like the way this cream goes on and it has a light gentle smell to it and I've made a ritual where I'll rub it on my legs and feet before I go to bed and I think it's helping to make a big difference.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RSZKXA0UDRY4K",
+    "date": "2026-03-28",
+    "reviewedIn": "Reviewed in the United States on March 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RSZKXA0UDRY4K",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFDK5AKP5DUMAFNIW3SH6IM3LGQ",
+    "userId": "AFFDK5AKP5DUMAFNIW3SH6IM3LGQ",
+    "position": 7,
+    "totalCategoryRatings": 146,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  }
+]

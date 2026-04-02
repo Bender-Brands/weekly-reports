@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Great toiletry bag",
+    "reviewDescription": "I love this toiletry bag! It fits all my hair and skincare items perfectly without feeling bulky. The hanging feature makes everything easy to see and stay organize its super convenient and very cute. I’m really happy with it.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3BKZBKXOL4C3D",
+    "date": "2026-03-28",
+    "reviewedIn": "Reviewed in the United States on March 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3BKZBKXOL4C3D",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3CANG4DG4WU7QV57R2QFMDK2OQ",
+    "userId": "AG3CANG4DG4WU7QV57R2QFMDK2OQ",
+    "position": 7,
+    "totalCategoryRatings": 165,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDS8L5DR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDS8L5DR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDS8L5DR",
+    "productOriginalAsin": "B0FDS8L5DR",
+    "variantAsin": "B0FDS8L5DR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDS8L5DR",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Great product",
+    "reviewDescription": "Exactly what I expected and very cute",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1MD4PTH8Q92QK",
+    "date": "2026-03-31",
+    "reviewedIn": "Reviewed in the United States on March 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1MD4PTH8Q92QK",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPKM5537YGHUCS3XTOPZMRXWXEQ",
+    "userId": "AHPKM5537YGHUCS3XTOPZMRXWXEQ",
+    "position": 1,
+    "totalCategoryRatings": 165,
+    "totalCategoryReviews": 145,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRX8KHN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRX8KHN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRX8KHN",
+    "productOriginalAsin": "B0FDRX8KHN",
+    "variantAsin": "B0FDRX8KHN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDRX8KHN",
+    "country": "United States",
+    "countryCode": null
+  }
+]
