@@ -36,5 +36,81 @@
     "input": "https://www.amazon.com/dp/B0FHJ5J97Y",
     "country": "United States",
     "countryCode": null
+  },
+  {
+    "reviewTitle": "Highly recommend!",
+    "reviewDescription": "Love this lotion! It smells so good and is not greasy. I am particular about my lotions, but the consistency is perfect! Helps me get a good nights rest!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2NY2XMMVZYXC7",
+    "date": "2026-04-14",
+    "reviewedIn": "Reviewed in the United States on April 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2NY2XMMVZYXC7",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXVO3RS2THHMET4QTFRFSMUQDDA",
+    "userId": "AFXVO3RS2THHMET4QTFRFSMUQDDA",
+    "position": 1,
+    "totalCategoryRatings": 148,
+    "totalCategoryReviews": 104,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Creamy",
+    "reviewDescription": "I’ve applied the cream and am currently evaluating how well it works. It does help soften the skin. However, I do not smell lavender from the jar.",
+    "ratingScore": 4,
+    "reviewImages": [],
+    "reviewId": "R14UDSGZAAFP7M",
+    "date": "2026-04-14",
+    "reviewedIn": "Reviewed in the United States on April 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R14UDSGZAAFP7M",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5PAY4XAQI2XLHAQD2KHES4NF6Q",
+    "userId": "AF5PAY4XAQI2XLHAQD2KHES4NF6Q",
+    "position": 2,
+    "totalCategoryRatings": 148,
+    "totalCategoryReviews": 104,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
   }
 ]

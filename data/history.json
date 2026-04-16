@@ -1874,14 +1874,14 @@
             "asin": "B09DB8XK9Y",
             "stats": {
               "stars": {
-                "1": 2,
+                "1": 0,
                 "2": 0,
-                "3": 1,
-                "4": 2,
-                "5": 2
+                "3": 0,
+                "4": 0,
+                "5": 1
               },
-              "total": 7,
-              "average": 3.29
+              "total": 1,
+              "average": 5
             },
             "newReviewsKeepa": 5,
             "cumulativeRating": 4.3,
@@ -1951,7 +1951,7 @@
               "total": 3,
               "average": 5
             },
-            "newReviewsKeepa": 6,
+            "newReviewsKeepa": 9,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -1962,11 +1962,11 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0,
-                "5": 1
+                "4": 1,
+                "5": 2
               },
-              "total": 1,
-              "average": 5
+              "total": 3,
+              "average": 4.67
             },
             "newReviewsKeepa": 4,
             "cumulativeRating": 4,
@@ -2019,7 +2019,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4,
             "prevCumulativeRating": 4.1
           },
@@ -2038,7 +2038,7 @@
             },
             "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
-            "prevCumulativeRating": 4.4
+            "prevCumulativeRating": 4.3
           },
           "Bluetoth Sleep Mask": {
             "asin": "B0FSG756Y3",
@@ -2125,7 +2125,7 @@
               "total": 1,
               "average": 5
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 5,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.7
           },
@@ -2242,13 +2242,13 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0,
-                "5": 1
+                "4": 1,
+                "5": 2
               },
-              "total": 1,
-              "average": 5
+              "total": 3,
+              "average": 4.67
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 3,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2275,12 +2275,12 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 1,
+                "3": 0,
                 "4": 0,
                 "5": 2
               },
-              "total": 3,
-              "average": 4.33
+              "total": 2,
+              "average": 5
             },
             "newReviewsKeepa": 1,
             "cumulativeRating": 4.3,
