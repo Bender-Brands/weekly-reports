@@ -21,7 +21,7 @@
     "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFBYQVKV2QJWB7NGQJACOVHV5ULA",
     "userId": "AFBYQVKV2QJWB7NGQJACOVHV5ULA",
     "position": 4,
-    "totalCategoryRatings": 132,
+    "totalCategoryRatings": 134,
     "totalCategoryReviews": 1,
     "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
     "filterByRating": "allStars",
@@ -37,5 +37,82 @@
     "country": "United States",
     "countryCode": null,
     "reviewerName": "Allie Bryant"
+  },
+  {
+    "reviewTitle": "We Love These Earplugs",
+    "reviewDescription": "Adorable packaging, great size of ear plug. We use them with our 2 year old who has been sensitive to loud noises sometimes. The carrying case is a nice touch, now I always have a pair when we're out and about and it has already come in handy.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RJQZSQ6EXV95G",
+    "date": "2026-04-14",
+    "reviewedIn": "Reviewed in the United States on April 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RJQZSQ6EXV95G",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Purple",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Purple"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AH23Y542WPO4ORH3MM4IGEA2FW2A",
+    "userId": "AH23Y542WPO4ORH3MM4IGEA2FW2A",
+    "position": 1,
+    "totalCategoryRatings": 132,
+    "totalCategoryReviews": 116,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8FFQ22?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8FFQ22&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8FFQ22",
+    "productOriginalAsin": "B0FN8FFQ22",
+    "variantAsin": "B0FN8FFQ22",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8FFQ22",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Bobby Frederick"
+  },
+  {
+    "reviewTitle": "They are great",
+    "reviewDescription": "This item is the perfect size for my littles. They are very soft and comfortable.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RWJQ5SU19VYYC",
+    "date": "2026-04-10",
+    "reviewedIn": "Reviewed in the United States on April 10, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RWJQ5SU19VYYC",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3A5BTNPC7XB7HUXJRT7HEJTHUA",
+    "userId": "AF3A5BTNPC7XB7HUXJRT7HEJTHUA",
+    "position": 3,
+    "totalCategoryRatings": 132,
+    "totalCategoryReviews": 116,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8FFQ22?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8FFQ22&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8FFQ22",
+    "productOriginalAsin": "B0FN8FFQ22",
+    "variantAsin": "B0FN8FFQ22",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8FFQ22",
+    "country": "United States",
+    "countryCode": null
   }
 ]
