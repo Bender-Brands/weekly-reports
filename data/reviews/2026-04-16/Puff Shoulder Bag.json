@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Easy carry",
+    "reviewDescription": "Perfect carrying case for my laptop! Love the color, nice plush inside for cushioning and adjustable strap with handheld straps too! I would recommend this for a 14 inch laptop! The size, portability and fit are perfect!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RW7MCG5SUDOMY",
+    "date": "2026-04-12",
+    "reviewedIn": "Reviewed in the United States on April 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RW7MCG5SUDOMY",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sage",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sage"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF4QHKN3E4RRJVPK2YXYZO5CKNLQ",
+    "userId": "AF4QHKN3E4RRJVPK2YXYZO5CKNLQ",
+    "position": 9,
+    "totalCategoryRatings": 131,
+    "totalCategoryReviews": 73,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJQ43F3?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJQ43F3&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJQ43F3",
+    "productOriginalAsin": "B0DLJQ43F3",
+    "variantAsin": "B0DLJQ43F3",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJQ43F3",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Cuteeeee",
+    "reviewDescription": "Love it",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RQWCFHYSMD0J",
+    "date": "2026-04-09",
+    "reviewedIn": "Reviewed in the United States on April 9, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RQWCFHYSMD0J",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Latte",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Latte"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIMO72ODRLE3ZGTF5VA6DDR4LOA",
+    "userId": "AFIMO72ODRLE3ZGTF5VA6DDR4LOA",
+    "position": 10,
+    "totalCategoryRatings": 131,
+    "totalCategoryReviews": 73,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJQ43F3?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJQ43F3&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJQ43F3",
+    "productOriginalAsin": "B0DLJQ43F3",
+    "variantAsin": "B0DLJQ43F3",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJQ43F3",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "reviewTitle": "Definitely worth the purchase",
+    "reviewDescription": "Just bought these for a vacation and wow great quality. They helped me save space in my luggage and they were easy to zip to make bigger. Great value for money!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R976LEDE4WSE1",
+    "date": "2026-04-09",
+    "reviewedIn": "Reviewed in the United States on April 9, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R976LEDE4WSE1",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 3. Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "3. Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6ZG6AXACYBSTQGMNQOVSLLKDHQ",
+    "userId": "AH6ZG6AXACYBSTQGMNQOVSLLKDHQ",
+    "position": 7,
+    "totalCategoryRatings": 339,
+    "totalCategoryReviews": 1,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJGP565?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJGP565&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJGP565",
+    "productOriginalAsin": "B0DLJGP565",
+    "variantAsin": "B0DLJGP565",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJGP565",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "The best packing cubes",
+    "reviewDescription": "I used to struggle with keeping my suitcase organized, especially on longer trips. These packing cubes made everything so much easier. I can separate outfits, find things quickly, and keep everything in place the whole trip. Such a simple but useful product.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71c++HoqdVL._SY88.jpg"
+    ],
+    "reviewId": "R1YATQ93OZU3W9",
+    "date": "2026-04-10",
+    "reviewedIn": "Reviewed in the United States on April 10, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1YATQ93OZU3W9",
+    "reviewReaction": null,
+    "isVerified": false,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "2. Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHNFHXYCB5I5YWHUB7GE7NPTLMJQ",
+    "userId": "AHNFHXYCB5I5YWHUB7GE7NPTLMJQ",
+    "position": 1,
+    "totalCategoryRatings": 29,
+    "totalCategoryReviews": 29,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLZKGXQ7?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLZKGXQ7&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLZKGXQ7",
+    "productOriginalAsin": "B0FLZKGXQ7",
+    "variantAsin": "B0FLZKGXQ7",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLZKGXQ7",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "reviewTitle": "Lasting",
+    "reviewDescription": "Still works just fine to this day",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RUMNTUUWUXP86",
+    "date": "2026-04-14",
+    "reviewedIn": "Reviewed in the United States on April 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RUMNTUUWUXP86",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSMLPILMUL4CQIBIKTXGONIXSEA",
+    "userId": "AGSMLPILMUL4CQIBIKTXGONIXSEA",
+    "position": 9,
+    "totalCategoryRatings": 359,
+    "totalCategoryReviews": 212,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DHJ5HWWW?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DHJ5HWWW&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DHJ5HWWW",
+    "productOriginalAsin": "B0DHJ5HWWW",
+    "variantAsin": "B0DHJ5HWWW",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DHJ5HWWW",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Davi"
+  }
+]
