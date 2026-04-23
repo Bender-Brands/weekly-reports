@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Do not buy",
+    "reviewDescription": "Broke right away",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R3BBQAEH76TRC0",
+    "date": "2026-04-17",
+    "reviewedIn": "Reviewed in the United States on April 17, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3BBQAEH76TRC0",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGMKT6JCHXQM4HKXJI5JLTT4TORQ",
+    "userId": "AGMKT6JCHXQM4HKXJI5JLTT4TORQ",
+    "position": 1,
+    "totalCategoryRatings": 134,
+    "totalCategoryReviews": 74,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJQ43F3?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJQ43F3&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJQ43F3",
+    "productOriginalAsin": "B0DLJQ43F3",
+    "variantAsin": "B0DLJQ43F3",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJQ43F3",
+    "country": "United States",
+    "countryCode": null
+  }
+]

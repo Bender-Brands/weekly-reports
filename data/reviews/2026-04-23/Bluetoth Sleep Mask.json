@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "The BEST eye mask!",
+    "reviewDescription": "Love this eye mask! It’s very silky and the fact that you can listen to music through it instead of having to have headphones is a game changer!! Seriously you should all get it!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3OFMLC3YXSSOW",
+    "date": "2026-04-20",
+    "reviewedIn": "Reviewed in the United States on April 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3OFMLC3YXSSOW",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6QWAS6Q4HKIZHZ62RBRKE2U4OQ",
+    "userId": "AE6QWAS6Q4HKIZHZ62RBRKE2U4OQ",
+    "position": 1,
+    "totalCategoryRatings": 282,
+    "totalCategoryReviews": 202,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DMFYTLQR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DMFYTLQR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DMFYTLQR",
+    "productOriginalAsin": "B0DMFYTLQR",
+    "variantAsin": "B0DMFYTLQR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DMFYTLQR",
+    "country": "United States",
+    "countryCode": null
+  }
+]

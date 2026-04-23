@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Wouldn’t get again",
+    "reviewDescription": "Not totally impressed. Suggest by a friend- they do not smell as weak as advertised. And wash away very quickly.",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R1MKKVO5U03FBL",
+    "date": "2026-04-19",
+    "reviewedIn": "Reviewed in the United States on April 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1MKKVO5U03FBL",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Eucalyptus Menthol",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Eucalyptus Menthol"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZCZ72KQBMTMFTOBVIJMZ5FHFUA",
+    "userId": "AGZCZ72KQBMTMFTOBVIJMZ5FHFUA",
+    "position": 1,
+    "totalCategoryRatings": 224,
+    "totalCategoryReviews": 197,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBY5B6L?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBY5B6L&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBY5B6L",
+    "productOriginalAsin": "B0FHBY5B6L",
+    "variantAsin": "B0FHBY5B6L",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHBY5B6L",
+    "country": "United States",
+    "countryCode": null
+  }
+]
