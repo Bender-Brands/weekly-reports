@@ -1,5 +1,44 @@
 [
   {
+    "reviewTitle": "Best sleep ever",
+    "reviewDescription": "I’m honestly so impressed with this sleep mask! The silk material feels incredibly soft and gentle on my skin, which makes it super comfortable to wear all night—no irritation at all. I also love how well it blocks out light, helping me fall asleep faster and stay asleep longer. The Bluetooth feature is a game changer. The sound quality is surprisingly good for such a compact design, and it’s perfect for listening to white noise or calming music without needing extra headphones. It stays in place even when I sleep on my side, which is a huge plus.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2OJSEM2UCEEQE",
+    "date": "2026-04-21",
+    "reviewedIn": "Reviewed in the United States on April 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2OJSEM2UCEEQE",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHMLVNF3DOAIZFI4H6SOLIALDUA",
+    "userId": "AEHMLVNF3DOAIZFI4H6SOLIALDUA",
+    "position": 1,
+    "totalCategoryRatings": 282,
+    "totalCategoryReviews": 203,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DMFZ5ZPL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DMFZ5ZPL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DMFZ5ZPL",
+    "productOriginalAsin": "B0DMFZ5ZPL",
+    "variantAsin": "B0DMFZ5ZPL",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DMFZ5ZPL",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Saraya Ortiz"
+  },
+  {
     "reviewTitle": "The BEST eye mask!",
     "reviewDescription": "Love this eye mask! It’s very silky and the fact that you can listen to music through it instead of having to have headphones is a game changer!! Seriously you should all get it!",
     "ratingScore": 5,
@@ -20,20 +59,20 @@
     ],
     "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6QWAS6Q4HKIZHZ62RBRKE2U4OQ",
     "userId": "AE6QWAS6Q4HKIZHZ62RBRKE2U4OQ",
-    "position": 1,
+    "position": 2,
     "totalCategoryRatings": 282,
-    "totalCategoryReviews": 202,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DMFYTLQR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DMFYTLQR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "totalCategoryReviews": 203,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DMFZ5ZPL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DMFZ5ZPL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
     "filterByRating": "allStars",
     "filterByKeyword": null,
-    "productAsin": "B0DMFYTLQR",
-    "productOriginalAsin": "B0DMFYTLQR",
-    "variantAsin": "B0DMFYTLQR",
+    "productAsin": "B0DMFZ5ZPL",
+    "productOriginalAsin": "B0DMFZ5ZPL",
+    "variantAsin": "B0DMFZ5ZPL",
     "product": {
       "price": null,
       "listPrice": null
     },
-    "input": "https://www.amazon.com/dp/B0DMFYTLQR",
+    "input": "https://www.amazon.com/dp/B0DMFZ5ZPL",
     "country": "United States",
     "countryCode": null
   }

@@ -1,0 +1,41 @@
+[
+  {
+    "reviewTitle": "Great product!",
+    "reviewDescription": "Such great quality! And very comfortable and secure on the ear!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1EDBJDN6HIMFR",
+    "date": "2026-04-21",
+    "reviewedIn": "Reviewed in the United States on April 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1EDBJDN6HIMFR",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: Runner 60",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "Runner 60"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQLDG4ZN5GX47H6XPCLQALBXVJA",
+    "userId": "AEQLDG4ZN5GX47H6XPCLQALBXVJA",
+    "position": 1,
+    "totalCategoryRatings": 1322,
+    "totalCategoryReviews": 559,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0BDQNBMZX?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0BDQNBMZX&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0BDQNBMZX",
+    "productOriginalAsin": "B0BDQNBMZX",
+    "variantAsin": "B0BDQNBMZX",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0BDQNBMZX",
+    "country": "United States",
+    "countryCode": null,
+    "reviewerName": "Marissa"
+  }
+]

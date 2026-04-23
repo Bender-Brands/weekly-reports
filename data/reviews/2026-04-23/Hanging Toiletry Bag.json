@@ -1,0 +1,44 @@
+[
+  {
+    "reviewTitle": "Perfect size and cute",
+    "reviewDescription": "Cure and good size- not too big it would over take a carry on. Inside zippers are a little stiff/hard to open",
+    "ratingScore": 4,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/81PrcbmMZiL._SY88.jpg",
+      "https://m.media-amazon.com/images/I/81pyxnThi1L._SY88.jpg",
+      "https://m.media-amazon.com/images/I/81Qf7Dwq0wL._SY88.jpg"
+    ],
+    "reviewId": "R44VWWXKDS2FL",
+    "date": "2026-04-21",
+    "reviewedIn": "Reviewed in the United States on April 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R44VWWXKDS2FL",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNVBW3FGDZJDQCT2DMNLZUFN24Q",
+    "userId": "AGNVBW3FGDZJDQCT2DMNLZUFN24Q",
+    "position": 1,
+    "totalCategoryRatings": 174,
+    "totalCategoryReviews": 149,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRX8KHN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRX8KHN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRX8KHN",
+    "productOriginalAsin": "B0FDRX8KHN",
+    "variantAsin": "B0FDRX8KHN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDRX8KHN",
+    "country": "United States",
+    "countryCode": null
+  }
+]

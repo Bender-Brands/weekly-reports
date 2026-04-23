@@ -23,17 +23,17 @@
     "position": 1,
     "totalCategoryRatings": 430,
     "totalCategoryReviews": 146,
-    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C7BFPMK7?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C7BFPMK7&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C7B6JPNL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C7B6JPNL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
     "filterByRating": "allStars",
     "filterByKeyword": null,
-    "productAsin": "B0C7BFPMK7",
-    "productOriginalAsin": "B0C7BFPMK7",
-    "variantAsin": "B0C7BFPMK7",
+    "productAsin": "B0C7B6JPNL",
+    "productOriginalAsin": "B0C7B6JPNL",
+    "variantAsin": "B0C7B6JPNL",
     "product": {
       "price": null,
       "listPrice": null
     },
-    "input": "https://www.amazon.com/dp/B0C7BFPMK7",
+    "input": "https://www.amazon.com/dp/B0C7B6JPNL",
     "country": "United States",
     "countryCode": null
   }
