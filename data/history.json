@@ -1866,7 +1866,7 @@
     }
   },
   {
-    "date": "2026-04-23",
+    "date": "2026-04-30",
     "brands": {
       "Back Bay": {
         "products": {
@@ -1878,13 +1878,13 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 1
               },
-              "total": 3,
+              "total": 1,
               "average": 5
             },
-            "newReviewsKeepa": 10,
-            "cumulativeRating": 4.3,
+            "newReviewsKeepa": 1694,
+            "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.3
           },
           "Duet 50": {
@@ -1929,12 +1929,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -1943,17 +1943,17 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 1,
-                "3": 1,
+                "2": 0,
+                "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 0
               },
-              "total": 5,
-              "average": 4
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 9,
-            "cumulativeRating": 4.5,
-            "prevCumulativeRating": 4.6
+            "newReviewsKeepa": 13,
+            "cumulativeRating": 4.6,
+            "prevCumulativeRating": 4.5
           },
           "Runner 40 Relaunch": {
             "asin": "B0FM1K5C1D",
@@ -1963,13 +1963,13 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 2
+                "5": 0
               },
-              "total": 2,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 3,
-            "cumulativeRating": 4,
+            "newReviewsKeepa": 4,
+            "cumulativeRating": 4.1,
             "prevCumulativeRating": 4
           },
           "SlimPlugs": {
@@ -1985,8 +1985,8 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
-            "cumulativeRating": 4.3,
+            "newReviewsKeepa": 1,
+            "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.3
           },
           "FirstClass 50": {
@@ -2002,7 +2002,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -2010,14 +2010,14 @@
             "asin": "B0DM2R7SR9",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 1
+              "total": 0,
+              "average": 0
             },
             "newReviewsKeepa": 1,
             "cumulativeRating": 4,
@@ -2048,13 +2048,13 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 2
+                "5": 0
               },
-              "total": 2,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
             "newReviewsKeepa": 5,
-            "cumulativeRating": 4,
+            "cumulativeRating": 4.1,
             "prevCumulativeRating": 4
           },
           "Bluetoth Headband": {
@@ -2070,9 +2070,9 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 7,
-            "cumulativeRating": 4.1,
-            "prevCumulativeRating": 4.2
+            "newReviewsKeepa": 2,
+            "cumulativeRating": 4.2,
+            "prevCumulativeRating": 4.1
           }
         }
       },
@@ -2085,13 +2085,13 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 1,
-                "5": 3
+                "4": 0,
+                "5": 0
               },
-              "total": 4,
-              "average": 4.75
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -2101,16 +2101,16 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 1,
+                "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 0
               },
-              "total": 4,
-              "average": 4.5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.6,
-            "prevCumulativeRating": 4.7
+            "prevCumulativeRating": 4.6
           },
           "Packing Cubes": {
             "asin": "B0DLJ7HBSR",
@@ -2120,12 +2120,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 0
               },
-              "total": 3,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2133,16 +2133,16 @@
             "asin": "B0FLGFQCQZ",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 1
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2188,12 +2188,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 5,
+            "newReviewsKeepa": 6,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2221,14 +2221,14 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 1,
+                "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 4
+              "total": 0,
+              "average": 0
             },
             "newReviewsKeepa": 4,
-            "cumulativeRating": 4.8,
+            "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.8
           }
         }
@@ -2243,10 +2243,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 4
+                "5": 0
               },
-              "total": 4,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
             "newReviewsKeepa": 5,
             "cumulativeRating": 4.5,
@@ -2275,12 +2275,12 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 1,
+                "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 2,
-              "average": 4
+              "total": 0,
+              "average": 0
             },
             "newReviewsKeepa": 4,
             "cumulativeRating": 4.3,
@@ -2298,12 +2298,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 3,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2320,7 +2320,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
