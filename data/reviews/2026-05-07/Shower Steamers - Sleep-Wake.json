@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Useless",
+    "reviewDescription": "Did nothing. No steam, barley there smell",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R1TO2139UC76R8",
+    "date": "2026-05-04",
+    "reviewedIn": "Reviewed in the United States on May 4, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1TO2139UC76R8",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2RFO6OOILGCSG7RC5J7QO4BJ4Q",
+    "userId": "AG2RFO6OOILGCSG7RC5J7QO4BJ4Q",
+    "position": 1,
+    "totalCategoryRatings": 233,
+    "totalCategoryReviews": 202,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBY5B6L?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBY5B6L&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBY5B6L",
+    "productOriginalAsin": "B0FHBY5B6L",
+    "variantAsin": "B0FHBY5B6L",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHBY5B6L",
+    "country": "United States",
+    "countryCode": null
+  }
+]

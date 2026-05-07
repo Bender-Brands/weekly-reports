@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Love the lavender color!",
+    "reviewDescription": "I got the lavender color. It’s a Beautiful color. Fits perfect.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1G5O0JTS0P5L7",
+    "date": "2026-05-02",
+    "reviewedIn": "Reviewed in the United States on May 2, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1G5O0JTS0P5L7",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: g. Lilac",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "g. Lilac"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBLA5M4FYIW64CZI6QDNARSH6LQ",
+    "userId": "AGBLA5M4FYIW64CZI6QDNARSH6LQ",
+    "position": 1,
+    "totalCategoryRatings": 5747,
+    "totalCategoryReviews": 1226,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6P2RP52?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6P2RP52&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6P2RP52",
+    "productOriginalAsin": "B0C6P2RP52",
+    "variantAsin": "B0C6P2RP52",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6P2RP52",
+    "country": "United States",
+    "countryCode": null
+  }
+]

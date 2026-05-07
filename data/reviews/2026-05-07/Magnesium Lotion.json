@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Would highly recommend",
+    "reviewDescription": "There is little to know smell and it is not sticky. It has definitely helped with my leg pain",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3QTDB5IU48HFU",
+    "date": "2026-05-01",
+    "reviewedIn": "Reviewed in the United States on May 1, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3QTDB5IU48HFU",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Unscented",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Unscented"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3NILXXIZPXYL45NXE75ZO6MMYA",
+    "userId": "AE3NILXXIZPXYL45NXE75ZO6MMYA",
+    "position": 1,
+    "totalCategoryRatings": 90,
+    "totalCategoryReviews": 87,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHJ5J97Y?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHJ5J97Y&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHJ5J97Y",
+    "productOriginalAsin": "B0FHJ5J97Y",
+    "variantAsin": "B0FHJ5J97Y",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHJ5J97Y",
+    "country": "United States",
+    "countryCode": null
+  }
+]

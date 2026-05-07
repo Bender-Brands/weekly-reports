@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Perfect for what I need it for!",
+    "reviewDescription": "Perfect for what I need! Very comfortable forget I have it on.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3P23XQUPLVXTI",
+    "date": "2026-05-04",
+    "reviewedIn": "Reviewed in the United States on May 4, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3P23XQUPLVXTI",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "2. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFBRWSJKAOZ6U4X4CVAGLRTMA2DQ",
+    "userId": "AFBRWSJKAOZ6U4X4CVAGLRTMA2DQ",
+    "position": 1,
+    "totalCategoryRatings": 1597,
+    "totalCategoryReviews": 398,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B088BDJN5M?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B088BDJN5M&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B088BDJN5M",
+    "productOriginalAsin": "B088BDJN5M",
+    "variantAsin": "B088BDJN5M",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B088BDJN5M",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Running belt",
+    "reviewDescription": "This is exactly what I was looking for.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R6YYA674JNZS3",
+    "date": "2026-04-30",
+    "reviewedIn": "Reviewed in the United States on April 30, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R6YYA674JNZS3",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "2. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG32GQM73QPBTUELCS6JRFBEFXNA",
+    "userId": "AG32GQM73QPBTUELCS6JRFBEFXNA",
+    "position": 2,
+    "totalCategoryRatings": 1597,
+    "totalCategoryReviews": 398,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B088BDJN5M?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B088BDJN5M&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B088BDJN5M",
+    "productOriginalAsin": "B088BDJN5M",
+    "variantAsin": "B088BDJN5M",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B088BDJN5M",
+    "country": "United States",
+    "countryCode": null
+  }
+]

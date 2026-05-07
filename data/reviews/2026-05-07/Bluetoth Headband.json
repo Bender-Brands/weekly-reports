@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Great, lightweight, and comfortable!",
+    "reviewDescription": "This headband is actually super comfortable! It’s lightweight which is important for me, as a very hot sleeper. The Bluetooth works seamlessly! And now I can rest comfortably without listening to my husbands snoring!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3EH1UPSMXYUGB",
+    "date": "2026-05-02",
+    "reviewedIn": "Reviewed in the United States on May 2, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3EH1UPSMXYUGB",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCP5UQWRNRHFRK3V7DXHPP6X6UA",
+    "userId": "AFCP5UQWRNRHFRK3V7DXHPP6X6UA",
+    "position": 1,
+    "totalCategoryRatings": 125,
+    "totalCategoryReviews": 95,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DNTX3217?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DNTX3217&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DNTX3217",
+    "productOriginalAsin": "B0DNTX3217",
+    "variantAsin": "B0DNTX3217",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DNTX3217",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Not terrible for the amount used",
+    "reviewDescription": "They are not joking when they say loose fitting. Very soft and comfortable material but really too loose so it slides around while sleeping, defeating the purpose of noise cancellation.",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R21UFFT215LKLS",
+    "date": "2026-04-30",
+    "reviewedIn": "Reviewed in the United States on April 30, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R21UFFT215LKLS",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGPRWYWFQCBFTW7XIKCIRDPUZ4QQ",
+    "userId": "AGPRWYWFQCBFTW7XIKCIRDPUZ4QQ",
+    "position": 2,
+    "totalCategoryRatings": 125,
+    "totalCategoryReviews": 95,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DNTX3217?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DNTX3217&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DNTX3217",
+    "productOriginalAsin": "B0DNTX3217",
+    "variantAsin": "B0DNTX3217",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DNTX3217",
+    "country": "United States",
+    "countryCode": null
+  }
+]
