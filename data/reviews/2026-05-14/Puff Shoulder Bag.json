@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Very small.",
+    "reviewDescription": "The color and material both outside and in are super cute but this fits a tablet not a laptop.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R25QMY56US67JT",
+    "date": "2026-05-09",
+    "reviewedIn": "Reviewed in the United States on May 9, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R25QMY56US67JT",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Latte",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Latte"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEKZIRSQA7CLSTOBO3MY4XPYKWSA",
+    "userId": "AEKZIRSQA7CLSTOBO3MY4XPYKWSA",
+    "position": 1,
+    "totalCategoryRatings": 138,
+    "totalCategoryReviews": 73,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJMGTNV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJMGTNV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJMGTNV",
+    "productOriginalAsin": "B0DLJMGTNV",
+    "variantAsin": "B0DLJMGTNV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJMGTNV",
+    "country": "United States",
+    "countryCode": null
+  }
+]
