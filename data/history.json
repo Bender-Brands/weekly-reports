@@ -1866,7 +1866,7 @@
     }
   },
   {
-    "date": "2026-05-14",
+    "date": "2026-05-21",
     "brands": {
       "Back Bay": {
         "products": {
@@ -1874,17 +1874,17 @@
             "asin": "B09DB8XK9Y",
             "stats": {
               "stars": {
-                "1": 1,
-                "2": 1,
-                "3": 1,
-                "4": 0,
+                "1": 2,
+                "2": 0,
+                "3": 0,
+                "4": 1,
                 "5": 3
               },
               "total": 6,
               "average": 3.5
             },
             "newReviewsKeepa": 6,
-            "cumulativeRating": 4.2,
+            "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.2
           },
           "Duet 50": {
@@ -1900,7 +1900,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -1908,16 +1908,16 @@
             "asin": "B0DCHF8KVY",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 2,
-              "average": 3
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
           },
@@ -1934,7 +1934,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -1942,16 +1942,16 @@
             "asin": "B0GKQK8XBZ",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 1
               },
-              "total": 4,
-              "average": 4
+              "total": 1,
+              "average": 5
             },
-            "newReviewsKeepa": 5,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -1968,9 +1968,9 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
-            "cumulativeRating": 4,
-            "prevCumulativeRating": 4.1
+            "newReviewsKeepa": 3,
+            "cumulativeRating": 4.1,
+            "prevCumulativeRating": 4
           },
           "SlimPlugs": {
             "asin": "B0F964YYYW",
@@ -1987,7 +1987,7 @@
             },
             "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
-            "prevCumulativeRating": 4.4
+            "prevCumulativeRating": 4.3
           },
           "FirstClass 50": {
             "asin": "B0DJVD98M1",
@@ -2011,13 +2011,13 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 0,
+                "2": 1,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 2
             },
             "newReviewsKeepa": 1,
             "cumulativeRating": 4,
@@ -2048,13 +2048,13 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 2
+                "5": 0
               },
-              "total": 2,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 2,
-            "cumulativeRating": 4.1,
+            "newReviewsKeepa": 3,
+            "cumulativeRating": 4,
             "prevCumulativeRating": 4.1
           },
           "Bluetoth Headband": {
@@ -2064,13 +2064,13 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 1,
-                "5": 2
+                "4": 0,
+                "5": 0
               },
-              "total": 3,
-              "average": 4.67
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           }
@@ -2086,12 +2086,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -2101,12 +2101,12 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 1,
+                "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 2
               },
               "total": 2,
-              "average": 4
+              "average": 5
             },
             "newReviewsKeepa": 2,
             "cumulativeRating": 4.6,
@@ -2120,12 +2120,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 5
               },
-              "total": 3,
+              "total": 5,
               "average": 5
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2134,15 +2134,15 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 1,
+                "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 2
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2159,7 +2159,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -2176,7 +2176,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2188,12 +2188,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 5
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 3,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2222,12 +2222,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 2
+                "5": 0
               },
-              "total": 2,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.8,
             "prevCumulativeRating": 4.8
           }
@@ -2239,17 +2239,17 @@
             "asin": "B0FQ698SJ8",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 4
+                "5": 0
               },
-              "total": 5,
-              "average": 4.2
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 12,
-            "cumulativeRating": 4.6,
+            "newReviewsKeepa": 0,
+            "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.6
           },
           "Shower Steamer - Cold Rescue": {
@@ -2273,16 +2273,16 @@
             "asin": "B0FHC7QLQB",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 1
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           }
@@ -2303,7 +2303,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 21,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2320,7 +2320,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2329,15 +2329,15 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 0,
+                "2": 1,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 2
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4,
             "prevCumulativeRating": 4
           }

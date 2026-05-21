@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "No smell",
+    "reviewDescription": "These don’t really have a smell to them when using.",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "RZOM3TEZBD0QD",
+    "date": "2026-05-18",
+    "reviewedIn": "Reviewed in the United States on May 18, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RZOM3TEZBD0QD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Eucalyptus Menthol",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Eucalyptus Menthol"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AH4APJ5G5XEKZ3R5AP5T67RMGBSA",
+    "userId": "AH4APJ5G5XEKZ3R5AP5T67RMGBSA",
+    "position": 1,
+    "totalCategoryRatings": 237,
+    "totalCategoryReviews": 203,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBY5B6L?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBY5B6L&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBY5B6L",
+    "productOriginalAsin": "B0FHBY5B6L",
+    "variantAsin": "B0FHBY5B6L",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHBY5B6L",
+    "country": "United States",
+    "countryCode": null
+  }
+]
