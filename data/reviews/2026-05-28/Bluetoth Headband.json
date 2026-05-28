@@ -1,0 +1,42 @@
+[
+  {
+    "reviewTitle": "Comfortable sleep",
+    "reviewDescription": "This sleep Head band is very comfortable and light weight. I love how loose it is so no headaches from pressure. My favorite thing to do with the sleep Headband is listen to audio books until I fall asleep.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71Nx45QCliL._SY88.jpg"
+    ],
+    "reviewId": "R1SMW58UTQIL4Q",
+    "date": "2026-05-22",
+    "reviewedIn": "Reviewed in the United States on May 22, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1SMW58UTQIL4Q",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGEPBRIS55TCIEWOYO7TY32WJEEQ",
+    "userId": "AGEPBRIS55TCIEWOYO7TY32WJEEQ",
+    "position": 1,
+    "totalCategoryRatings": 127,
+    "totalCategoryReviews": 96,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DNTX3217?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DNTX3217&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DNTX3217",
+    "productOriginalAsin": "B0DNTX3217",
+    "variantAsin": "B0DNTX3217",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DNTX3217",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Too small",
+    "reviewDescription": "Returned item, too small capacity.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R62OCY8X7ORG6",
+    "date": "2026-05-25",
+    "reviewedIn": "Reviewed in the United States on May 25, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R62OCY8X7ORG6",
+    "reviewReaction": null,
+    "isVerified": false,
+    "isAmazonVine": false,
+    "variant": "Color: White Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "White Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHHYBYT5G26BUX5TNGT424PJ2OHQ",
+    "userId": "AHHYBYT5G26BUX5TNGT424PJ2OHQ",
+    "position": 1,
+    "totalCategoryRatings": 173,
+    "totalCategoryReviews": 145,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDSCLZHW?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDSCLZHW&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDSCLZHW",
+    "productOriginalAsin": "B0FDSCLZHW",
+    "variantAsin": "B0FDSCLZHW",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDSCLZHW",
+    "country": "United States",
+    "countryCode": null
+  }
+]
