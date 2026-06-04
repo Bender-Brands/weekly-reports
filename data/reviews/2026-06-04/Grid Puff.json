@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Amazing quality",
+    "reviewDescription": "Simply gorgeous!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3K9NQ9XW5DO2D",
+    "date": "2026-06-02",
+    "reviewedIn": "Reviewed in the United States on June 2, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3K9NQ9XW5DO2D",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: t. Grid Green Liquid Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "t. Grid Green Liquid Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPEXOZT2TKV4D4NJ4UEULRLAKWQ",
+    "userId": "AEPEXOZT2TKV4D4NJ4UEULRLAKWQ",
+    "position": 1,
+    "totalCategoryRatings": 143,
+    "totalCategoryReviews": 86,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJ9KK54?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJ9KK54&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJ9KK54",
+    "productOriginalAsin": "B0DLJ9KK54",
+    "variantAsin": "B0DLJ9KK54",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJ9KK54",
+    "country": "United States",
+    "countryCode": null
+  }
+]

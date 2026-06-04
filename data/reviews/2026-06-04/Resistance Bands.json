@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Terrible quality",
+    "reviewDescription": "I used my band one time and it broke. Not worth the money when the quality doesn't hold up.",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R1OFXKO75XCHHE",
+    "date": "2026-05-29",
+    "reviewedIn": "Reviewed in the United States on May 29, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1OFXKO75XCHHE",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Azure",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Azure"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYUZPHY2FDXI6OJ5WWVEYKJCKZA",
+    "userId": "AHYUZPHY2FDXI6OJ5WWVEYKJCKZA",
+    "position": 1,
+    "totalCategoryRatings": 204,
+    "totalCategoryReviews": 99,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0D5JL2J5L?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0D5JL2J5L&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0D5JL2J5L",
+    "productOriginalAsin": "B0D5JL2J5L",
+    "variantAsin": "B0D5JL2J5L",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0D5JL2J5L",
+    "country": "United States",
+    "countryCode": null
+  }
+]

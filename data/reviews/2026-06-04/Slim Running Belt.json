@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Broken zipper",
+    "reviewDescription": "The zipper doesn't work",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R3BCJ0VSQLAPE",
+    "date": "2026-05-31",
+    "reviewedIn": "Reviewed in the United States on May 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3BCJ0VSQLAPE",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Yellow",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Yellow"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQBJVHC3TTF5QGQNYCKBZF42URQ",
+    "userId": "AHQBJVHC3TTF5QGQNYCKBZF42URQ",
+    "position": 1,
+    "totalCategoryRatings": 1603,
+    "totalCategoryReviews": 401,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B088BDJN5M?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B088BDJN5M&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B088BDJN5M",
+    "productOriginalAsin": "B088BDJN5M",
+    "variantAsin": "B088BDJN5M",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B088BDJN5M",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Cute for college girl",
+    "reviewDescription": "Cute!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RDPRAUILSQT9R",
+    "date": "2026-05-28",
+    "reviewedIn": "Reviewed in the United States on May 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RDPRAUILSQT9R",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: j. Cheetah",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "j. Cheetah"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHDH2RONKYBP3KVZZT5EUQKWXEQA",
+    "userId": "AHDH2RONKYBP3KVZZT5EUQKWXEQA",
+    "position": 1,
+    "totalCategoryRatings": 1049,
+    "totalCategoryReviews": 368,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0B3BXB18G?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0B3BXB18G&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0B3BXB18G",
+    "productOriginalAsin": "B0B3BXB18G",
+    "variantAsin": "B0B3BXB18G",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0B3BXB18G",
+    "country": "United States",
+    "countryCode": null
+  }
+]

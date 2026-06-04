@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Cheap design",
+    "reviewDescription": "Had potential but lacks the basics. Pairing became a nightmare because right out of the box one earbud didn’t charge or connect. So getting them to connect to each other became a tedious task. Sound wasn’t bad but overall design seems cheap. Much better options for the price point.",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R1Y3PL0JXU3GSJ",
+    "date": "2026-05-31",
+    "reviewedIn": "Reviewed in the United States on May 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1Y3PL0JXU3GSJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: White",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "White"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHALUZTDLDQDBVZLJEKP2ZY5LQTQ",
+    "userId": "AHALUZTDLDQDBVZLJEKP2ZY5LQTQ",
+    "position": 1,
+    "totalCategoryRatings": 190,
+    "totalCategoryReviews": 149,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DT34DY5Q?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DT34DY5Q&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DT34DY5Q",
+    "productOriginalAsin": "B0DT34DY5Q",
+    "variantAsin": "B0DT34DY5Q",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DT34DY5Q",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "The best for the gym",
+    "reviewDescription": "These are perfect for the gym",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3DB5XA5Q1F3MM",
+    "date": "2026-05-30",
+    "reviewedIn": "Reviewed in the United States on May 30, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3DB5XA5Q1F3MM",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: White",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "White"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHCDYKNGTCEIUNTM2DOBFB5AQ5Q",
+    "userId": "AFHCDYKNGTCEIUNTM2DOBFB5AQ5Q",
+    "position": 2,
+    "totalCategoryRatings": 190,
+    "totalCategoryReviews": 149,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DT34DY5Q?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DT34DY5Q&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DT34DY5Q",
+    "productOriginalAsin": "B0DT34DY5Q",
+    "variantAsin": "B0DT34DY5Q",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DT34DY5Q",
+    "country": "United States",
+    "countryCode": null
+  }
+]
