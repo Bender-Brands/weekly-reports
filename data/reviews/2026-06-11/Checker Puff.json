@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Cute",
+    "reviewDescription": "Cute and Nice color!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R27W7DPKAIVNY0",
+    "date": "2026-06-08",
+    "reviewedIn": "Reviewed in the United States on June 8, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R27W7DPKAIVNY0",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: x. Checker Champagne",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "x. Checker Champagne"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHMW3FFXS3PWDKNH2KPMN4HFHVZQ",
+    "userId": "AHMW3FFXS3PWDKNH2KPMN4HFHVZQ",
+    "position": 1,
+    "totalCategoryRatings": 103,
+    "totalCategoryReviews": 73,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FKTSCZKC?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FKTSCZKC&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FKTSCZKC",
+    "productOriginalAsin": "B0FKTSCZKC",
+    "variantAsin": "B0FKTSCZKC",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FKTSCZKC",
+    "country": "United States",
+    "countryCode": null
+  }
+]

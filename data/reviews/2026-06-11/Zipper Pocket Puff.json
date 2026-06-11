@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Great cushion",
+    "reviewDescription": "I love these. They provide great cushioning for my laptops",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R27JW6GN0DA727",
+    "date": "2026-06-05",
+    "reviewedIn": "Reviewed in the United States on June 5, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R27JW6GN0DA727",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sage",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sage"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6KVM5ZD2XTSB5VISVORBMG2MOQ",
+    "userId": "AG6KVM5ZD2XTSB5VISVORBMG2MOQ",
+    "position": 1,
+    "totalCategoryRatings": 89,
+    "totalCategoryReviews": 84,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLRWBV64?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLRWBV64&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLRWBV64",
+    "productOriginalAsin": "B0FLRWBV64",
+    "variantAsin": "B0FLRWBV64",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLRWBV64",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Love love love!",
+    "reviewDescription": "Love it! It’s cute protects my laptop and stylish",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2JML41EWFS1KH",
+    "date": "2026-06-05",
+    "reviewedIn": "Reviewed in the United States on June 5, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2JML41EWFS1KH",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Latte",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Latte"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE43JEHRTVN4WMMPBQPTFACXJBMQ",
+    "userId": "AE43JEHRTVN4WMMPBQPTFACXJBMQ",
+    "position": 2,
+    "totalCategoryRatings": 89,
+    "totalCategoryReviews": 84,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLRWBV64?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLRWBV64&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLRWBV64",
+    "productOriginalAsin": "B0FLRWBV64",
+    "variantAsin": "B0FLRWBV64",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLRWBV64",
+    "country": "United States",
+    "countryCode": null
+  }
+]

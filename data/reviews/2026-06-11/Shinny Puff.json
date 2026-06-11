@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Love it",
+    "reviewDescription": "Great",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1JCB5Y1HI9550",
+    "date": "2026-06-06",
+    "reviewedIn": "Reviewed in the United States on June 6, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1JCB5Y1HI9550",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: g. Shiny Silver",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "g. Shiny Silver"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGL6JKY555LM64R54JJYPLPGC6BA",
+    "userId": "AGL6JKY555LM64R54JJYPLPGC6BA",
+    "position": 1,
+    "totalCategoryRatings": 312,
+    "totalCategoryReviews": 107,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6NV36G1?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6NV36G1&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6NV36G1",
+    "productOriginalAsin": "B0C6NV36G1",
+    "variantAsin": "B0C6NV36G1",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6NV36G1",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Case",
+    "reviewDescription": "Beautiful",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RHT7UBPW4S1HK",
+    "date": "2026-06-04",
+    "reviewedIn": "Reviewed in the United States on June 4, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RHT7UBPW4S1HK",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Shiny Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Shiny Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFKG3UWN2QKU7YK6OPXSTX2DI4WQ",
+    "userId": "AFKG3UWN2QKU7YK6OPXSTX2DI4WQ",
+    "position": 2,
+    "totalCategoryRatings": 312,
+    "totalCategoryReviews": 107,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6NV36G1?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6NV36G1&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6NV36G1",
+    "productOriginalAsin": "B0C6NV36G1",
+    "variantAsin": "B0C6NV36G1",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6NV36G1",
+    "country": "United States",
+    "countryCode": null
+  }
+]
