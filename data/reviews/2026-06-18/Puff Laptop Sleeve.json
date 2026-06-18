@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Thickness questionable",
+    "reviewDescription": "Thought it’s be thicker but still very nice",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RAVS5HAP04AO6",
+    "date": "2026-06-13",
+    "reviewedIn": "Reviewed in the United States on June 13, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RAVS5HAP04AO6",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: h. Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "h. Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGTTDNVAIYOTRST2RXGNXYIWI7ZQ",
+    "userId": "AGTTDNVAIYOTRST2RXGNXYIWI7ZQ",
+    "position": 1,
+    "totalCategoryRatings": 5809,
+    "totalCategoryReviews": 1237,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6P2RP52?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6P2RP52&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6P2RP52",
+    "productOriginalAsin": "B0C6P2RP52",
+    "variantAsin": "B0C6P2RP52",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6P2RP52",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Excelente",
+    "reviewDescription": "Muy buena calidad acorde al valor",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RUGANEQIW6F3X",
+    "date": "2026-06-12",
+    "reviewedIn": "Reviewed in the United States on June 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RUGANEQIW6F3X",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: j. Black Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "j. Black Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFNJOIWX6ORCOFSQGC27N2F3LVXA",
+    "userId": "AFNJOIWX6ORCOFSQGC27N2F3LVXA",
+    "position": 2,
+    "totalCategoryRatings": 5809,
+    "totalCategoryReviews": 1237,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6P2RP52?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6P2RP52&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6P2RP52",
+    "productOriginalAsin": "B0C6P2RP52",
+    "variantAsin": "B0C6P2RP52",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6P2RP52",
+    "country": "United States",
+    "countryCode": null
+  }
+]

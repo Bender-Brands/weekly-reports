@@ -1,0 +1,111 @@
+[
+  {
+    "reviewTitle": "Love these packing cubes!",
+    "reviewDescription": "These are awesome! Bought them for a trip and was surprised by how much I was able to put into each one. They all have expandable zippers for extra room, even the smallest one. Truly space savers when packing my suitcase.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R18NF0UKB5LIXZ",
+    "date": "2026-06-16",
+    "reviewedIn": "Reviewed in the United States on June 16, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R18NF0UKB5LIXZ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": null,
+    "variantAttributes": null,
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJD6RGEQBOJBFP26RCMVZ4JWHPA",
+    "userId": "AFJD6RGEQBOJBFP26RCMVZ4JWHPA",
+    "position": 1,
+    "totalCategoryRatings": 64,
+    "totalCategoryReviews": 48,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLZC8Q6Z?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLZC8Q6Z&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLZC8Q6Z",
+    "productOriginalAsin": "B0FLZC8Q6Z",
+    "variantAsin": "B0FLZC8Q6Z",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLZC8Q6Z",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Perfect for organizing undergarments",
+    "reviewDescription": "The compression and ability to expand was impressive. Absolutely loved these for our month long trip across the country",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R32KD9LZZ7GYZY",
+    "date": "2026-06-12",
+    "reviewedIn": "Reviewed in the United States on June 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R32KD9LZZ7GYZY",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "2. Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXE7RIVGAEASITHRXAEN6O5O4JQ",
+    "userId": "AFXE7RIVGAEASITHRXAEN6O5O4JQ",
+    "position": 2,
+    "totalCategoryRatings": 64,
+    "totalCategoryReviews": 48,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLZC8Q6Z?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLZC8Q6Z&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLZC8Q6Z",
+    "productOriginalAsin": "B0FLZC8Q6Z",
+    "variantAsin": "B0FLZC8Q6Z",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLZC8Q6Z",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Title: Nice Fabric and Colors, But Bags Lack Practicality and Clear Sizing",
+    "reviewDescription": "I’m rating this product 3 stars because while the fabric is soft and colorful, the overall construction and sizing of the bags leave much to be desired. Some of the bags are too small to be useful. The sizing across the set is very similar, which makes it difficult to figure out which bag is best for each purpose. Adding labels or organizing containers would make the set much more user-friendly. As it stands, I don’t recommend this product.",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R1DG6DJA4Z0WFW",
+    "date": "2026-06-12",
+    "reviewedIn": "Reviewed in the United States on June 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1DG6DJA4Z0WFW",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHEA5VEYYATFP3XCXXZMDLOXQ4RQ",
+    "userId": "AHEA5VEYYATFP3XCXXZMDLOXQ4RQ",
+    "position": 1,
+    "totalCategoryRatings": 44,
+    "totalCategoryReviews": 33,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLZKGN3S?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLZKGN3S&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLZKGN3S",
+    "productOriginalAsin": "B0FLZKGN3S",
+    "variantAsin": "B0FLZKGN3S",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLZKGN3S",
+    "country": "United States",
+    "countryCode": null
+  }
+]

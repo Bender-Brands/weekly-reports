@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Great Toiletry Bag!",
+    "reviewDescription": "I purchased the black toiletry bag for my teen neighbor's first plane trip. She liked it so much that she uses it every day to organize her toiletries. It stores all of her items, and it keeps everything organized. She keeps it hanging on her bathroom door to conserve space.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R24IFUR2SDZEB3",
+    "date": "2026-06-15",
+    "reviewedIn": "Reviewed in the United States on June 15, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R24IFUR2SDZEB3",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: White Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "White Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHRUBE5DLVMBF4UDBBBZRLUMBO5A",
+    "userId": "AHRUBE5DLVMBF4UDBBBZRLUMBO5A",
+    "position": 1,
+    "totalCategoryRatings": 180,
+    "totalCategoryReviews": 150,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDS8L5DR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDS8L5DR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDS8L5DR",
+    "productOriginalAsin": "B0FDS8L5DR",
+    "variantAsin": "B0FDS8L5DR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDS8L5DR",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Surprise Graduate!❤️",
+    "reviewDescription": "College Graduate loved it!!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R36W6T6YTVTEYV",
+    "date": "2026-06-11",
+    "reviewedIn": "Reviewed in the United States on June 11, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R36W6T6YTVTEYV",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHMGKYVADUFP7UZJ4S2QRC2QEISQ",
+    "userId": "AHMGKYVADUFP7UZJ4S2QRC2QEISQ",
+    "position": 2,
+    "totalCategoryRatings": 180,
+    "totalCategoryReviews": 150,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDS8L5DR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDS8L5DR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDS8L5DR",
+    "productOriginalAsin": "B0FDS8L5DR",
+    "variantAsin": "B0FDS8L5DR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDS8L5DR",
+    "country": "United States",
+    "countryCode": null
+  }
+]
