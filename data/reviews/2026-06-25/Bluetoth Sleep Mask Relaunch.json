@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Amazing product!",
+    "reviewDescription": "The sleep mask is so silky and soft! Helped me sleep so much better! Love this product!!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RDQPTTWISDO81",
+    "date": "2026-06-22",
+    "reviewedIn": "Reviewed in the United States on June 22, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RDQPTTWISDO81",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Navy",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Navy"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEU53GNGLCXMZETTVHCYUUYKRVPA",
+    "userId": "AEU53GNGLCXMZETTVHCYUUYKRVPA",
+    "position": 1,
+    "totalCategoryRatings": 31,
+    "totalCategoryReviews": 31,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GWT5QBVG?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GWT5QBVG&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GWT5QBVG",
+    "productOriginalAsin": "B0GWT5QBVG",
+    "variantAsin": "B0GWT5QBVG",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GWT5QBVG",
+    "country": "United States",
+    "countryCode": null
+  }
+]

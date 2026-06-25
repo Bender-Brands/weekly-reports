@@ -1,0 +1,81 @@
+[
+  {
+    "reviewTitle": "Would buy again!",
+    "reviewDescription": "Great quality and padding. Zipper has been good and I’ve had to wash it and it’s it’s still great!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2C9WZETE4QU9C",
+    "date": "2026-06-23",
+    "reviewedIn": "Reviewed in the United States on June 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2C9WZETE4QU9C",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: a. Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "a. Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE36V3WGZLB4CWKIWEATCUFDHOGA",
+    "userId": "AE36V3WGZLB4CWKIWEATCUFDHOGA",
+    "position": 1,
+    "totalCategoryRatings": 5814,
+    "totalCategoryReviews": 1239,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0D466MVWJ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0D466MVWJ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0D466MVWJ",
+    "productOriginalAsin": "B0D466MVWJ",
+    "variantAsin": "B0D466MVWJ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0D466MVWJ",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Cool Puffy Case that Fits My Mac Pro Perfectly and Securely",
+    "reviewDescription": "Easy to use carrying case for my Apple laptop. The soft padding is on the inside and outside, keeping the item from scratches and other damage. Sweet color too. Anyone with a laptop that travels needs a case and it's a great value for your money that I would recommend",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71bNMEoxgmL._SY88.jpg",
+      "https://m.media-amazon.com/images/I/71gGxfRo-fL._SY88.jpg"
+    ],
+    "reviewId": "R50XFQIR0WEU5",
+    "date": "2026-06-21",
+    "reviewedIn": "Reviewed in the United States on June 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R50XFQIR0WEU5",
+    "reviewReaction": "1",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: f. Sage Green",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "f. Sage Green"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBKX5BSMWAXCHNNV7RRI3NSUTKA",
+    "userId": "AGBKX5BSMWAXCHNNV7RRI3NSUTKA",
+    "position": 2,
+    "totalCategoryRatings": 5814,
+    "totalCategoryReviews": 1239,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0D466MVWJ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0D466MVWJ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0D466MVWJ",
+    "productOriginalAsin": "B0D466MVWJ",
+    "variantAsin": "B0D466MVWJ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0D466MVWJ",
+    "country": "United States",
+    "countryCode": null
+  }
+]

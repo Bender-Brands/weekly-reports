@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Didn’t work",
+    "reviewDescription": "Didn’t work for me!",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R1B3YM6SK8Z1SD",
+    "date": "2026-06-19",
+    "reviewedIn": "Reviewed in the United States on June 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1B3YM6SK8Z1SD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGF7MFPAM5PDVACATDINE4U3GLSQ",
+    "userId": "AGF7MFPAM5PDVACATDINE4U3GLSQ",
+    "position": 1,
+    "totalCategoryRatings": 191,
+    "totalCategoryReviews": 82,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  }
+]

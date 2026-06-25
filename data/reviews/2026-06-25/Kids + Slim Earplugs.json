@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Garbage",
+    "reviewDescription": "These are garbage. They don’t block any sound. They fall out and still hurt your ears",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R3NW5F00WUA28K",
+    "date": "2026-06-21",
+    "reviewedIn": "Reviewed in the United States on June 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3NW5F00WUA28K",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHOCDSPCXJIRHUXCVXACIMN4NFGQ",
+    "userId": "AHOCDSPCXJIRHUXCVXACIMN4NFGQ",
+    "position": 1,
+    "totalCategoryRatings": 199,
+    "totalCategoryReviews": 148,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8D88TN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8D88TN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8D88TN",
+    "productOriginalAsin": "B0FN8D88TN",
+    "variantAsin": "B0FN8D88TN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8D88TN",
+    "country": "United States",
+    "countryCode": null
+  }
+]
