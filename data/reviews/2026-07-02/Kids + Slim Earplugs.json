@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Hurts my ears",
+    "reviewDescription": "They work ok to block sound, but cause too much pressure on the insides of my ears and hurts throughout the night. Cannot use.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R2RNIB5W523QTS",
+    "date": "2026-06-26",
+    "reviewedIn": "Reviewed in the United States on June 26, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2RNIB5W523QTS",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEWGNN2RJ2OLF7R7QLSYDE4U6DUQ",
+    "userId": "AEWGNN2RJ2OLF7R7QLSYDE4U6DUQ",
+    "position": 1,
+    "totalCategoryRatings": 204,
+    "totalCategoryReviews": 151,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GWTGH8WR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GWTGH8WR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GWTGH8WR",
+    "productOriginalAsin": "B0GWTGH8WR",
+    "variantAsin": "B0GWTGH8WR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GWTGH8WR",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Great slim earplugs",
+    "reviewDescription": "These ear plugs are great! I have tiny ears and am always struggling with foamies when I go to the range. I thought it was operator error until I realized I had tiny ears canals. These fit the bill and work great. They work well for noise cancellation under over ears shooting protection.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3EBHEZNZ839EN",
+    "date": "2026-06-25",
+    "reviewedIn": "Reviewed in the United States on June 25, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3EBHEZNZ839EN",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEAGKM5VKITPGXD6MJLC4VJ6435A",
+    "userId": "AEAGKM5VKITPGXD6MJLC4VJ6435A",
+    "position": 2,
+    "totalCategoryRatings": 204,
+    "totalCategoryReviews": 151,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GWTGH8WR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GWTGH8WR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GWTGH8WR",
+    "productOriginalAsin": "B0GWTGH8WR",
+    "variantAsin": "B0GWTGH8WR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GWTGH8WR",
+    "country": "United States",
+    "countryCode": null
+  }
+]

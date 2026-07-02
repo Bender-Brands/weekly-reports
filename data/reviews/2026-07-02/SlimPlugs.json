@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Great",
+    "reviewDescription": "great, vary good noise control and easy to sleep with",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2WZE3AQWAISQN",
+    "date": "2026-06-29",
+    "reviewedIn": "Reviewed in the United States on June 29, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2WZE3AQWAISQN",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: One Size",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "One Size"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFB652GWIG25CHJ3EZBXTESBWF4Q",
+    "userId": "AFB652GWIG25CHJ3EZBXTESBWF4Q",
+    "position": 1,
+    "totalCategoryRatings": 239,
+    "totalCategoryReviews": 168,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM71CR68?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM71CR68&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM71CR68",
+    "productOriginalAsin": "B0DM71CR68",
+    "variantAsin": "B0DM71CR68",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM71CR68",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "awesome",
+    "reviewDescription": "awesome",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R22E9JPCMDB2A3",
+    "date": "2026-06-28",
+    "reviewedIn": "Reviewed in the United States on June 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R22E9JPCMDB2A3",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: One Size",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "One Size"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE45HYVNXKDB4FE6XEVIFMBOUDUA",
+    "userId": "AE45HYVNXKDB4FE6XEVIFMBOUDUA",
+    "position": 2,
+    "totalCategoryRatings": 239,
+    "totalCategoryReviews": 168,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM71CR68?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM71CR68&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM71CR68",
+    "productOriginalAsin": "B0DM71CR68",
+    "variantAsin": "B0DM71CR68",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM71CR68",
+    "country": "United States",
+    "countryCode": null
+  }
+]
