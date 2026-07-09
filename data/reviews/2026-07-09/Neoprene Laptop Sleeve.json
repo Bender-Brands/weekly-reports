@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Quality",
+    "reviewDescription": "Cute, easy to install and compatible.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1LUFCJJVABL4F",
+    "date": "2026-07-02",
+    "reviewedIn": "Reviewed in the United States on July 2, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1LUFCJJVABL4F",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: a. Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "a. Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHZM5VHTAWBYZHQSNBFLWPC5R6HA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHZM5VHTAWBYZHQSNBFLWPC5R6HA",
+    "position": 1,
+    "totalCategoryRatings": 1076,
+    "totalCategoryReviews": 373,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DVCVPL38?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DVCVPL38&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DVCVPL38",
+    "productOriginalAsin": "B0DVCVPL38",
+    "variantAsin": "B0DVCVPL38",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DVCVPL38",
+    "country": "United States",
+    "countryCode": null
+  }
+]

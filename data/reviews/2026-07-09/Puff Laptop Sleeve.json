@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Love",
+    "reviewDescription": "Super durable, padded to keep iPad safe",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R6005VM8OF6S9",
+    "date": "2026-07-04",
+    "reviewedIn": "Reviewed in the United States on July 4, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R6005VM8OF6S9",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: d. Latte",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "d. Latte"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXNPVIQ3PPVVNJ2FK5R7BBKBC2Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFXNPVIQ3PPVVNJ2FK5R7BBKBC2Q",
+    "position": 1,
+    "totalCategoryRatings": 5823,
+    "totalCategoryReviews": 1240,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0D4652RMZ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0D4652RMZ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0D4652RMZ",
+    "productOriginalAsin": "B0D4652RMZ",
+    "variantAsin": "B0D4652RMZ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0D4652RMZ",
+    "country": "United States",
+    "countryCode": null
+  }
+]
