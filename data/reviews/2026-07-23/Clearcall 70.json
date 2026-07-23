@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Incredible headphones",
+    "reviewDescription": "These headphones are a game changer. I use them for all day meetings and they are great. Amazing sound quality and they recommend with my laptop instantly every morning when I turn my laptop on. They are super comfortable for long use and I feel like they are worth every penny I spend on getting them",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2DWX1DQO3B2S2",
+    "date": "2026-07-18",
+    "reviewedIn": "Reviewed in the United States on July 18, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2DWX1DQO3B2S2",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHVYYIM55XSLXIU3O3YL7IBBAXQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEHVYYIM55XSLXIU3O3YL7IBBAXQ",
+    "position": 1,
+    "totalCategoryRatings": 198,
+    "totalCategoryReviews": 133,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0953K35L4?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0953K35L4&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0953K35L4",
+    "productOriginalAsin": "B0953K35L4",
+    "variantAsin": "B0953K35L4",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0953K35L4",
+    "country": "United States",
+    "countryCode": null
+  }
+]
