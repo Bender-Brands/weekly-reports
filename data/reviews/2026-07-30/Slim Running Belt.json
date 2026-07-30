@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Good value",
+    "reviewDescription": "Wish it had a smaller since since im currently using the tightest setting at a 5’5” man but so far it works great and holds the essentials!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R38FNQCXWPFROY",
+    "date": "2026-07-23",
+    "reviewedIn": "Reviewed in the United States on July 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R38FNQCXWPFROY",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "2. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJJY3KX4QWQDIT6AV42RGKHTD3A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFJJY3KX4QWQDIT6AV42RGKHTD3A",
+    "position": 1,
+    "totalCategoryRatings": 1384,
+    "totalCategoryReviews": 318,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B088BDJN5M?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B088BDJN5M&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B088BDJN5M",
+    "productOriginalAsin": "B088BDJN5M",
+    "variantAsin": "B088BDJN5M",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B088BDJN5M",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Running Belt",
+    "reviewDescription": "It’s great for holding my phone, keys and lip gloss. It definitely stays in place.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R37RQ3S8ZEFGRW",
+    "date": "2026-07-28",
+    "reviewedIn": "Reviewed in the United States on July 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R37RQ3S8ZEFGRW",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 3. Black Camo",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "3. Black Camo"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHIFDM5J35JZG7EB2RPUTCRB4ZUA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHIFDM5J35JZG7EB2RPUTCRB4ZUA",
+    "position": 1,
+    "totalCategoryRatings": 19,
+    "totalCategoryReviews": 8,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DCHBF76Y?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DCHBF76Y&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DCHBF76Y",
+    "productOriginalAsin": "B0DCHBF76Y",
+    "variantAsin": "B0DCHBF76Y",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DCHBF76Y",
+    "country": "United States",
+    "countryCode": null
+  }
+]

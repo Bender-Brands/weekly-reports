@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Very spacious",
+    "reviewDescription": "Very cute and spacious packing cubes !",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2OKNUHS728QGY",
+    "date": "2026-07-23",
+    "reviewedIn": "Reviewed in the United States on July 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2OKNUHS728QGY",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFR4NEHYMLZH3NIFMM7THQSZXSZQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFR4NEHYMLZH3NIFMM7THQSZXSZQ",
+    "position": 1,
+    "totalCategoryRatings": 33,
+    "totalCategoryReviews": 32,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0G546ZZP1?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0G546ZZP1&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0G546ZZP1",
+    "productOriginalAsin": "B0G546ZZP1",
+    "variantAsin": "B0G546ZZP1",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0G546ZZP1",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "You’ll want more",
+    "reviewDescription": "ABSOLUTELY AMAZING!! I love packing in them!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RBDB0P9OK1874",
+    "date": "2026-07-24",
+    "reviewedIn": "Reviewed in the United States on July 24, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RBDB0P9OK1874",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHFJFNCTIUYZ7L4DR5GXRWZMIWQQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHFJFNCTIUYZ7L4DR5GXRWZMIWQQ",
+    "position": 1,
+    "totalCategoryRatings": 331,
+    "totalCategoryReviews": 128,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJ7HBSR?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJ7HBSR&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJ7HBSR",
+    "productOriginalAsin": "B0DLJ7HBSR",
+    "variantAsin": "B0DLJ7HBSR",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJ7HBSR",
+    "country": "United States",
+    "countryCode": null
+  }
+]

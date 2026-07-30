@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Does what it’s suppose to for sure",
+    "reviewDescription": "very padded and comfy. love.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RFLXPMOLQMYRS",
+    "date": "2026-07-25",
+    "reviewedIn": "Reviewed in the United States on July 25, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RFLXPMOLQMYRS",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 2. Latte",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "2. Latte"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFER53IBWNIJZPXN5GQ7LFOYE2LA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFER53IBWNIJZPXN5GQ7LFOYE2LA",
+    "position": 1,
+    "totalCategoryRatings": 160,
+    "totalCategoryReviews": 78,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJPJG7V?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJPJG7V&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJPJG7V",
+    "productOriginalAsin": "B0DLJPJG7V",
+    "variantAsin": "B0DLJPJG7V",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJPJG7V",
+    "country": "United States",
+    "countryCode": null
+  }
+]
