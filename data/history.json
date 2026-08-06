@@ -1866,7 +1866,7 @@
     }
   },
   {
-    "date": "2026-07-30",
+    "date": "2026-08-06",
     "brands": {
       "Back Bay": {
         "products": {
@@ -1875,15 +1875,15 @@
             "stats": {
               "stars": {
                 "1": 1,
-                "2": 0,
+                "2": 1,
                 "3": 0,
-                "4": 2,
-                "5": 4
+                "4": 1,
+                "5": 2
               },
-              "total": 7,
-              "average": 4.14
+              "total": 5,
+              "average": 3.4
             },
-            "newReviewsKeepa": 14,
+            "newReviewsKeepa": 12,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -1901,23 +1901,23 @@
               "average": 0
             },
             "newReviewsKeepa": 0,
-            "cumulativeRating": 4.3,
+            "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.3
           },
           "Slim Running Belt": {
             "asin": "B0DCHF8KVY",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 2
+                "5": 1
               },
-              "total": 2,
-              "average": 5
+              "total": 3,
+              "average": 3
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -1925,16 +1925,16 @@
             "asin": "B0BRL5KJ96",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 1
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -1944,33 +1944,33 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 5
+                "5": 4
               },
               "total": 5,
-              "average": 5
+              "average": 4.6
             },
-            "newReviewsKeepa": 10,
-            "cumulativeRating": 4.4,
-            "prevCumulativeRating": 4.3
+            "newReviewsKeepa": 14,
+            "cumulativeRating": 4.3,
+            "prevCumulativeRating": 4.4
           },
           "Runner 40 Relaunch": {
             "asin": "B0FM1K5C1D",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 1
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 3.9,
-            "prevCumulativeRating": 4
+            "prevCumulativeRating": 3.9
           },
           "SlimPlugs": {
             "asin": "B0F964YYYW",
@@ -1985,9 +1985,9 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
-            "prevCumulativeRating": 4.3
+            "prevCumulativeRating": 4.2
           },
           "FirstClass 50": {
             "asin": "B0DJVD98M1",
@@ -2002,7 +2002,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -2036,7 +2036,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -2053,8 +2053,8 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
-            "cumulativeRating": 3.9,
+            "newReviewsKeepa": 2,
+            "cumulativeRating": 4,
             "prevCumulativeRating": 3.9
           },
           "Bluetoth Sleep Mask Relaunch": {
@@ -2062,17 +2062,17 @@
             "stats": {
               "stars": {
                 "1": 2,
-                "2": 1,
+                "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 0
               },
-              "total": 6,
-              "average": 3.17
+              "total": 2,
+              "average": 1
             },
-            "newReviewsKeepa": 18,
-            "cumulativeRating": 4.1,
-            "prevCumulativeRating": 4.5
+            "newReviewsKeepa": 9,
+            "cumulativeRating": 3.8,
+            "prevCumulativeRating": 4.1
           },
           "Bluetoth Headband": {
             "asin": "B0FNNSCCQT",
@@ -2087,8 +2087,8 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 2,
-            "cumulativeRating": 4,
+            "newReviewsKeepa": 4,
+            "cumulativeRating": 4.1,
             "prevCumulativeRating": 4
           }
         }
@@ -2099,16 +2099,16 @@
             "asin": "B09HSRT8NG",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 3
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -2137,12 +2137,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.9,
             "prevCumulativeRating": 4.9
           },
@@ -2159,7 +2159,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2167,16 +2167,16 @@
             "asin": "B09KHHVNFN",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 5
               },
-              "total": 0,
-              "average": 0
+              "total": 6,
+              "average": 4.33
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 6,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2188,14 +2188,14 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 2
+                "5": 1
               },
-              "total": 2,
+              "total": 1,
               "average": 5
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 16,
             "cumulativeRating": 5,
-            "prevCumulativeRating": 4.9
+            "prevCumulativeRating": 5
           },
           "Puff Shoulder Bag": {
             "asin": "B0FLGFQCQZ",
@@ -2205,14 +2205,14 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 10,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.6,
-            "prevCumulativeRating": 4.5
+            "prevCumulativeRating": 4.6
           },
           "Shinny Puff": {
             "asin": "B0DJN5TJ5Z",
@@ -2227,9 +2227,9 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.8,
-            "prevCumulativeRating": 4.7
+            "prevCumulativeRating": 4.8
           },
           "Vandel Pocket": {
             "asin": "B08DYDRCKD",
@@ -2244,7 +2244,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2261,7 +2261,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2309,14 +2309,14 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 4.33
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 5,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
           },
@@ -2358,16 +2358,16 @@
             "asin": "B0GZ2XJC9K",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 4
+                "5": 2
               },
-              "total": 4,
-              "average": 5
+              "total": 3,
+              "average": 3.67
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 3,
             "cumulativeRating": 5,
             "prevCumulativeRating": 5
           }
@@ -2379,17 +2379,17 @@
             "asin": "B0CLMJMYRD",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 1
             },
-            "newReviewsKeepa": 0,
-            "cumulativeRating": 4.5,
+            "newReviewsKeepa": 2,
+            "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.5
           },
           "Booty Bands": {

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Stylish and Functional!",
+    "reviewDescription": "Fits my iPad Air M3 and is very stylish. Has a good zipper. Also has enough room for charging brick and cord.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3J9OHUYSAR2HO",
+    "date": "2026-08-02",
+    "reviewedIn": "Reviewed in the United States on August 2, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3J9OHUYSAR2HO",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: g. Sand Crunch",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "g. Sand Crunch"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGH5DJC7JMIHREUWRURHD7M5534Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGH5DJC7JMIHREUWRURHD7M5534Q",
+    "position": 1,
+    "totalCategoryRatings": 104,
+    "totalCategoryReviews": 74,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FKTZH12J?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FKTZH12J&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FKTZH12J",
+    "productOriginalAsin": "B0FKTZH12J",
+    "variantAsin": "B0FKTZH12J",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FKTZH12J",
+    "country": "United States",
+    "countryCode": null
+  }
+]

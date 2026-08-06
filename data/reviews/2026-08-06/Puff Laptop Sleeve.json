@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Zipper is crap",
+    "reviewDescription": "Zipper is crap",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R17CBW7F7K7I1Z",
+    "date": "2026-08-03",
+    "reviewedIn": "Reviewed in the United States on August 3, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R17CBW7F7K7I1Z",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: a. Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "a. Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEX6YUELUDKI6RHLL6LCFKAY5LCQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEX6YUELUDKI6RHLL6LCFKAY5LCQ",
+    "position": 1,
+    "totalCategoryRatings": 4066,
+    "totalCategoryReviews": 897,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6NMYWM2?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6NMYWM2&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6NMYWM2",
+    "productOriginalAsin": "B0C6NMYWM2",
+    "variantAsin": "B0C6NMYWM2",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6NMYWM2",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Sturdy bag",
+    "reviewDescription": "Exactly what is promised.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2G4RD65KWAL7Q",
+    "date": "2026-08-03",
+    "reviewedIn": "Reviewed in the United States on August 3, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2G4RD65KWAL7Q",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGAQMXHXQTVFPLM2GXHHQEQUM2HA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGAQMXHXQTVFPLM2GXHHQEQUM2HA",
+    "position": 2,
+    "totalCategoryRatings": 4066,
+    "totalCategoryReviews": 897,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6NMYWM2?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6NMYWM2&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6NMYWM2",
+    "productOriginalAsin": "B0C6NMYWM2",
+    "variantAsin": "B0C6NMYWM2",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6NMYWM2",
+    "country": "United States",
+    "countryCode": null
+  }
+]

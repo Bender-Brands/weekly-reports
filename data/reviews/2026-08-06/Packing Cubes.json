@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Super convenient and cute",
+    "reviewDescription": "I love these packing cubes! They come with a few different sizes and are super cute. I definitely recommend! So convenient for packing.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RWD8KWDSO0ZBS",
+    "date": "2026-08-03",
+    "reviewedIn": "Reviewed in the United States on August 3, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RWD8KWDSO0ZBS",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF7J2YN5PIMQFQIZNGB5CTTNUO6A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AF7J2YN5PIMQFQIZNGB5CTTNUO6A",
+    "position": 1,
+    "totalCategoryRatings": 49,
+    "totalCategoryReviews": 46,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0G5457VWJ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0G5457VWJ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0G5457VWJ",
+    "productOriginalAsin": "B0G5457VWJ",
+    "variantAsin": "B0G5457VWJ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0G5457VWJ",
+    "country": "United States",
+    "countryCode": null
+  }
+]

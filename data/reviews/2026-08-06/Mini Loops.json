@@ -1,0 +1,42 @@
+[
+  {
+    "reviewTitle": "Incomplete missing bands",
+    "reviewDescription": "It only came with 3 bands and not five, only the first three were in my package and the two heavy bands were missing",
+    "ratingScore": 1,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71nIDttN+cL._SY88.jpg"
+    ],
+    "reviewId": "R148ZNFF70FVWG",
+    "date": "2026-07-30",
+    "reviewedIn": "Reviewed in the United States on July 30, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R148ZNFF70FVWG",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 5 Pack - Popsicle",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "5 Pack - Popsicle"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFA5JI72MT7SKNSZQLL6AQNO3FWA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFA5JI72MT7SKNSZQLL6AQNO3FWA",
+    "position": 1,
+    "totalCategoryRatings": 162,
+    "totalCategoryReviews": 52,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DMJ6YZC2?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DMJ6YZC2&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DMJ6YZC2",
+    "productOriginalAsin": "B0DMJ6YZC2",
+    "variantAsin": "B0DMJ6YZC2",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DMJ6YZC2",
+    "country": "United States",
+    "countryCode": null
+  }
+]
