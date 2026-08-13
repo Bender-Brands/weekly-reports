@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Better than Walmart!",
+    "reviewDescription": "These headphones last me 2 days on a single charge and I listen to a lot of music. The price is right. Quality is excellent. Highly recommend this product to family and friends.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R16X6L4YMATDXF",
+    "date": "2026-08-06",
+    "reviewedIn": "Reviewed in the United States on August 6, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R16X6L4YMATDXF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFP4FECTDA2HJWSZNKDDF63RHBOA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFP4FECTDA2HJWSZNKDDF63RHBOA",
+    "position": 1,
+    "totalCategoryRatings": 201,
+    "totalCategoryReviews": 134,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0953K35L4?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0953K35L4&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0953K35L4",
+    "productOriginalAsin": "B0953K35L4",
+    "variantAsin": "B0953K35L4",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0953K35L4",
+    "country": "United States",
+    "countryCode": null
+  }
+]

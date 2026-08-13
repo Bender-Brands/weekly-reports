@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Too small in diameter.",
+    "reviewDescription": "They are too small in diameter for my ears. Almost lost one and had to use tweezers to get it out. Not for me.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R3ROEMD8G8LNL9",
+    "date": "2026-08-08",
+    "reviewedIn": "Reviewed in the United States on August 8, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3ROEMD8G8LNL9",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: One Size",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "One Size"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQWKA6MAGKIZQKDY7MK47WROGGQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFQWKA6MAGKIZQKDY7MK47WROGGQ",
+    "position": 1,
+    "totalCategoryRatings": 247,
+    "totalCategoryReviews": 169,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM71F86X?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM71F86X&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM71F86X",
+    "productOriginalAsin": "B0DM71F86X",
+    "variantAsin": "B0DM71F86X",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM71F86X",
+    "country": "United States",
+    "countryCode": null
+  }
+]

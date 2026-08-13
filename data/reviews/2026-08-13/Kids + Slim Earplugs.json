@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Ear plugs",
+    "reviewDescription": "Great",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R18WP47Y3ZDSMJ",
+    "date": "2026-08-07",
+    "reviewedIn": "Reviewed in the United States on August 7, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R18WP47Y3ZDSMJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGROF3BTHY4NF6F7AC2DLZ4PUSVQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGROF3BTHY4NF6F7AC2DLZ4PUSVQ",
+    "position": 1,
+    "totalCategoryRatings": 246,
+    "totalCategoryReviews": 170,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GWT9T7NF?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GWT9T7NF&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GWT9T7NF",
+    "productOriginalAsin": "B0GWT9T7NF",
+    "variantAsin": "B0GWT9T7NF",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GWT9T7NF",
+    "country": "United States",
+    "countryCode": null
+  }
+]
