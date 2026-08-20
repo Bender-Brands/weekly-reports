@@ -1866,7 +1866,7 @@
     }
   },
   {
-    "date": "2026-08-13",
+    "date": "2026-08-20",
     "brands": {
       "Back Bay": {
         "products": {
@@ -1874,16 +1874,16 @@
             "asin": "B09DB8XK9Y",
             "stats": {
               "stars": {
-                "1": 2,
-                "2": 1,
-                "3": 1,
+                "1": 0,
+                "2": 0,
+                "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 5,
-              "average": 2.4
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 13,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -1900,7 +1900,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -1946,12 +1946,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 7,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -1968,8 +1968,8 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
-            "cumulativeRating": 3.9,
+            "newReviewsKeepa": 2,
+            "cumulativeRating": 4,
             "prevCumulativeRating": 3.9
           },
           "SlimPlugs": {
@@ -1977,15 +1977,15 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 1,
+                "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 2
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -2002,7 +2002,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 2,
             "cumulativeRating": 4.2,
             "prevCumulativeRating": 4.2
           },
@@ -2014,12 +2014,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 1,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4,
             "prevCumulativeRating": 4
           },
@@ -2053,26 +2053,60 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
-            "cumulativeRating": 4,
+            "newReviewsKeepa": 1,
+            "cumulativeRating": 3.9,
             "prevCumulativeRating": 4
           },
-          "Bluetoth Sleep Mask Relaunch": {
-            "asin": "B0GWSWVF26",
+          "Sleep Mask R1 Navy": {
+            "asin": "B0GWT6KCH8",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 1,
-                "5": 3
+                "4": 0,
+                "5": 0
               },
-              "total": 5,
-              "average": 4
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 5,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.1,
-            "prevCumulativeRating": 3.8
+            "prevCumulativeRating": 4.1
+          },
+          "Sleep Mask R1 Pink": {
+            "asin": "B0HF8WLTM4",
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "newReviewsKeepa": 3,
+            "cumulativeRating": 3.2,
+            "prevCumulativeRating": 3.2
+          },
+          "Sleep Mask R1 Black": {
+            "asin": "B0GWT5QBVG",
+            "stats": {
+              "stars": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+              },
+              "total": 0,
+              "average": 0
+            },
+            "newReviewsKeepa": 0,
+            "cumulativeRating": 3,
+            "prevCumulativeRating": 3
           },
           "Bluetoth Headband": {
             "asin": "B0FNNSCCQT",
@@ -2087,7 +2121,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.1,
             "prevCumulativeRating": 4.1
           }
@@ -2101,14 +2135,14 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 1,
+                "3": 0,
                 "4": 0,
-                "5": 1
+                "5": 0
               },
-              "total": 2,
-              "average": 4
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 35,
             "cumulativeRating": 4.7,
             "prevCumulativeRating": 4.7
           },
@@ -2142,7 +2176,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.9,
             "prevCumulativeRating": 4.9
           },
@@ -2159,7 +2193,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2171,12 +2205,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 4
+                "5": 0
               },
-              "total": 4,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 34,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           },
@@ -2188,13 +2222,13 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 3
+                "5": 0
               },
-              "total": 3,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 5,
-            "cumulativeRating": 5,
+            "newReviewsKeepa": 3,
+            "cumulativeRating": 4.9,
             "prevCumulativeRating": 5
           },
           "Puff Shoulder Bag": {
@@ -2212,7 +2246,7 @@
             },
             "newReviewsKeepa": 2,
             "cumulativeRating": 4.5,
-            "prevCumulativeRating": 4.6
+            "prevCumulativeRating": 4.5
           },
           "Shinny Puff": {
             "asin": "B0DJN5TJ5Z",
@@ -2227,9 +2261,9 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 5,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.7,
-            "prevCumulativeRating": 4.8
+            "prevCumulativeRating": 4.7
           },
           "Vandel Pocket": {
             "asin": "B08DYDRCKD",
@@ -2244,7 +2278,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 1,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2261,7 +2295,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 4.5,
             "prevCumulativeRating": 4.5
           },
@@ -2295,7 +2329,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 1,
             "cumulativeRating": 4.6,
             "prevCumulativeRating": 4.6
           }
@@ -2316,7 +2350,7 @@
               "total": 0,
               "average": 0
             },
-            "newReviewsKeepa": 4,
+            "newReviewsKeepa": 7,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
           },
@@ -2352,7 +2386,7 @@
             },
             "newReviewsKeepa": 1,
             "cumulativeRating": 4,
-            "prevCumulativeRating": 3.9
+            "prevCumulativeRating": 4
           },
           "Shower Steamer R1 Relaunch": {
             "asin": "B0GZ2XJC9K",
@@ -2362,12 +2396,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 2
+                "5": 0
               },
-              "total": 2,
-              "average": 5
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 5,
             "prevCumulativeRating": 5
           }
@@ -2413,18 +2447,18 @@
             "asin": "B0CLMS75Z6",
             "stats": {
               "stars": {
-                "1": 1,
+                "1": 0,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 1,
-              "average": 1
+              "total": 0,
+              "average": 0
             },
-            "newReviewsKeepa": 2,
+            "newReviewsKeepa": 0,
             "cumulativeRating": 3.9,
-            "prevCumulativeRating": 4
+            "prevCumulativeRating": 3.9
           }
         }
       }
