@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "runs small",
+    "reviewDescription": "It’s a bit small, and you have to push the magents together to get it to close but it doesn’t open once you do that",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R1CHE8FFWX0ABC",
+    "date": "2026-08-16",
+    "reviewedIn": "Reviewed in the United States on August 16, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1CHE8FFWX0ABC",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: r. Grid Black Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "r. Grid Black Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGA44O73WPU6HTFK6DEFENQZWY3Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGA44O73WPU6HTFK6DEFENQZWY3Q",
+    "position": 1,
+    "totalCategoryRatings": 171,
+    "totalCategoryReviews": 91,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FVGG2ZFW?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FVGG2ZFW&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FVGG2ZFW",
+    "productOriginalAsin": "B0FVGG2ZFW",
+    "variantAsin": "B0FVGG2ZFW",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FVGG2ZFW",
+    "country": "United States",
+    "countryCode": null
+  }
+]

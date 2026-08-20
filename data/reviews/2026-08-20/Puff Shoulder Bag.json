@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Love it!",
+    "reviewDescription": "Awesome bag, great quality! Love it!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2MH9IFRZXN9UU",
+    "date": "2026-08-17",
+    "reviewedIn": "Reviewed in the United States on August 17, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2MH9IFRZXN9UU",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFBW5GAFJDCWG5HJEO66CFFOARTQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFBW5GAFJDCWG5HJEO66CFFOARTQ",
+    "position": 1,
+    "totalCategoryRatings": 171,
+    "totalCategoryReviews": 80,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJP97XL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJP97XL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJP97XL",
+    "productOriginalAsin": "B0DLJP97XL",
+    "variantAsin": "B0DLJP97XL",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJP97XL",
+    "country": "United States",
+    "countryCode": null
+  }
+]

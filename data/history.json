@@ -1874,16 +1874,16 @@
             "asin": "B09DB8XK9Y",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 1,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
-                "5": 0
+                "5": 4
               },
-              "total": 0,
-              "average": 0
+              "total": 6,
+              "average": 4
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 6,
             "cumulativeRating": 4.3,
             "prevCumulativeRating": 4.3
           },
@@ -2044,14 +2044,14 @@
             "asin": "B0FSG756Y3",
             "stats": {
               "stars": {
-                "1": 0,
+                "1": 2,
                 "2": 0,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 1
             },
             "newReviewsKeepa": 1,
             "cumulativeRating": 3.9,
@@ -2062,13 +2062,13 @@
             "stats": {
               "stars": {
                 "1": 0,
-                "2": 0,
+                "2": 1,
                 "3": 0,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 2
             },
             "newReviewsKeepa": 4,
             "cumulativeRating": 4.1,
@@ -2137,10 +2137,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 5
             },
             "newReviewsKeepa": 35,
             "cumulativeRating": 4.7,
@@ -2186,12 +2186,12 @@
               "stars": {
                 "1": 0,
                 "2": 0,
-                "3": 0,
+                "3": 1,
                 "4": 0,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 3
             },
             "newReviewsKeepa": 4,
             "cumulativeRating": 4.6,
@@ -2204,11 +2204,11 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0,
+                "4": 2,
                 "5": 0
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 4
             },
             "newReviewsKeepa": 34,
             "cumulativeRating": 4.6,
@@ -2221,13 +2221,13 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0,
-                "5": 0
+                "4": 1,
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 4.67
             },
-            "newReviewsKeepa": 3,
+            "newReviewsKeepa": 4,
             "cumulativeRating": 4.9,
             "prevCumulativeRating": 5
           },
@@ -2239,10 +2239,10 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 1
               },
-              "total": 0,
-              "average": 0
+              "total": 1,
+              "average": 5
             },
             "newReviewsKeepa": 2,
             "cumulativeRating": 4.5,
@@ -2345,12 +2345,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 2
               },
-              "total": 0,
-              "average": 0
+              "total": 2,
+              "average": 5
             },
-            "newReviewsKeepa": 7,
+            "newReviewsKeepa": 6,
             "cumulativeRating": 4.4,
             "prevCumulativeRating": 4.4
           },
@@ -2396,12 +2396,12 @@
                 "2": 0,
                 "3": 0,
                 "4": 0,
-                "5": 0
+                "5": 3
               },
-              "total": 0,
-              "average": 0
+              "total": 3,
+              "average": 5
             },
-            "newReviewsKeepa": 0,
+            "newReviewsKeepa": 3,
             "cumulativeRating": 5,
             "prevCumulativeRating": 5
           }
