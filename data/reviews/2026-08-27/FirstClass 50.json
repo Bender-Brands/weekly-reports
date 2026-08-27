@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Didn't even work properly out of the box",
+    "reviewDescription": "The headphones never paired properly out of the box. It was not worth wasting my time and just returned them. The build quality did not look that good either compared to the soundcore headphones",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R3MRSQXZ8ZPL2K",
+    "date": "2026-08-23",
+    "reviewedIn": "Reviewed in the United States on August 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3MRSQXZ8ZPL2K",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJSGCBWYWIPDOTI7GCPGPQVKFYA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFJSGCBWYWIPDOTI7GCPGPQVKFYA",
+    "position": 1,
+    "totalCategoryRatings": 178,
+    "totalCategoryReviews": 64,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DHJ5HWWW?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DHJ5HWWW&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DHJ5HWWW",
+    "productOriginalAsin": "B0DHJ5HWWW",
+    "variantAsin": "B0DHJ5HWWW",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DHJ5HWWW",
+    "country": "United States",
+    "countryCode": null
+  }
+]
