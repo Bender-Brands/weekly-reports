@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Works great!",
+    "reviewDescription": "Perfect size for my laptop",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2022IVBFBDK85",
+    "date": "2026-08-31",
+    "reviewedIn": "Reviewed in the United States on August 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2022IVBFBDK85",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 3. Sage",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "3. Sage"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHKIHHWNUBMAPHWVOTXZMPZEFSHA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHKIHHWNUBMAPHWVOTXZMPZEFSHA",
+    "position": 1,
+    "totalCategoryRatings": 145,
+    "totalCategoryReviews": 54,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJP97XL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJP97XL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJP97XL",
+    "productOriginalAsin": "B0DLJP97XL",
+    "variantAsin": "B0DLJP97XL",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJP97XL",
+    "country": "United States",
+    "countryCode": null
+  }
+]

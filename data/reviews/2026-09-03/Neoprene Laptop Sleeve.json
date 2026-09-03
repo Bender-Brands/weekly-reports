@@ -1,0 +1,42 @@
+[
+  {
+    "reviewTitle": "Love this!",
+    "reviewDescription": "This computer case is worth every dollar! It’s so bright and pretty in person, and the quality is great! It actually feels like it will protect my computer from bumps instead of just being a sleeve protector!",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71+r2AE4EgL._SY88.jpg"
+    ],
+    "reviewId": "R2XMYOY0CVENPT",
+    "date": "2026-08-28",
+    "reviewedIn": "Reviewed in the United States on August 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2XMYOY0CVENPT",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: a. Blue Ginham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "a. Blue Ginham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGMHAUYQSGUUN4YNJEV4DAUTMRPQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGMHAUYQSGUUN4YNJEV4DAUTMRPQ",
+    "position": 1,
+    "totalCategoryRatings": 1071,
+    "totalCategoryReviews": 333,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0B3BNMDXM?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0B3BNMDXM&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0B3BNMDXM",
+    "productOriginalAsin": "B0B3BNMDXM",
+    "variantAsin": "B0B3BNMDXM",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0B3BNMDXM",
+    "country": "United States",
+    "countryCode": null
+  }
+]

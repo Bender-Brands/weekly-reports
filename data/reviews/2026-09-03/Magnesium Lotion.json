@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "A lovely scented cream and more!",
+    "reviewDescription": "It actually has seemed to help ease my foot neuropathy. Go figure. 😲",
+    "ratingScore": 4,
+    "reviewImages": [],
+    "reviewId": "R2O9XFY48ZEA2U",
+    "date": "2026-08-29",
+    "reviewedIn": "Reviewed in the United States on August 29, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2O9XFY48ZEA2U",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDTW2UZCF5Z5KJIWBAVU3S6LNOA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEDTW2UZCF5Z5KJIWBAVU3S6LNOA",
+    "position": 1,
+    "totalCategoryRatings": 268,
+    "totalCategoryReviews": 106,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHJ5J97Y?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHJ5J97Y&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHJ5J97Y",
+    "productOriginalAsin": "B0FHJ5J97Y",
+    "variantAsin": "B0FHJ5J97Y",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHJ5J97Y",
+    "country": "United States",
+    "countryCode": null
+  }
+]

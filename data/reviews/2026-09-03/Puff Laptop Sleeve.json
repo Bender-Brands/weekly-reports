@@ -1,0 +1,42 @@
+[
+  {
+    "reviewTitle": "So cute!!!!",
+    "reviewDescription": "I really like this laptop sleeve. It’s super cute in person and the padding feels really soft and protective. My laptop fits nicely inside and feels very secure.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/61TW9VctWaL._SY88.jpg"
+    ],
+    "reviewId": "R1WI3NBN4S3WHF",
+    "date": "2026-08-31",
+    "reviewedIn": "Reviewed in the United States on August 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1WI3NBN4S3WHF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: b. Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "b. Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFM4BVMDB5KP74KDFNEZD56B2PMQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFM4BVMDB5KP74KDFNEZD56B2PMQ",
+    "position": 1,
+    "totalCategoryRatings": 5871,
+    "totalCategoryReviews": 1245,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GZRLJVKL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GZRLJVKL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GZRLJVKL",
+    "productOriginalAsin": "B0GZRLJVKL",
+    "variantAsin": "B0GZRLJVKL",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GZRLJVKL",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Laptop Cover",
+    "reviewDescription": "Loved it, it’s extremely práctica and easy to carry the laptop around",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3R4FFB2W7TOU5",
+    "date": "2026-08-27",
+    "reviewedIn": "Reviewed in the United States on August 27, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3R4FFB2W7TOU5",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHDSM52PTU6WEC765XXOFRJ37BRQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHDSM52PTU6WEC765XXOFRJ37BRQ",
+    "position": 1,
+    "totalCategoryRatings": 72,
+    "totalCategoryReviews": 65,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLRWBV64?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLRWBV64&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLRWBV64",
+    "productOriginalAsin": "B0FLRWBV64",
+    "variantAsin": "B0FLRWBV64",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLRWBV64",
+    "country": "United States",
+    "countryCode": null
+  }
+]

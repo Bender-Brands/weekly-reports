@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Adorable and cushioned",
+    "reviewDescription": "Though my 14in Chromebook is a pretty tight fit around the zipper, I love it so much <3",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R29N8Z8C3L96R2",
+    "date": "2026-08-27",
+    "reviewedIn": "Reviewed in the United States on August 27, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R29N8Z8C3L96R2",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: c. Checker Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "c. Checker Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6NZNNRODSZ7RY66JQVI7D7TFDA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG6NZNNRODSZ7RY66JQVI7D7TFDA",
+    "position": 1,
+    "totalCategoryRatings": 39,
+    "totalCategoryReviews": 15,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DJ3NYZQ6?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DJ3NYZQ6&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DJ3NYZQ6",
+    "productOriginalAsin": "B0DJ3NYZQ6",
+    "variantAsin": "B0DJ3NYZQ6",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DJ3NYZQ6",
+    "country": "United States",
+    "countryCode": null
+  }
+]

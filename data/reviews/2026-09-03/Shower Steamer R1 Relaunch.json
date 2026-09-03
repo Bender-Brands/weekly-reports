@@ -1,0 +1,80 @@
+[
+  {
+    "reviewTitle": "must buy",
+    "reviewDescription": "Such a lovely product ! the shower steamer made my night shower so relaxing, and i slept amazing!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R208JJTMJ9LBJ4",
+    "date": "2026-08-28",
+    "reviewedIn": "Reviewed in the United States on August 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R208JJTMJ9LBJ4",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF6XQ6LTYQWCOFAHVT4EGFT6NGZQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AF6XQ6LTYQWCOFAHVT4EGFT6NGZQ",
+    "position": 1,
+    "totalCategoryRatings": 12,
+    "totalCategoryReviews": 7,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GYZWSTT7?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GYZWSTT7&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GYZWSTT7",
+    "productOriginalAsin": "B0GYZWSTT7",
+    "variantAsin": "B0GYZWSTT7",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GYZWSTT7",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Shower steamers",
+    "reviewDescription": "I have trouble sleeping. I found that the shower steamers help and I particularly like the lavender scent.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71p+Z-UZH3L._SY88.jpg"
+    ],
+    "reviewId": "R1M6PQNXQWE6XF",
+    "date": "2026-08-28",
+    "reviewedIn": "Reviewed in the United States on August 28, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1M6PQNXQWE6XF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6CJUTALJSKXGEQFHOVQ2M7XZFQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AE6CJUTALJSKXGEQFHOVQ2M7XZFQ",
+    "position": 2,
+    "totalCategoryRatings": 12,
+    "totalCategoryReviews": 7,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GYZWSTT7?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GYZWSTT7&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GYZWSTT7",
+    "productOriginalAsin": "B0GYZWSTT7",
+    "variantAsin": "B0GYZWSTT7",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GYZWSTT7",
+    "country": "United States",
+    "countryCode": null
+  }
+]

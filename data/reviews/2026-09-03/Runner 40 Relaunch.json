@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Great earbuds with a secure lightweight fit on your ears!",
+    "reviewDescription": "These are great earbuds! The sound and clarity is very good and they feel secure on your ears which eliminates the fear of losing them or falling off your ears.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R326X32V65T3PM",
+    "date": "2026-08-31",
+    "reviewedIn": "Reviewed in the United States on August 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R326X32V65T3PM",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHGZTDXUL6T3SMJF5ISTP7FMJVVQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHGZTDXUL6T3SMJF5ISTP7FMJVVQ",
+    "position": 1,
+    "totalCategoryRatings": 188,
+    "totalCategoryReviews": 128,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLFR2RGD?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLFR2RGD&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLFR2RGD",
+    "productOriginalAsin": "B0FLFR2RGD",
+    "variantAsin": "B0FLFR2RGD",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLFR2RGD",
+    "country": "United States",
+    "countryCode": null
+  }
+]
