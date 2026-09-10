@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Great packing cubes",
+    "reviewDescription": "Love these cubes! Zippers have held up even with compressing a full cube.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RBQXS296ROTV3",
+    "date": "2026-09-06",
+    "reviewedIn": "Reviewed in the United States on September 6, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RBQXS296ROTV3",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCRFORUCNPWSK6RSIXNASGYHEDA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFCRFORUCNPWSK6RSIXNASGYHEDA",
+    "position": 1,
+    "totalCategoryRatings": 257,
+    "totalCategoryReviews": 71,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJGP565?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJGP565&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJGP565",
+    "productOriginalAsin": "B0DLJGP565",
+    "variantAsin": "B0DLJGP565",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJGP565",
+    "country": "United States",
+    "countryCode": null
+  }
+]
