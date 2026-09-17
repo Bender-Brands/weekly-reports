@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Excelente producto",
+    "reviewDescription": "Cumple conforme lo solicitado y esperado",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1JT51OAEPER24",
+    "date": "2026-09-13",
+    "reviewedIn": "Reviewed in the United States on September 13, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1JT51OAEPER24",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Yellow",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Yellow"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGB655NGCHPGYA6MDO7E5US4DXEA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGB655NGCHPGYA6MDO7E5US4DXEA",
+    "position": 1,
+    "totalCategoryRatings": 59,
+    "totalCategoryReviews": 28,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DCHF8KVY?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DCHF8KVY&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DCHF8KVY",
+    "productOriginalAsin": "B0DCHF8KVY",
+    "variantAsin": "B0DCHF8KVY",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DCHF8KVY",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Would recommend",
+    "reviewDescription": "Quality product! Bright, secure, perfect for my phone and key fob.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R27FWM38IDI6UW",
+    "date": "2026-09-11",
+    "reviewedIn": "Reviewed in the United States on September 11, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R27FWM38IDI6UW",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Yellow",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Yellow"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4RN2Y35SLV2XO42D5CIRG6LYWQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AE4RN2Y35SLV2XO42D5CIRG6LYWQ",
+    "position": 2,
+    "totalCategoryRatings": 59,
+    "totalCategoryReviews": 28,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DCHF8KVY?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DCHF8KVY&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DCHF8KVY",
+    "productOriginalAsin": "B0DCHF8KVY",
+    "variantAsin": "B0DCHF8KVY",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DCHF8KVY",
+    "country": "United States",
+    "countryCode": null
+  }
+]

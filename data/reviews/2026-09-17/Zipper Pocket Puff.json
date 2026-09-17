@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Love it",
+    "reviewDescription": "Love love. Such a cute and practical case for day to day use.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1GYJ2PH2KM4CZ",
+    "date": "2026-09-12",
+    "reviewedIn": "Reviewed in the United States on September 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1GYJ2PH2KM4CZ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWPTUUCOXVF7C623GBLCO5OJDAQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGWPTUUCOXVF7C623GBLCO5OJDAQ",
+    "position": 1,
+    "totalCategoryRatings": 74,
+    "totalCategoryReviews": 66,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLS63H8Y?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLS63H8Y&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLS63H8Y",
+    "productOriginalAsin": "B0FLS63H8Y",
+    "variantAsin": "B0FLS63H8Y",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLS63H8Y",
+    "country": "United States",
+    "countryCode": null
+  }
+]

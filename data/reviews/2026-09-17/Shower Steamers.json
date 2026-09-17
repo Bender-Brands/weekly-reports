@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Spa shower",
+    "reviewDescription": "Smells great, but they don’t last very long",
+    "ratingScore": 4,
+    "reviewImages": [],
+    "reviewId": "R1N61HRYNLW8KG",
+    "date": "2026-09-11",
+    "reviewedIn": "Reviewed in the United States on September 11, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1N61HRYNLW8KG",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Scent: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Scent",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZ7MZBVSPCCT3FI3XIWZSFM42RA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFZ7MZBVSPCCT3FI3XIWZSFM42RA",
+    "position": 1,
+    "totalCategoryRatings": 78,
+    "totalCategoryReviews": 57,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FHBT66MD?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FHBT66MD&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FHBT66MD",
+    "productOriginalAsin": "B0FHBT66MD",
+    "variantAsin": "B0FHBT66MD",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FHBT66MD",
+    "country": "United States",
+    "countryCode": null
+  }
+]

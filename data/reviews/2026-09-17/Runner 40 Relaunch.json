@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Audífono malo",
+    "reviewDescription": "Un audífono parece que no carga batería.",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R36P3PU1LBFRVT",
+    "date": "2026-09-12",
+    "reviewedIn": "Reviewed in the United States on September 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R36P3PU1LBFRVT",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: White",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "White"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AECQJZJRTN7JGHCURPP47CJ6NMVA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AECQJZJRTN7JGHCURPP47CJ6NMVA",
+    "position": 1,
+    "totalCategoryRatings": 191,
+    "totalCategoryReviews": 130,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DT34DY5Q?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DT34DY5Q&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DT34DY5Q",
+    "productOriginalAsin": "B0DT34DY5Q",
+    "variantAsin": "B0DT34DY5Q",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DT34DY5Q",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Good product",
+    "reviewDescription": "Nice and working better",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R35UQW2AZ08JVP",
+    "date": "2026-09-11",
+    "reviewedIn": "Reviewed in the United States on September 11, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R35UQW2AZ08JVP",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDLDM2GSXY4UZ4YT6RTRFIHX4UQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGDLDM2GSXY4UZ4YT6RTRFIHX4UQ",
+    "position": 2,
+    "totalCategoryRatings": 191,
+    "totalCategoryReviews": 130,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DT34DY5Q?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DT34DY5Q&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DT34DY5Q",
+    "productOriginalAsin": "B0DT34DY5Q",
+    "variantAsin": "B0DT34DY5Q",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DT34DY5Q",
+    "country": "United States",
+    "countryCode": null
+  }
+]

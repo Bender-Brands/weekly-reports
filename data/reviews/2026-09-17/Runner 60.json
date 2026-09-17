@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Not reliable",
+    "reviewDescription": "After 3 months one ear bud stopped working.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R14YYTAZ4NCO7G",
+    "date": "2026-09-13",
+    "reviewedIn": "Reviewed in the United States on September 13, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R14YYTAZ4NCO7G",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: Runner 60",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "Runner 60"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHHUOIMAORDD3NG7BME5PZVQG37Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHHUOIMAORDD3NG7BME5PZVQG37Q",
+    "position": 1,
+    "totalCategoryRatings": 1340,
+    "totalCategoryReviews": 565,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0BV4XZ2S1?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0BV4XZ2S1&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0BV4XZ2S1",
+    "productOriginalAsin": "B0BV4XZ2S1",
+    "variantAsin": "B0BV4XZ2S1",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0BV4XZ2S1",
+    "country": "United States",
+    "countryCode": null
+  }
+]
