@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Gift for my husband",
+    "reviewDescription": "My husband loved it for our last long trip",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R70LEB4TLY0X",
+    "date": "2026-09-21",
+    "reviewedIn": "Reviewed in the United States on September 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R70LEB4TLY0X",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPDD54ZR2ZH5JF2XYMZNLLZEMLA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHPDD54ZR2ZH5JF2XYMZNLLZEMLA",
+    "position": 1,
+    "totalCategoryRatings": 160,
+    "totalCategoryReviews": 119,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRX8KHN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRX8KHN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRX8KHN",
+    "productOriginalAsin": "B0FDRX8KHN",
+    "variantAsin": "B0FDRX8KHN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDRX8KHN",
+    "country": "United States",
+    "countryCode": null
+  }
+]

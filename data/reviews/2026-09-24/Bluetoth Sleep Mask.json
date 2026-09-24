@@ -1,0 +1,116 @@
+[
+  {
+    "reviewTitle": "Perfect!",
+    "reviewDescription": "Good sound quality, comfortable and washable!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R28QZWH8ONHUSM",
+    "date": "2026-09-20",
+    "reviewedIn": "Reviewed in the United States on September 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R28QZWH8ONHUSM",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Rose",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Rose"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHUI7MTE3ICURNHN3N7G4A2N7AA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFHUI7MTE3ICURNHN3N7G4A2N7AA",
+    "position": 1,
+    "totalCategoryRatings": 342,
+    "totalCategoryReviews": 215,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM6VJNPK",
+    "productOriginalAsin": "B0DM6VJNPK",
+    "variantAsin": "B0DM6VJNPK",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Uncomfortable fit for me",
+    "reviewDescription": "I liked the concept, but could never get the earbuds into a position that wouldn't hurt my ears after use so I had to stop using it",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R38R7WRXZPY8UJ",
+    "date": "2026-09-20",
+    "reviewedIn": "Reviewed in the United States on September 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R38R7WRXZPY8UJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Navy",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Navy"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFMD6SN3DUZW4RWDWST7IKWFMO3Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFMD6SN3DUZW4RWDWST7IKWFMO3Q",
+    "position": 2,
+    "totalCategoryRatings": 342,
+    "totalCategoryReviews": 215,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM6VJNPK",
+    "productOriginalAsin": "B0DM6VJNPK",
+    "variantAsin": "B0DM6VJNPK",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Bad durability, awkward charging",
+    "reviewDescription": "Broke in a couple months. Felt nice, battery was never a problem. Bad durability, the charger port is also weird to access.",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R2S3Q8QGMJDSBI",
+    "date": "2026-09-19",
+    "reviewedIn": "Reviewed in the United States on September 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2S3Q8QGMJDSBI",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHWZ6LO6WSBTOG2IEZWMGN6N75CQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHWZ6LO6WSBTOG2IEZWMGN6N75CQ",
+    "position": 3,
+    "totalCategoryRatings": 342,
+    "totalCategoryReviews": 215,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM6VJNPK",
+    "productOriginalAsin": "B0DM6VJNPK",
+    "variantAsin": "B0DM6VJNPK",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
+    "country": "United States",
+    "countryCode": null
+  }
+]

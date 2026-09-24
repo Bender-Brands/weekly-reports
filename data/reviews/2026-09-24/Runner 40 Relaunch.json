@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Terrible battery life",
+    "reviewDescription": "30 hour battery life is a complete lie, these last for roughly 20 minutes.",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R2726UNFRP5KAC",
+    "date": "2026-09-18",
+    "reviewedIn": "Reviewed in the United States on September 18, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2726UNFRP5KAC",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHICX76DOVV7BNKF2R24SEVZNQRA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHICX76DOVV7BNKF2R24SEVZNQRA",
+    "position": 1,
+    "totalCategoryRatings": 193,
+    "totalCategoryReviews": 132,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLFWR1BG?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLFWR1BG&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLFWR1BG",
+    "productOriginalAsin": "B0FLFWR1BG",
+    "variantAsin": "B0FLFWR1BG",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLFWR1BG",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "1 year only",
+    "reviewDescription": "Good for 1 year After 1 year, they stopped working. And even during that year, the sweat would turn them off and on, lower the volume, and even skip tracks.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R16WPGZBB2FTJJ",
+    "date": "2026-09-17",
+    "reviewedIn": "Reviewed in the United States on September 17, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R16WPGZBB2FTJJ",
+    "reviewReaction": null,
+    "isVerified": false,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHVXZXQ42MLX3RBDEWVLEYIXHGWA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHVXZXQ42MLX3RBDEWVLEYIXHGWA",
+    "position": 2,
+    "totalCategoryRatings": 193,
+    "totalCategoryReviews": 132,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FLFWR1BG?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FLFWR1BG&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FLFWR1BG",
+    "productOriginalAsin": "B0FLFWR1BG",
+    "variantAsin": "B0FLFWR1BG",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FLFWR1BG",
+    "country": "United States",
+    "countryCode": null
+  }
+]

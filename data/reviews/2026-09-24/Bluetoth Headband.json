@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Not impressed.",
+    "reviewDescription": "The controller was in backwards and upside down. I had to change it around using a small opening.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R2ZYB8JSMKYGE5",
+    "date": "2026-09-19",
+    "reviewedIn": "Reviewed in the United States on September 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2ZYB8JSMKYGE5",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFGLQBBM7IG7LJLV2IZFCHPVDGXA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFGLQBBM7IG7LJLV2IZFCHPVDGXA",
+    "position": 1,
+    "totalCategoryRatings": 128,
+    "totalCategoryReviews": 84,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DNTX3217?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DNTX3217&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DNTX3217",
+    "productOriginalAsin": "B0DNTX3217",
+    "variantAsin": "B0DNTX3217",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DNTX3217",
+    "country": "United States",
+    "countryCode": null
+  }
+]

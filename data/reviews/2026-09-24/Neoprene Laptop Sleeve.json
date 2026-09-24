@@ -1,0 +1,80 @@
+[
+  {
+    "reviewTitle": "Great laptop case. Good value.",
+    "reviewDescription": "My middle schooler loves this laptop case and uses it daily at school.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1E6HX6L6AKTBP",
+    "date": "2026-09-22",
+    "reviewedIn": "Reviewed in the United States on September 22, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1E6HX6L6AKTBP",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Black Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Black Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEM7X4ZI7KPQITL7LWROVDOOVBLA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEM7X4ZI7KPQITL7LWROVDOOVBLA",
+    "position": 1,
+    "totalCategoryRatings": 1094,
+    "totalCategoryReviews": 342,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0B3BNMDXM?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0B3BNMDXM&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0B3BNMDXM",
+    "productOriginalAsin": "B0B3BNMDXM",
+    "variantAsin": "B0B3BNMDXM",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0B3BNMDXM",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Really nice case!",
+    "reviewDescription": "This is perfect for my new Mac Book Air. Love the color and the soft plush interior. Enough room for the electrical plug, a pair of readers and a pen. I also bought a rubber case for the electrical plug ( orange ) from Amazon to prevent the plug from scratching the laptop.",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T1/images/I/71arCc1jTOL._SY88.jpg"
+    ],
+    "reviewId": "R3FIFM0TORFSYP",
+    "date": "2026-09-17",
+    "reviewedIn": "Reviewed in the United States on September 17, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3FIFM0TORFSYP",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: d. Pink Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "d. Pink Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQAUOX4L54FHET7Q4JNW5H447QQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFQAUOX4L54FHET7Q4JNW5H447QQ",
+    "position": 2,
+    "totalCategoryRatings": 1094,
+    "totalCategoryReviews": 342,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0B3BNMDXM?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0B3BNMDXM&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0B3BNMDXM",
+    "productOriginalAsin": "B0B3BNMDXM",
+    "variantAsin": "B0B3BNMDXM",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0B3BNMDXM",
+    "country": "United States",
+    "countryCode": null
+  }
+]
