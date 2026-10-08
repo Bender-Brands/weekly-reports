@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Pure lavender",
+    "reviewDescription": "It feels amazing! Pure lavender before bed is so relaxing , very happy with my purchase",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2S5561VIK5SRD",
+    "date": "2026-10-06",
+    "reviewedIn": "Reviewed in the United States on October 6, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2S5561VIK5SRD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Set name: 8oz Lotion",
+    "variantAttributes": [
+      {
+        "key": "Set name",
+        "value": "8oz Lotion"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHCZ6R6TTJVFD22DL62TQU2NSUPQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHCZ6R6TTJVFD22DL62TQU2NSUPQ",
+    "position": 1,
+    "totalCategoryRatings": 347,
+    "totalCategoryReviews": 157,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0H2FXYT22?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0H2FXYT22&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0H2FXYT22",
+    "productOriginalAsin": "B0H2FXYT22",
+    "variantAsin": "B0H2FXYT22",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0H2FXYT22",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Smells really nice",
+    "reviewDescription": "I’ve been using this before bed and really like the lavender smell. It feels nice on the skin and is easy to apply. I like adding it to my nighttime routine. So far, I’m happy with it!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2BR34BSL54SCQ",
+    "date": "2026-10-03",
+    "reviewedIn": "Reviewed in the United States on October 3, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2BR34BSL54SCQ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Set name: 4oz Butter",
+    "variantAttributes": [
+      {
+        "key": "Set name",
+        "value": "4oz Butter"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPTK5XGG6UF5VFBGEI5GVTUTC7Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHPTK5XGG6UF5VFBGEI5GVTUTC7Q",
+    "position": 2,
+    "totalCategoryRatings": 347,
+    "totalCategoryReviews": 157,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0H2FXYT22?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0H2FXYT22&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0H2FXYT22",
+    "productOriginalAsin": "B0H2FXYT22",
+    "variantAsin": "B0H2FXYT22",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0H2FXYT22",
+    "country": "United States",
+    "countryCode": null
+  }
+]

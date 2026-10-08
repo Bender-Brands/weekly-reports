@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Great quality and super cute",
+    "reviewDescription": "I really like this product. It’s cute, simple to use, and feels like good quality. I also love the pink color! It has been very convenient and I’m happy with it so far. Definitely a nice product to have.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3NZGFBOJUE5BJ",
+    "date": "2026-10-02",
+    "reviewedIn": "Reviewed in the United States on October 2, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3NZGFBOJUE5BJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZHHXQAAOF6V2CUI2KVJKA2LR3Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEZHHXQAAOF6V2CUI2KVJKA2LR3Q",
+    "position": 1,
+    "totalCategoryRatings": 122,
+    "totalCategoryReviews": 67,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8FFQ22?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8FFQ22&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8FFQ22",
+    "productOriginalAsin": "B0FN8FFQ22",
+    "variantAsin": "B0FN8FFQ22",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8FFQ22",
+    "country": "United States",
+    "countryCode": null
+  }
+]

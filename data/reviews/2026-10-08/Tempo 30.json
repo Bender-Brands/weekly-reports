@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Too big for my ears",
+    "reviewDescription": "Even these are big for my ears and fall out of if I don’t position them just perfectly. One day I will find the perfect fit. Sigh",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R3O0ZTDTG6TV3P",
+    "date": "2026-10-05",
+    "reviewedIn": "Reviewed in the United States on October 5, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3O0ZTDTG6TV3P",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: C. Rose Gold",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "C. Rose Gold"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEAFBODDUNWRWJXV7SHCOPWGRJSA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEAFBODDUNWRWJXV7SHCOPWGRJSA",
+    "position": 1,
+    "totalCategoryRatings": 11182,
+    "totalCategoryReviews": 3550,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GWY4SS5J?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GWY4SS5J&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GWY4SS5J",
+    "productOriginalAsin": "B0GWY4SS5J",
+    "variantAsin": "B0GWY4SS5J",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GWY4SS5J",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Title",
+    "reviewDescription": "Great",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R91VW6F5E6VAD",
+    "date": "2026-10-01",
+    "reviewedIn": "Reviewed in the United States on October 1, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R91VW6F5E6VAD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: M. White",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "M. White"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGPVVOLHHMOZ3FXQ765C3OAS2J7A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGPVVOLHHMOZ3FXQ765C3OAS2J7A",
+    "position": 2,
+    "totalCategoryRatings": 11182,
+    "totalCategoryReviews": 3550,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GWY4SS5J?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GWY4SS5J&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GWY4SS5J",
+    "productOriginalAsin": "B0GWY4SS5J",
+    "variantAsin": "B0GWY4SS5J",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GWY4SS5J",
+    "country": "United States",
+    "countryCode": null
+  }
+]

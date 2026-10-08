@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "great case",
+    "reviewDescription": "great case for the price! it fits my macbook perfectly and is super durable and keeps it safe from break and scratches. super easy to use and comparable for all laptops around the size of a macbook!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RVCAZO8ZU2EQ7",
+    "date": "2026-10-06",
+    "reviewedIn": "Reviewed in the United States on October 6, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RVCAZO8ZU2EQ7",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Black Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Black Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGFEGQHWQZDYFCRHGLZNZLKNEMWA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGFEGQHWQZDYFCRHGLZNZLKNEMWA",
+    "position": 1,
+    "totalCategoryRatings": 1108,
+    "totalCategoryReviews": 344,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0CYXNLZYD?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0CYXNLZYD&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0CYXNLZYD",
+    "productOriginalAsin": "B0CYXNLZYD",
+    "variantAsin": "B0CYXNLZYD",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0CYXNLZYD",
+    "country": "United States",
+    "countryCode": null
+  }
+]

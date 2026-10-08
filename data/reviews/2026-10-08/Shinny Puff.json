@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Great product. And bonus it’s cute!",
+    "reviewDescription": "Exactly as pictured. So cute and padded to do the job as well!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1B2BSYDT68PHF",
+    "date": "2026-10-03",
+    "reviewedIn": "Reviewed in the United States on October 3, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1B2BSYDT68PHF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: i. Shiny Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "i. Shiny Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AH3DXBHQZP4WIKKOAKXCBIWKSN7A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AH3DXBHQZP4WIKKOAKXCBIWKSN7A",
+    "position": 1,
+    "totalCategoryRatings": 329,
+    "totalCategoryReviews": 111,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6R7LSHT?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6R7LSHT&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6R7LSHT",
+    "productOriginalAsin": "B0C6R7LSHT",
+    "variantAsin": "B0C6R7LSHT",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6R7LSHT",
+    "country": "United States",
+    "countryCode": null
+  }
+]
