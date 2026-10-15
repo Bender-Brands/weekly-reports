@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Cute little makeup bag",
+    "reviewDescription": "Absolutely love it. It’s cute compact, and fits all my makeup and brushes.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3E31CG1P179DU",
+    "date": "2026-10-12",
+    "reviewedIn": "Reviewed in the United States on October 12, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3E31CG1P179DU",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEY33423LKKAYAJTSMPXC5AV2DVA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEY33423LKKAYAJTSMPXC5AV2DVA",
+    "position": 1,
+    "totalCategoryRatings": 160,
+    "totalCategoryReviews": 118,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FDRFXHMV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FDRFXHMV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FDRFXHMV",
+    "productOriginalAsin": "B0FDRFXHMV",
+    "variantAsin": "B0FDRFXHMV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FDRFXHMV",
+    "country": "United States",
+    "countryCode": null
+  }
+]

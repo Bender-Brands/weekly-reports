@@ -1,0 +1,116 @@
+[
+  {
+    "reviewTitle": "A great buy!",
+    "reviewDescription": "Love it, perfect solution to keep my laptop & charger together",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1XHC2YBFCTY7J",
+    "date": "2026-10-10",
+    "reviewedIn": "Reviewed in the United States on October 10, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1XHC2YBFCTY7J",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Chocolate",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Chocolate"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLN66YPV5P54L4U2RKDBEQE2RBQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHLN66YPV5P54L4U2RKDBEQE2RBQ",
+    "position": 1,
+    "totalCategoryRatings": 5930,
+    "totalCategoryReviews": 1265,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09HSS4SFL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09HSS4SFL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09HSS4SFL",
+    "productOriginalAsin": "B09HSS4SFL",
+    "variantAsin": "B09HSS4SFL",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09HSS4SFL",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Nice",
+    "reviewDescription": "It was nice, and i unfortunately cannot find it by now",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3TVNLW63JHDTE",
+    "date": "2026-10-08",
+    "reviewedIn": "Reviewed in the United States on October 8, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3TVNLW63JHDTE",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: h. Sage Green",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "h. Sage Green"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGAQMPKXFNCJYYKFEPPFQTKXZOPQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGAQMPKXFNCJYYKFEPPFQTKXZOPQ",
+    "position": 2,
+    "totalCategoryRatings": 5930,
+    "totalCategoryReviews": 1265,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09HSS4SFL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09HSS4SFL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09HSS4SFL",
+    "productOriginalAsin": "B09HSS4SFL",
+    "variantAsin": "B09HSS4SFL",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09HSS4SFL",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Quality",
+    "reviewDescription": "Perfect size, so soft, protects my laptop so great! I love it.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R28SB58RZD87JM",
+    "date": "2026-10-08",
+    "reviewedIn": "Reviewed in the United States on October 8, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R28SB58RZD87JM",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: b. Blue Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "b. Blue Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUUXO24PHTORZONNR535CHTIFVA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFUUXO24PHTORZONNR535CHTIFVA",
+    "position": 3,
+    "totalCategoryRatings": 5930,
+    "totalCategoryReviews": 1265,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09HSS4SFL?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09HSS4SFL&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09HSS4SFL",
+    "productOriginalAsin": "B09HSS4SFL",
+    "variantAsin": "B09HSS4SFL",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09HSS4SFL",
+    "country": "United States",
+    "countryCode": null
+  }
+]

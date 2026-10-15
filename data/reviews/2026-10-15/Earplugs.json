@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Completely ineffective",
+    "reviewDescription": "These do NOT cancel noise at all. Completely worthless to those who struggle with sleeping next to someone who snores",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R3DXZUUX9KVAZ9",
+    "date": "2026-10-10",
+    "reviewedIn": "Reviewed in the United States on October 10, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3DXZUUX9KVAZ9",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDKRS7HZNI3OHOWM3QV6KYUEH2Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGDKRS7HZNI3OHOWM3QV6KYUEH2Q",
+    "position": 1,
+    "totalCategoryRatings": 79,
+    "totalCategoryReviews": 27,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Pretty good",
+    "reviewDescription": "The lid very hard to open",
+    "ratingScore": 4,
+    "reviewImages": [],
+    "reviewId": "R2ZL2HTU8GFEBF",
+    "date": "2026-10-09",
+    "reviewedIn": "Reviewed in the United States on October 9, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2ZL2HTU8GFEBF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHZDYCHRECEV52M6U7T2GC5OPIEA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHZDYCHRECEV52M6U7T2GC5OPIEA",
+    "position": 1,
+    "totalCategoryRatings": 126,
+    "totalCategoryReviews": 68,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8G2H2G?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8G2H2G&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8G2H2G",
+    "productOriginalAsin": "B0FN8G2H2G",
+    "variantAsin": "B0FN8G2H2G",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8G2H2G",
+    "country": "United States",
+    "countryCode": null
+  }
+]
