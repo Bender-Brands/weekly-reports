@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Horrible smell",
+    "reviewDescription": "Smelled so strong of chemicals",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R2U8NWPBNXMAYJ",
+    "date": "2026-10-19",
+    "reviewedIn": "Reviewed in the United States on October 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2U8NWPBNXMAYJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Black Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Black Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AERBWLBEG6QFAX3XOFFWOGOMFQOA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AERBWLBEG6QFAX3XOFFWOGOMFQOA",
+    "position": 1,
+    "totalCategoryRatings": 1118,
+    "totalCategoryReviews": 348,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GYYZ3YW6?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GYYZ3YW6&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GYYZ3YW6",
+    "productOriginalAsin": "B0GYYZ3YW6",
+    "variantAsin": "B0GYYZ3YW6",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GYYZ3YW6",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Cutest case!",
+    "reviewDescription": "This laptop case is the cutest! I’m obsessed with the pattern and high quality",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RXDALU1PXXZSC",
+    "date": "2026-10-17",
+    "reviewedIn": "Reviewed in the United States on October 17, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RXDALU1PXXZSC",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: c. Pink Gingham",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "c. Pink Gingham"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJN5TXXACAG2XJ7WREO3ZE73MGQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEJN5TXXACAG2XJ7WREO3ZE73MGQ",
+    "position": 2,
+    "totalCategoryRatings": 1118,
+    "totalCategoryReviews": 348,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0GYYZ3YW6?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0GYYZ3YW6&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0GYYZ3YW6",
+    "productOriginalAsin": "B0GYYZ3YW6",
+    "variantAsin": "B0GYYZ3YW6",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0GYYZ3YW6",
+    "country": "United States",
+    "countryCode": null
+  }
+]

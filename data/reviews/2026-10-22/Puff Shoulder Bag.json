@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Make sure you measure before ordering",
+    "reviewDescription": "Didn’t fit my laptop, I had to return it. Cute though",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "RRUKMSOT35LWO",
+    "date": "2026-10-19",
+    "reviewedIn": "Reviewed in the United States on October 19, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RRUKMSOT35LWO",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 1. Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "1. Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGESGOHUCPVCZRE5QOWEF6HOVPVQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGESGOHUCPVCZRE5QOWEF6HOVPVQ",
+    "position": 1,
+    "totalCategoryRatings": 163,
+    "totalCategoryReviews": 61,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJMNGTS?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJMNGTS&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJMNGTS",
+    "productOriginalAsin": "B0DLJMNGTS",
+    "variantAsin": "B0DLJMNGTS",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJMNGTS",
+    "country": "United States",
+    "countryCode": null
+  }
+]

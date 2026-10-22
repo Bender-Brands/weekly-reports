@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Corrodes easily",
+    "reviewDescription": "Quality is good for the price but this is the second one I have to return. The right headphone corroded at the points both times. I’m done",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R1NNJWR39G0YM9",
+    "date": "2026-10-16",
+    "reviewedIn": "Reviewed in the United States on October 16, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1NNJWR39G0YM9",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Size: Runner 60",
+    "variantAttributes": [
+      {
+        "key": "Size",
+        "value": "Runner 60"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AERTNIOIA4EBOYRJ4KFSLGTXOBPA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AERTNIOIA4EBOYRJ4KFSLGTXOBPA",
+    "position": 1,
+    "totalCategoryRatings": 1336,
+    "totalCategoryReviews": 562,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0BV4XZ2S1?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0BV4XZ2S1&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0BV4XZ2S1",
+    "productOriginalAsin": "B0BV4XZ2S1",
+    "variantAsin": "B0BV4XZ2S1",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0BV4XZ2S1",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Cute!",
+    "reviewDescription": "Love it so much!!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3AH65RKDV8PK4",
+    "date": "2026-10-18",
+    "reviewedIn": "Reviewed in the United States on October 18, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3AH65RKDV8PK4",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: s. Grid Blue Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "s. Grid Blue Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWYNHHW4MEL2UNZES7AEZ5RJJTQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFWYNHHW4MEL2UNZES7AEZ5RJJTQ",
+    "position": 1,
+    "totalCategoryRatings": 127,
+    "totalCategoryReviews": 56,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJL3WT7?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJL3WT7&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJL3WT7",
+    "productOriginalAsin": "B0DLJL3WT7",
+    "variantAsin": "B0DLJL3WT7",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJL3WT7",
+    "country": "United States",
+    "countryCode": null
+  }
+]
