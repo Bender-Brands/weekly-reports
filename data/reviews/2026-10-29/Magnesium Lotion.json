@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Don’t waist your money",
+    "reviewDescription": "Sorry too thick and it does nothing for my feet!",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R2WHXAFO6YH6G9",
+    "date": "2026-10-26",
+    "reviewedIn": "Reviewed in the United States on October 26, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2WHXAFO6YH6G9",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Set name: 4oz Cream Unscented",
+    "variantAttributes": [
+      {
+        "key": "Set name",
+        "value": "4oz Cream Unscented"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGMJ7EWTUQE4667DGV26QQF2RTFQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGMJ7EWTUQE4667DGV26QQF2RTFQ",
+    "position": 1,
+    "totalCategoryRatings": 390,
+    "totalCategoryReviews": 182,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  }
+]

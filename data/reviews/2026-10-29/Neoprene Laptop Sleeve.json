@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Sizing is off",
+    "reviewDescription": "Product was okay but I had to return it bc it was too small for the laptop it claimed to fit.",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "R1TEB771U0B87I",
+    "date": "2026-10-24",
+    "reviewedIn": "Reviewed in the United States on October 24, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1TEB771U0B87I",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Black Leopard",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Black Leopard"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEUIM3MLACZZN6MK57HW4XZKVUKQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEUIM3MLACZZN6MK57HW4XZKVUKQ",
+    "position": 1,
+    "totalCategoryRatings": 1124,
+    "totalCategoryReviews": 349,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0CYXKVKQZ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0CYXKVKQZ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0CYXKVKQZ",
+    "productOriginalAsin": "B0CYXKVKQZ",
+    "variantAsin": "B0CYXKVKQZ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0CYXKVKQZ",
+    "country": "United States",
+    "countryCode": null
+  }
+]

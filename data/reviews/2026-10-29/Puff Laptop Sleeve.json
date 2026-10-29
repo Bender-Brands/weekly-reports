@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "As advertised",
+    "reviewDescription": "Keeps laptop snug and it’s not too bulky for your backpack.",
+    "ratingScore": 4,
+    "reviewImages": [],
+    "reviewId": "R3QNWWQVPV4FRW",
+    "date": "2026-10-27",
+    "reviewedIn": "Reviewed in the United States on October 27, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3QNWWQVPV4FRW",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: g. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "g. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5FHVE7LCE2LDA6MPNMJS5CRIGA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG5FHVE7LCE2LDA6MPNMJS5CRIGA",
+    "position": 1,
+    "totalCategoryRatings": 5942,
+    "totalCategoryReviews": 1265,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0D465XD65?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0D465XD65&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0D465XD65",
+    "productOriginalAsin": "B0D465XD65",
+    "variantAsin": "B0D465XD65",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0D465XD65",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Quality good",
+    "reviewDescription": "I ordered a few different brands def the best love it!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RW5M2WE3B61PX",
+    "date": "2026-10-22",
+    "reviewedIn": "Reviewed in the United States on October 22, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RW5M2WE3B61PX",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: g. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "g. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKVX4QL6N6KCIAAASDQPCYEV2VQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGKVX4QL6N6KCIAAASDQPCYEV2VQ",
+    "position": 2,
+    "totalCategoryRatings": 5942,
+    "totalCategoryReviews": 1265,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0D465XD65?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0D465XD65&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0D465XD65",
+    "productOriginalAsin": "B0D465XD65",
+    "variantAsin": "B0D465XD65",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0D465XD65",
+    "country": "United States",
+    "countryCode": null
+  }
+]
