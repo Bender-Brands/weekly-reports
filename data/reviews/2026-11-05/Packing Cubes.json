@@ -1,0 +1,80 @@
+[
+  {
+    "reviewTitle": "Work great",
+    "reviewDescription": "Perfect for what I needed. Gonna buy another set for traveling",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1L01YVBMMGHD5",
+    "date": "2026-10-31",
+    "reviewedIn": "Reviewed in the United States on October 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1L01YVBMMGHD5",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 7. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "7. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOCA2GNIFYMXSVFEKOOXMCIJZXA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFOCA2GNIFYMXSVFEKOOXMCIJZXA",
+    "position": 1,
+    "totalCategoryRatings": 274,
+    "totalCategoryReviews": 78,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJGP565?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJGP565&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJGP565",
+    "productOriginalAsin": "B0DLJGP565",
+    "variantAsin": "B0DLJGP565",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJGP565",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Good quality",
+    "reviewDescription": "I wish they were bigger but quality is great and I like that they expand",
+    "ratingScore": 4,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/81gr8YsEy4L._SY88.jpg"
+    ],
+    "reviewId": "R4EGLLOPLIRCR",
+    "date": "2026-10-29",
+    "reviewedIn": "Reviewed in the United States on October 29, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R4EGLLOPLIRCR",
+    "reviewReaction": "1",
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: 5. Pink Polka Dot",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "5. Pink Polka Dot"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKFXJLMW63LO4R3XANZL3ZARQ2A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGKFXJLMW63LO4R3XANZL3ZARQ2A",
+    "position": 2,
+    "totalCategoryRatings": 274,
+    "totalCategoryReviews": 78,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DLJGP565?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DLJGP565&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DLJGP565",
+    "productOriginalAsin": "B0DLJGP565",
+    "variantAsin": "B0DLJGP565",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DLJGP565",
+    "country": "United States",
+    "countryCode": null
+  }
+]

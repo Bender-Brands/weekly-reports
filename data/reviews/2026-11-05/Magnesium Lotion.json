@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Highly rated",
+    "reviewDescription": "Have recommended this cream to a few people already!!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RLBUU03BV59AP",
+    "date": "2026-11-01",
+    "reviewedIn": "Reviewed in the United States on November 1, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RLBUU03BV59AP",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Set name: 4oz Cream Unscented",
+    "variantAttributes": [
+      {
+        "key": "Set name",
+        "value": "4oz Cream Unscented"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4Z5J6CGHZE7POBADY3GW2W5JDQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AE4Z5J6CGHZE7POBADY3GW2W5JDQ",
+    "position": 1,
+    "totalCategoryRatings": 394,
+    "totalCategoryReviews": 187,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Cream",
+    "reviewDescription": "Seems to work. My restless legs go away after about 30 minutes",
+    "ratingScore": 4,
+    "reviewImages": [],
+    "reviewId": "R2P0PIX0R5O34",
+    "date": "2026-10-31",
+    "reviewedIn": "Reviewed in the United States on October 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2P0PIX0R5O34",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Set name: 4oz Cream",
+    "variantAttributes": [
+      {
+        "key": "Set name",
+        "value": "4oz Cream"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFNACEC65HMSED6ZHDI3YHKU7H3A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFNACEC65HMSED6ZHDI3YHKU7H3A",
+    "position": 2,
+    "totalCategoryRatings": 394,
+    "totalCategoryReviews": 187,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "5 star",
+    "reviewDescription": "I’ve had this for a few years and still use it. Easy to wash and clean. Durable. Cute. Has a good amount of space.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2AM281KH4U73Z",
+    "date": "2026-10-30",
+    "reviewedIn": "Reviewed in the United States on October 30, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2AM281KH4U73Z",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5J7T4SUIFAC5GZC3YEUJHHRAJQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AF5J7T4SUIFAC5GZC3YEUJHHRAJQ",
+    "position": 1,
+    "totalCategoryRatings": 462,
+    "totalCategoryReviews": 152,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C7BPNN7B?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C7BPNN7B&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C7BPNN7B",
+    "productOriginalAsin": "B0C7BPNN7B",
+    "variantAsin": "B0C7BPNN7B",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C7BPNN7B",
+    "country": "United States",
+    "countryCode": null
+  }
+]

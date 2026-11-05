@@ -1,0 +1,80 @@
+[
+  {
+    "reviewTitle": "Great product and fits all laptops",
+    "reviewDescription": "Great product and fits all laptops! Very soft as well.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R25W5PK3PQJFJG",
+    "date": "2026-11-03",
+    "reviewedIn": "Reviewed in the United States on November 3, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R25W5PK3PQJFJG",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: a. Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "a. Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3HIRZLCZTPDVDDLRWRTTHI4YEQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AE3HIRZLCZTPDVDDLRWRTTHI4YEQ",
+    "position": 1,
+    "totalCategoryRatings": 5954,
+    "totalCategoryReviews": 1269,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6P4Y2PG?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6P4Y2PG&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6P4Y2PG",
+    "productOriginalAsin": "B0C6P4Y2PG",
+    "variantAsin": "B0C6P4Y2PG",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6P4Y2PG",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "it looks like a real pillow",
+    "reviewDescription": "so fluffy!! looks like a pillow for sure! i love it!",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/I/71aSzU1AZVL._SY88.jpg"
+    ],
+    "reviewId": "R2R5IXTF7DQHWN",
+    "date": "2026-10-31",
+    "reviewedIn": "Reviewed in the United States on October 31, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2R5IXTF7DQHWN",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: a. Sand",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "a. Sand"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AF622QFVHHAKXP5ZSP2UKMC3JQ3A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AF622QFVHHAKXP5ZSP2UKMC3JQ3A",
+    "position": 2,
+    "totalCategoryRatings": 5954,
+    "totalCategoryReviews": 1269,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0C6P4Y2PG?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0C6P4Y2PG&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0C6P4Y2PG",
+    "productOriginalAsin": "B0C6P4Y2PG",
+    "variantAsin": "B0C6P4Y2PG",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0C6P4Y2PG",
+    "country": "United States",
+    "countryCode": null
+  }
+]

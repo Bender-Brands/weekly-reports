@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Sucky earbuds",
+    "reviewDescription": "I absolutely hate them they won’t hold a charge and they have a lot of static",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "RQULPVG32681K",
+    "date": "2026-10-29",
+    "reviewedIn": "Reviewed in the United States on October 29, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RQULPVG32681K",
+    "reviewReaction": null,
+    "isVerified": false,
+    "isAmazonVine": false,
+    "variant": "Color: C. Rose Gold",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "C. Rose Gold"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPLH5LCGNJLD43YQHHYDUJ26GOQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFPLH5LCGNJLD43YQHHYDUJ26GOQ",
+    "position": 1,
+    "totalCategoryRatings": 13779,
+    "totalCategoryReviews": 4460,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B0H2BJHQFG",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0H2BJHQFG",
+    "country": "United States",
+    "countryCode": null
+  }
+]
