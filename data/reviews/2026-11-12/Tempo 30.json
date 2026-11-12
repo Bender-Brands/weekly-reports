@@ -1,0 +1,37 @@
+[
+  {
+    "reviewTitle": "G",
+    "reviewDescription": "It’s good",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71J+aNJW6eL._SY88.jpg"
+    ],
+    "reviewId": "RMNFJLAN6HITW",
+    "date": "2026-11-06",
+    "reviewedIn": "Reviewed in the United States on November 6, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RMNFJLAN6HITW",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": null,
+    "variantAttributes": null,
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDF4RJTQPUIAMGIUPLVJOGDGZMA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGDF4RJTQPUIAMGIUPLVJOGDGZMA",
+    "position": 1,
+    "totalCategoryRatings": 13782,
+    "totalCategoryReviews": 4459,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0BTJ7SJBD?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0BTJ7SJBD&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0BTJ7SJBD",
+    "productOriginalAsin": "B0BTJ7SJBD",
+    "variantAsin": "B0BTJ7SJBD",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0BTJ7SJBD",
+    "country": "United States",
+    "countryCode": null
+  }
+]

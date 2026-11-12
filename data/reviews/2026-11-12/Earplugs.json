@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Work well",
+    "reviewDescription": "Great!",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1XJL5SKCM9YVD",
+    "date": "2026-11-05",
+    "reviewedIn": "Reviewed in the United States on November 5, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1XJL5SKCM9YVD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFAPJE5NKJRU4TRKELEDCVTE4RPA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFAPJE5NKJRU4TRKELEDCVTE4RPA",
+    "position": 1,
+    "totalCategoryRatings": 146,
+    "totalCategoryReviews": 73,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8G2H2G?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8G2H2G&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8G2H2G",
+    "productOriginalAsin": "B0FN8G2H2G",
+    "variantAsin": "B0FN8G2H2G",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8G2H2G",
+    "country": "United States",
+    "countryCode": null
+  },
+  {
+    "reviewTitle": "Very very small for any kid 10 or older",
+    "reviewDescription": "Very very small for any kid 10 or older. Maybe suitable for very small kids.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R1FQI4EIQ1CK05",
+    "date": "2026-11-05",
+    "reviewedIn": "Reviewed in the United States on November 5, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1FQI4EIQ1CK05",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUDDDTRWZOVB4VDKOOLOKJN4MFA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFUDDDTRWZOVB4VDKOOLOKJN4MFA",
+    "position": 2,
+    "totalCategoryRatings": 146,
+    "totalCategoryReviews": 73,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8G2H2G?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8G2H2G&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8G2H2G",
+    "productOriginalAsin": "B0FN8G2H2G",
+    "variantAsin": "B0FN8G2H2G",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8G2H2G",
+    "country": "United States",
+    "countryCode": null
+  }
+]
