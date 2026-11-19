@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Comfortable fit (all sizes). Excellent sound protection.",
+    "reviewDescription": "Excellent. Comfortable fit (all sizes). Excellent sound protection.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R22OELCCSTH7VV",
+    "date": "2026-11-13",
+    "reviewedIn": "Reviewed in the United States on November 13, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R22OELCCSTH7VV",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4JI6SAKNCGVGQPSXMKV3GUCY3Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG4JI6SAKNCGVGQPSXMKV3GUCY3Q",
+    "position": 1,
+    "totalCategoryRatings": 85,
+    "totalCategoryReviews": 28,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FMH2L2QV?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FMH2L2QV&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FMH2L2QV",
+    "productOriginalAsin": "B0FMH2L2QV",
+    "variantAsin": "B0FMH2L2QV",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FMH2L2QV",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "Soft and durable",
+    "reviewDescription": "Soft and durable material. The sound blocking seems good as it helped us a lot. My kid wears them and the classroom noise problem is solved. The little case that came with them is very useful and the use instructions helped me explain to my kid how to wear them.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RHG63EPXCHVJF",
+    "date": "2026-11-15",
+    "reviewedIn": "Reviewed in the United States on November 15, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RHG63EPXCHVJF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Blue",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFVGSTXZTR46TE5KGQNMCL5NVU3Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFVGSTXZTR46TE5KGQNMCL5NVU3Q",
+    "position": 1,
+    "totalCategoryRatings": 150,
+    "totalCategoryReviews": 74,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8D88TN?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8D88TN&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8D88TN",
+    "productOriginalAsin": "B0FN8D88TN",
+    "variantAsin": "B0FN8D88TN",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8D88TN",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]

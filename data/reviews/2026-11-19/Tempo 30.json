@@ -1,0 +1,271 @@
+[
+  {
+    "reviewTitle": "Great product",
+    "reviewDescription": "Nice quality. Great purchase",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1XYTJD7XDFSTV",
+    "date": "2026-11-16",
+    "reviewedIn": "Reviewed in the United States on November 16, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1XYTJD7XDFSTV",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: F. Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "F. Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHT33OCZNUTYOPRXNZR647LZQP7Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHT33OCZNUTYOPRXNZR647LZQP7Q",
+    "position": 1,
+    "totalCategoryRatings": 13784,
+    "totalCategoryReviews": 4462,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B09DLCG8BQ",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09DLCG8BQ",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "The tapping sensor is really annoying",
+    "reviewDescription": "The tapping sensor is really annoying. Doesn't seem to work very well.",
+    "ratingScore": 3,
+    "reviewImages": [],
+    "reviewId": "RAH2VSHSL9LOY",
+    "date": "2026-11-16",
+    "reviewedIn": "Reviewed in the United States on November 16, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RAH2VSHSL9LOY",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: A. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "A. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDIEAE5PR2LTZALWSTWSOLMY4SQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AGDIEAE5PR2LTZALWSTWSOLMY4SQ",
+    "position": 2,
+    "totalCategoryRatings": 13784,
+    "totalCategoryReviews": 4462,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B09DLCG8BQ",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09DLCG8BQ",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "2pairs of the Back Bay Audio Earbuds where defective",
+    "reviewDescription": "2pairs of the Back Bay Audio Earbuds where defective",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R82SX6NEH5QYR",
+    "date": "2026-11-16",
+    "reviewedIn": "Reviewed in the United States on November 16, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R82SX6NEH5QYR",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: A. Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "A. Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXO7WRBHUNFOWCJI6RO2A7YJMTQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFXO7WRBHUNFOWCJI6RO2A7YJMTQ",
+    "position": 3,
+    "totalCategoryRatings": 13784,
+    "totalCategoryReviews": 4462,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B09DLCG8BQ",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09DLCG8BQ",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "My Favorite",
+    "reviewDescription": "I love these headphones, I have a pair at work and one at home for housework.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R2ZQPJPFDIGH7W",
+    "date": "2026-11-15",
+    "reviewedIn": "Reviewed in the United States on November 15, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2ZQPJPFDIGH7W",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: B. Lavender",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "B. Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVMQWJCDWTVMOOOL5UTJIKBWNXQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEVMQWJCDWTVMOOOL5UTJIKBWNXQ",
+    "position": 4,
+    "totalCategoryRatings": 13784,
+    "totalCategoryReviews": 4462,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B09DLCG8BQ",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09DLCG8BQ",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "Love them",
+    "reviewDescription": "Very happy with this purchase. They work great and fit comfortably. This is actually the second pair I have purchased because my 12 year old also loves them and she commandeered my first pair. They have good sound quality and great battery life.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1P5KFZO74O98G",
+    "date": "2026-11-14",
+    "reviewedIn": "Reviewed in the United States on November 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1P5KFZO74O98G",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: D. Champagne",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "D. Champagne"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6RZH3SCWGRS6H27IFO6CT6Q22Q/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG6RZH3SCWGRS6H27IFO6CT6Q22Q",
+    "position": 5,
+    "totalCategoryRatings": 13784,
+    "totalCategoryReviews": 4462,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B09DLCG8BQ",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09DLCG8BQ",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "Music all day",
+    "reviewDescription": "Perfect fit and great sound",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RIOJGUWRQW3WO",
+    "date": "2026-11-14",
+    "reviewedIn": "Reviewed in the United States on November 14, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RIOJGUWRQW3WO",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: B. Lavender",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "B. Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4B7KEM4GN53WTI5QGWNT54RKKA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG4B7KEM4GN53WTI5QGWNT54RKKA",
+    "position": 6,
+    "totalCategoryRatings": 13784,
+    "totalCategoryReviews": 4462,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B09DLCG8BQ",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09DLCG8BQ",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "3 Years and STILL GOING STRONG!!",
+    "reviewDescription": "These are by far the sturdiest and most long-lasting earbuds I have had. I use them daily during my commute to work and while studying at night. Despite wearing them all the time, they are very comfy because of the wide range of ear tip options. After 3 years, I would expect some quality drop in terms of sound and charge. HOWEVER! The full charge still lasts me about 10 days which is impressive given how often I listen to music. Also a note about waterproof capabilities: it is fantastic! I do high impact (sweaty) work outs and also wear these when I’m walking the dog in the rain — these have yet to fail me so far!! I even got another pair for my friend and my partner is addicted to their sleep mask. Fab brand with a loyal customer!!",
+    "ratingScore": 5,
+    "reviewImages": [
+      "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81+ayZS2bHL._SY88.jpg",
+      "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81wgX+QrSwL._SY88.jpg"
+    ],
+    "reviewId": "R3T3Z352CXHL77",
+    "date": "2026-11-13",
+    "reviewedIn": "Reviewed in the United States on November 13, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3T3Z352CXHL77",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: B. Lavender",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "B. Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6I27M56JEJJR5ZJTUTEYDIXGPQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG6I27M56JEJJR5ZJTUTEYDIXGPQ",
+    "position": 7,
+    "totalCategoryRatings": 13784,
+    "totalCategoryReviews": 4462,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B09DLCG8BQ?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B09DLCG8BQ&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B09DLCG8BQ",
+    "productOriginalAsin": "B09DLCG8BQ",
+    "variantAsin": "B09DLCG8BQ",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B09DLCG8BQ",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]
