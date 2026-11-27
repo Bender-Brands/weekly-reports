@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Really worked for me!",
+    "reviewDescription": "I was really skeptical about purchasing this product. I have purchased so many products that do not do what they claim. I was pleasantly surprised at how quickly this worked on my restless leg syndrome. I would recommend you give it a shot, and I hope it works as well for you.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3D7LFJGHTJ2EN",
+    "date": "2026-11-24",
+    "reviewedIn": "Reviewed in the United States on November 24, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3D7LFJGHTJ2EN",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Set name: 4oz Cream",
+    "variantAttributes": [
+      {
+        "key": "Set name",
+        "value": "4oz Cream"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AFVXOTUGZEWO4Q6GA73AYG2UNWVA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AFVXOTUGZEWO4Q6GA73AYG2UNWVA",
+    "position": 1,
+    "totalCategoryRatings": 410,
+    "totalCategoryReviews": 194,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "Love it!",
+    "reviewDescription": "No more calf or foot cramps and it helps me go to sleep.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "RO2G755DQE0JD",
+    "date": "2026-11-21",
+    "reviewedIn": "Reviewed in the United States on November 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RO2G755DQE0JD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Set name: 4oz Cream Unscented",
+    "variantAttributes": [
+      {
+        "key": "Set name",
+        "value": "4oz Cream Unscented"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7VPTFMH45RNA6SRCOWGFM3FGSQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AE7VPTFMH45RNA6SRCOWGFM3FGSQ",
+    "position": 2,
+    "totalCategoryRatings": 410,
+    "totalCategoryReviews": 194,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FYQC7ZLP?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FYQC7ZLP&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FYQC7ZLP",
+    "productOriginalAsin": "B0FYQC7ZLP",
+    "variantAsin": "B0FYQC7ZLP",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FYQC7ZLP",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]

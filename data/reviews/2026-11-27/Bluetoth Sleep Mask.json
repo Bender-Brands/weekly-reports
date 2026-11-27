@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "Love my sleep mask and recommend",
+    "reviewDescription": "Love my sleep mask so much, it helps my insomnia and has become a part of my routine. Very comfortable, I’ve had zero issues with sound quality, and the charge lasts a long time. Also works great for plane rides.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1CQRZFA85H6O7",
+    "date": "2026-11-23",
+    "reviewedIn": "Reviewed in the United States on November 23, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1CQRZFA85H6O7",
+    "reviewReaction": null,
+    "isVerified": false,
+    "isAmazonVine": false,
+    "variant": "Color: Rose",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Rose"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBPJW34U67FUUOTO7K44P7KYYUQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHBPJW34U67FUUOTO7K44P7KYYUQ",
+    "position": 1,
+    "totalCategoryRatings": 354,
+    "totalCategoryReviews": 219,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM6VJNPK",
+    "productOriginalAsin": "B0DM6VJNPK",
+    "variantAsin": "B0DM6VJNPK",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "I do like the sound quality but the outline of the buttons doesn’t match",
+    "reviewDescription": "Not so much blockage for the eyes but I do like the sound quality and I don’t need to charge it so often. Also the outline of the buttons doesn’t match the actual buttons",
+    "ratingScore": 4,
+    "reviewImages": [],
+    "reviewId": "R12KPE2K9ULV09",
+    "date": "2026-11-22",
+    "reviewedIn": "Reviewed in the United States on November 22, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R12KPE2K9ULV09",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Black",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Black"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHO4DYW2JDJEGTLVJWBHDMSRUWTQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHO4DYW2JDJEGTLVJWBHDMSRUWTQ",
+    "position": 2,
+    "totalCategoryRatings": 354,
+    "totalCategoryReviews": 219,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DM6VJNPK?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DM6VJNPK&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DM6VJNPK",
+    "productOriginalAsin": "B0DM6VJNPK",
+    "variantAsin": "B0DM6VJNPK",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DM6VJNPK",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]

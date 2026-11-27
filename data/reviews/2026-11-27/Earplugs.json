@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "These are nice but they don't stay in my daughter's ears",
+    "reviewDescription": "These are nice but they don't stay in my daughter's ears so she don't use them.",
+    "ratingScore": 2,
+    "reviewImages": [],
+    "reviewId": "R10HTZON1SCWAO",
+    "date": "2026-11-21",
+    "reviewedIn": "Reviewed in the United States on November 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R10HTZON1SCWAO",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYEGS2KVD2RAVZLXNABOGYDARKA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEYEGS2KVD2RAVZLXNABOGYDARKA",
+    "position": 1,
+    "totalCategoryRatings": 152,
+    "totalCategoryReviews": 75,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FN8G2H2G?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FN8G2H2G&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FN8G2H2G",
+    "productOriginalAsin": "B0FN8G2H2G",
+    "variantAsin": "B0FN8G2H2G",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FN8G2H2G",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]

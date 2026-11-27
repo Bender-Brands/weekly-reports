@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Great buds for the price.",
+    "reviewDescription": "Great buds for the price.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R3LNX0KCZ4XL3U",
+    "date": "2026-11-20",
+    "reviewedIn": "Reviewed in the United States on November 20, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3LNX0KCZ4XL3U",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Lavender",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Lavender"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AEUDLWWGOUC3RSYRRDBK64WW7PEQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AEUDLWWGOUC3RSYRRDBK64WW7PEQ",
+    "position": 1,
+    "totalCategoryRatings": 187,
+    "totalCategoryReviews": 66,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0DHJ5HWWW?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0DHJ5HWWW&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0DHJ5HWWW",
+    "productOriginalAsin": "B0DHJ5HWWW",
+    "variantAsin": "B0DHJ5HWWW",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0DHJ5HWWW",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "reviewTitle": "Great for my iPad when traveling",
+    "reviewDescription": "Great for my iPad when traveling. Stylish",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R36UKPWFGT6XAJ",
+    "date": "2026-11-21",
+    "reviewedIn": "Reviewed in the United States on November 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R36UKPWFGT6XAJ",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: e. Grid Neutral Checker",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "e. Grid Neutral Checker"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7EBDQOZZJNULVW3GBGKCKJDCCA/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG7EBDQOZZJNULVW3GBGKCKJDCCA",
+    "position": 1,
+    "totalCategoryRatings": 137,
+    "totalCategoryReviews": 60,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0FVGG2ZFW?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0FVGG2ZFW&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0FVGG2ZFW",
+    "productOriginalAsin": "B0FVGG2ZFW",
+    "variantAsin": "B0FVGG2ZFW",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0FVGG2ZFW",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]

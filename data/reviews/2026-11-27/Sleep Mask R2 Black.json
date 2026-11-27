@@ -1,0 +1,78 @@
+[
+  {
+    "reviewTitle": "It's so \"not\" ...",
+    "reviewDescription": "Everything about this is a \"not\" - not cooling, not comfortable, not easy to charge. Such a dissappointment",
+    "ratingScore": 1,
+    "reviewImages": [],
+    "reviewId": "R2WIS07JYQNVVD",
+    "date": "2026-11-24",
+    "reviewedIn": "Reviewed in the United States on November 24, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2WIS07JYQNVVD",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AHHLSU3ENLMIAODQD2Q5WSQ2WS4A/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AHHLSU3ENLMIAODQD2Q5WSQ2WS4A",
+    "position": 1,
+    "totalCategoryRatings": 61,
+    "totalCategoryReviews": 59,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0HKPV8B75?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0HKPV8B75&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0HKPV8B75",
+    "productOriginalAsin": "B0HKPV8B75",
+    "variantAsin": "B0HKPV8B75",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0HKPV8B75",
+    "country": "United States",
+    "countryCode": "US"
+  },
+  {
+    "reviewTitle": "Battery lasts forever",
+    "reviewDescription": "Battery lasts forever. I haven’t slept this good in a long time.",
+    "ratingScore": 5,
+    "reviewImages": [],
+    "reviewId": "R1DP9JQ91QJRVF",
+    "date": "2026-11-21",
+    "reviewedIn": "Reviewed in the United States on November 21, 2026",
+    "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1DP9JQ91QJRVF",
+    "reviewReaction": null,
+    "isVerified": true,
+    "isAmazonVine": false,
+    "variant": "Color: Pink",
+    "variantAttributes": [
+      {
+        "key": "Color",
+        "value": "Pink"
+      }
+    ],
+    "userProfileLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6WH6BGCHGWNZZI43ZXLZ762OHQ/ref=cm_cr_arp_d_gw_btm",
+    "userId": "AG6WH6BGCHGWNZZI43ZXLZ762OHQ",
+    "position": 2,
+    "totalCategoryRatings": 61,
+    "totalCategoryReviews": 59,
+    "reviewCategoryUrl": "https://www.amazon.com/product-reviews/B0HKPV8B75?pageNumber=1&filterByStar=all_stars&sortBy=recent&formatType=all_formats&asin=B0HKPV8B75&reftag=cm_cr_arp_d_paging_btm_next_1&scope=reviewsAjax0",
+    "filterByRating": "allStars",
+    "filterByKeyword": null,
+    "productAsin": "B0HKPV8B75",
+    "productOriginalAsin": "B0HKPV8B75",
+    "variantAsin": "B0HKPV8B75",
+    "product": {
+      "price": null,
+      "listPrice": null
+    },
+    "input": "https://www.amazon.com/dp/B0HKPV8B75",
+    "country": "United States",
+    "countryCode": "US"
+  }
+]
